@@ -601,7 +601,7 @@
       "02 Cascade Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Ground Pound|)}",
     "sort-key": "row-02-026"
   },
   {
@@ -651,7 +651,7 @@
       "02 Cascade Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptAll(|T-Rex| and |Ground Pound|)}",
     "sort-key": "row-02-031"
   },
   {
@@ -661,7 +661,7 @@
       "02 Cascade Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptAll(|T-Rex| and |Ground Pound|)}",
     "sort-key": "row-02-032"
   },
   {
@@ -671,7 +671,7 @@
       "02 Cascade Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Chain Chomp|)}",
     "sort-key": "row-02-033"
   },
   {
@@ -701,7 +701,7 @@
       "02 Cascade Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "|Momentum|",
     "sort-key": "row-02-036"
   },
   {
@@ -711,7 +711,7 @@
       "02 Cascade Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Homing Cap Throw|)}",
     "sort-key": "row-02-037"
   },
   {
@@ -1402,7 +1402,7 @@
       "03 Sand Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptAll(|Glydon| or |Dive|)}",
     "sort-key": "row-03-070"
   },
   {
@@ -1412,7 +1412,7 @@
       "03 Sand Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptAll(|Spark Pylon| or |Glydon|)}",
     "sort-key": "row-03-071"
   },
   {
@@ -1442,7 +1442,7 @@
       "03 Sand Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptAll(|Glydon| or |Jaxi|)} or |Cap Vault|",
     "sort-key": "row-03-074"
   },
   {
@@ -1452,7 +1452,7 @@
       "03 Sand Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Ground Pound|)}",
     "sort-key": "row-03-075"
   },
   {
@@ -1462,7 +1462,7 @@
       "03 Sand Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Bullet Bill|)}",
     "sort-key": "row-03-076"
   },
   {
@@ -1492,7 +1492,7 @@
       "03 Sand Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Jaxi|)}",
     "sort-key": "row-03-079"
   },
   {
@@ -1512,7 +1512,7 @@
       "03 Sand Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Goomba|)}",
     "sort-key": "row-03-081"
   },
   {
@@ -1532,7 +1532,7 @@
       "03 Sand Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptAll(|Spark Pylon| or |Jaxi|)}",
     "sort-key": "row-03-083"
   },
   {
@@ -1542,7 +1542,7 @@
       "03 Sand Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Moe-Eye|)}",
     "sort-key": "row-03-084"
   },
   {
@@ -1552,7 +1552,7 @@
       "03 Sand Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Moe-Eye|)}",
     "sort-key": "row-03-085"
   },
   {
@@ -1562,7 +1562,7 @@
       "03 Sand Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Spark Pylon|)}",
     "sort-key": "row-03-086"
   },
   {
@@ -1572,7 +1572,7 @@
       "03 Sand Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Spark Pylon|)}",
     "sort-key": "row-03-087"
   },
   {
@@ -1582,7 +1582,7 @@
       "03 Sand Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(Gushen)}",
     "sort-key": "row-03-088"
   },
   {
@@ -1592,7 +1592,7 @@
       "03 Sand Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(Gushen)}",
     "sort-key": "row-03-089"
   },
   {
@@ -1916,7 +1916,7 @@
       "04 Lake Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptAll(|Zipper| or |Swim|)}",
     "sort-key": "row-04-034"
   },
   {
@@ -1936,7 +1936,7 @@
       "04 Lake Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptAll(|Cheep Cheep| or |Ground Pound|)}",
     "sort-key": "row-04-036"
   },
   {
@@ -1946,7 +1946,7 @@
       "04 Lake Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptAll(|Ground Pound| and |Climb|)}",
     "sort-key": "row-04-037"
   },
   {
@@ -1966,7 +1966,7 @@
       "04 Lake Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(Goomba)}",
     "sort-key": "row-04-039"
   },
   {
@@ -1976,7 +1976,7 @@
       "04 Lake Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "({OptAll(|Zipper| and |Swim| and |Dive|)}) or |Cap Vault|",
     "sort-key": "row-04-040"
   },
   {
@@ -1986,7 +1986,7 @@
       "04 Lake Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(Frog)}",
     "sort-key": "row-04-041"
   },
   {
@@ -1996,7 +1996,7 @@
       "04 Lake Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(Frog)}",
     "sort-key": "row-04-042"
   },
   {
@@ -2510,7 +2510,7 @@
       "05 Wooded Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Uproot|)}",
     "sort-key": "row-05-055"
   },
   {
@@ -2530,7 +2530,7 @@
       "05 Wooded Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{Opt One(|Glydon|)} or ({Opt One(|Long Jump|)} and |Cap Vault|) or ({OptAll(|Uproot| and |Dive| and |Wall Jump|)})",
     "sort-key": "row-05-057"
   },
   {
@@ -2540,7 +2540,7 @@
       "05 Wooded Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Uproot|)}",
     "sort-key": "row-05-058"
   },
   {
@@ -2550,7 +2550,7 @@
       "05 Wooded Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Uproot|)}",
     "sort-key": "row-05-059"
   },
   {
@@ -2560,7 +2560,7 @@
       "05 Wooded Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "|Cap Vault| or {OptOne(|Glydon|)} or ({Opt All(|Long Jump| and |Dive|)})",
     "sort-key": "row-05-060"
   },
   {
@@ -2570,7 +2570,7 @@
       "05 Wooded Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Uproot|)}",
     "sort-key": "row-05-061"
   },
   {
@@ -2580,7 +2580,7 @@
       "05 Wooded Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Uproot|)}",
     "sort-key": "row-05-062"
   },
   {
@@ -2590,7 +2590,7 @@
       "05 Wooded Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptAll(|Uproot| or |Goomba|)} or |Cap Vault|",
     "sort-key": "row-05-063"
   },
   {
@@ -2600,7 +2600,7 @@
       "05 Wooded Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Fire Bro|)}",
     "sort-key": "row-05-064"
   },
   {
@@ -2610,7 +2610,7 @@
       "05 Wooded Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptAll(|Scarecrow| and |Swing|)}",
     "sort-key": "row-05-065"
   },
   {
@@ -2620,7 +2620,7 @@
       "05 Wooded Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Uproot|)}",
     "sort-key": "row-05-066"
   },
   {
@@ -2630,7 +2630,7 @@
       "05 Wooded Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Roll|)}",
     "sort-key": "row-05-067"
   },
   {
@@ -2640,7 +2640,7 @@
       "05 Wooded Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Uproot|)}",
     "sort-key": "row-05-068"
   },
   {
@@ -2650,7 +2650,7 @@
       "05 Wooded Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Uproot|)} and |Cap Vault|",
     "sort-key": "row-05-069"
   },
   {
@@ -2660,7 +2660,7 @@
       "05 Wooded Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Uproot|)}",
     "sort-key": "row-05-070"
   },
   {
@@ -2720,7 +2720,7 @@
       "05 Wooded Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Banzai Bill|)}",
     "sort-key": "row-05-076"
   },
   {
@@ -2750,7 +2750,7 @@
       "06 Cloud Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Ground Pound|)}",
     "sort-key": "row-06-003"
   },
   {
@@ -2760,7 +2760,7 @@
       "06 Cloud Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Ground Pound|)}",
     "sort-key": "row-06-004"
   },
   {
@@ -2780,7 +2780,7 @@
       "06 Cloud Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Ground Pound|)}",
     "sort-key": "row-06-006"
   },
   {
@@ -2790,7 +2790,7 @@
       "06 Cloud Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Picture Match Part (Goomba)|)}",
     "sort-key": "row-06-007"
   },
   {
@@ -3069,7 +3069,7 @@
       "07 Lost Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Ground Pound|)}",
     "sort-key": "row-07-028"
   },
   {
@@ -3079,7 +3079,7 @@
       "07 Lost Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Tropical Wiggler|)}",
     "sort-key": "row-07-029"
   },
   {
@@ -3089,7 +3089,7 @@
       "07 Lost Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptAll(|Ground Pound| and |Wall Jump| and |Dive|)}",
     "sort-key": "row-07-030"
   },
   {
@@ -3099,7 +3099,7 @@
       "07 Lost Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Scarecrow| and |Climb|)}",
     "sort-key": "row-07-031"
   },
   {
@@ -3109,7 +3109,7 @@
       "07 Lost Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Tropical Wiggler|)}",
     "sort-key": "row-07-032"
   },
   {
@@ -3119,7 +3119,7 @@
       "07 Lost Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Tropical Wiggler|)}",
     "sort-key": "row-07-033"
   },
   {
@@ -3129,7 +3129,7 @@
       "07 Lost Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptAll(|Lever| and |Ground Pound|)}",
     "sort-key": "row-07-034"
   },
   {
@@ -3139,7 +3139,7 @@
       "07 Lost Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Lava Bubble|)} or (|Cap Vault| and ({OptOne(|Triple Jump|)} or {OptOne(|Back Flip|)} or ({OptAll(|Ground Pound| and |Ground Pound Jump|)})))",
     "sort-key": "row-07-035"
   },
   {
@@ -3770,7 +3770,7 @@
       "08 Metro Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "|Cap Vault| or ({OptOne(|Ground Pound|)} and (|High Jump| or {OptOne(|Spin|)})",
     "sort-key": "row-08-067"
   },
   {
@@ -3780,7 +3780,7 @@
       "08 Metro Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptAll(|Spark Pylon| and |Ground Pound|)}",
     "sort-key": "row-08-068"
   },
   {
@@ -3810,7 +3810,7 @@
       "08 Metro Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Scarecrow|)} and |Momentum|",
     "sort-key": "row-08-071"
   },
   {
@@ -3820,7 +3820,7 @@
       "08 Metro Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Ground Pound|)}",
     "sort-key": "row-08-072"
   },
   {
@@ -3830,7 +3830,7 @@
       "08 Metro Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(|RC Car|)}",
     "sort-key": "row-08-073"
   },
   {
@@ -3840,7 +3840,7 @@
       "08 Metro Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+  "requires": "{OptOne(|Spark Pylon|)} and ({OptAll(|Long Jump| or |Dive|)})",
     "sort-key": "row-08-074"
   },
   {
@@ -3890,7 +3890,7 @@
       "08 Metro Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Hammer Bro|)}",
     "sort-key": "row-08-079"
   },
   {
@@ -3900,7 +3900,7 @@
       "08 Metro Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Motor Scooter|)}",
     "sort-key": "row-08-080"
   },
   {
@@ -3910,7 +3910,7 @@
       "08 Metro Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Motor Scooter|)}",
     "sort-key": "row-08-081"
   },
   {
@@ -4308,7 +4308,7 @@
       "09 Snow Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptAll(|Ty-foo| or |Long Jump| or |Dive| or |Triple Jump|)}",
     "sort-key": "row-09-038"
   },
   {
@@ -4338,7 +4338,7 @@
       "09 Snow Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptAll(|Spin| or |Side Flip| or |Back Flip|)} or ({OptAll(|Ground Pound| and |Ground Pound Jump|)})",
     "sort-key": "row-09-041"
   },
   {
@@ -4358,7 +4358,7 @@
       "09 Snow Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Ground Pound|)} and ()",
     "sort-key": "row-09-043"
   },
   {
@@ -4368,7 +4368,7 @@
       "09 Snow Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Cheep Cheep (Snow)|)} or ({OptAll(|Swim| and |Ground Pound|)})",
     "sort-key": "row-09-044"
   },
   {
@@ -4378,7 +4378,7 @@
       "09 Snow Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Ground Pound|)} and ({OptAll(|Swim| or |Ground Pound Jump|)})",
     "sort-key": "row-09-045"
   },
   {
@@ -4388,7 +4388,7 @@
       "09 Snow Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Ground Pound|)}",
     "sort-key": "row-09-046"
   },
   {
@@ -4398,7 +4398,7 @@
       "09 Snow Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Cheep Cheep (Snow)|)} or ({OptOne(|Swim|)} and ({OptAll(|Dive| or |Long Jump|)}))",
     "sort-key": "row-09-047"
   },
   {
@@ -4408,7 +4408,7 @@
       "09 Snow Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Goomba|)}",
     "sort-key": "row-09-048"
   },
   {
@@ -4418,7 +4418,7 @@
       "09 Snow Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Cheep Cheep (Snow)|)}",
     "sort-key": "row-09-049"
   },
   {
@@ -4448,7 +4448,7 @@
       "09 Snow Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Shiverian Racer|)}",
     "sort-key": "row-09-052"
   },
   {
@@ -4458,7 +4458,7 @@
       "09 Snow Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Shiverian Racer|)}",
     "sort-key": "row-09-053"
   },
   {
@@ -5067,7 +5067,7 @@
       "10 Seaside Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Gushen|)}",
     "sort-key": "row-10-058"
   },
   {
@@ -5087,7 +5087,7 @@
       "10 Seaside Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptAll(|Cheep Cheep| or |Swim|)}",
     "sort-key": "row-10-060"
   },
   {
@@ -5097,7 +5097,7 @@
       "10 Seaside Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptAll(|Cheep Cheep| or |Ground Pound|)}",
     "sort-key": "row-10-061"
   },
   {
@@ -5107,7 +5107,7 @@
       "10 Seaside Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Gushen|)}",
     "sort-key": "row-10-062"
   },
   {
@@ -5127,7 +5127,7 @@
       "10 Seaside Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Long Jump|)}",
     "sort-key": "row-10-064"
   },
   {
@@ -5147,7 +5147,7 @@
       "10 Seaside Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Cheep Cheep|)}",
     "sort-key": "row-10-066"
   },
   {
@@ -5157,7 +5157,7 @@
       "10 Seaside Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Swim|)} and ({OptAll(|Dive| or |Long Jump|)})",
     "sort-key": "row-10-067"
   },
   {
@@ -5167,7 +5167,7 @@
       "10 Seaside Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Pokio|)}",
     "sort-key": "row-10-068"
   },
   {
@@ -5177,7 +5177,7 @@
       "10 Seaside Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Pokio|)}",
     "sort-key": "row-10-069"
   },
   {
@@ -5786,7 +5786,7 @@
       "11 Luncheon Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Ground Pound|)}",
     "sort-key": "row-11-057"
   },
   {
@@ -5796,7 +5796,7 @@
       "11 Luncheon Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Lava Bubble|)}",
     "sort-key": "row-11-058"
   },
   {
@@ -5806,7 +5806,7 @@
       "11 Luncheon Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Long Jump|)}",
     "sort-key": "row-11-059"
   },
   {
@@ -5816,7 +5816,7 @@
       "11 Luncheon Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Ground Pound|)}",
     "sort-key": "row-11-060"
   },
   {
@@ -5826,7 +5826,7 @@
       "11 Luncheon Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Ground Pound|)}",
     "sort-key": "row-11-061"
   },
   {
@@ -5836,7 +5836,7 @@
       "11 Luncheon Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptAll(|Lava Bubble| and |Volbonan|)}",
     "sort-key": "row-11-062"
   },
   {
@@ -5846,7 +5846,7 @@
       "11 Luncheon Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Fire Bro|)}",
     "sort-key": "row-11-063"
   },
   {
@@ -5856,7 +5856,7 @@
       "11 Luncheon Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Fire Bro|)}",
     "sort-key": "row-11-064"
   },
   {
@@ -5886,7 +5886,7 @@
       "11 Luncheon Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Lava Bubble|)}",
     "sort-key": "row-11-067"
   },
   {
@@ -5896,7 +5896,7 @@
       "11 Luncheon Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Lava Bubble|)}",
     "sort-key": "row-11-068"
   },
   {
@@ -5961,7 +5961,7 @@
       "12 Ruined Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Spark Pylon|)}",
     "sort-key": "row-12-006"
   },
   {
@@ -5971,7 +5971,7 @@
       "12 Ruined Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Ground Pound|)} and (|High Jump| or {OptOne(|Spin|)} or ({OptAll(|Wall Jump| and |Dive|)}))",
     "sort-key": "row-12-007"
   },
   {
@@ -5981,7 +5981,7 @@
       "12 Ruined Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Spark Pylon|)}",
     "sort-key": "row-12-008"
   },
   {
@@ -5991,7 +5991,7 @@
       "12 Ruined Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Chargin' Chuck|)}",
     "sort-key": "row-12-009"
   },
   {
@@ -6001,7 +6001,7 @@
       "12 Ruined Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Chargin' Chuck|)}",
     "sort-key": "row-12-010"
   },
   {
@@ -6475,7 +6475,7 @@
       "13 Bowser Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Pokio|)}",
     "sort-key": "row-13-046"
   },
   {
@@ -6485,7 +6485,7 @@
       "13 Bowser Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Swim|)}",
     "sort-key": "row-13-047"
   },
   {
@@ -6505,7 +6505,7 @@
       "13 Bowser Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Pokio|)}",
     "sort-key": "row-13-049"
   },
   {
@@ -6525,7 +6525,7 @@
       "13 Bowser Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Goomba|)} or |Cap Vault|",
     "sort-key": "row-13-051"
   },
   {
@@ -6535,7 +6535,7 @@
       "13 Bowser Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Climb|)}",
     "sort-key": "row-13-052"
   },
   {
@@ -6555,7 +6555,7 @@
       "13 Bowser Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Pokio|)}",
     "sort-key": "row-13-054"
   },
   {
@@ -6565,7 +6565,7 @@
       "13 Bowser Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Spin Throw|)}",
     "sort-key": "row-13-055"
   },
   {
@@ -6575,7 +6575,7 @@
       "13 Bowser Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Spark Pylon|)}",
     "sort-key": "row-13-056"
   },
   {
@@ -6585,7 +6585,7 @@
       "13 Bowser Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Spark Pylon|)}",
     "sort-key": "row-13-057"
   },
   {
@@ -6595,7 +6595,7 @@
       "13 Bowser Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Spark Pylon|)} and |Momentum|",
     "sort-key": "row-13-058"
   },
   {
@@ -6605,7 +6605,7 @@
       "13 Bowser Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptAll(|Slingshot| and |Parabones|)}",
     "sort-key": "row-13-059"
   },
   {
@@ -6615,7 +6615,7 @@
       "13 Bowser Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptAll(|Slingshot| and |Parabones|)}",
     "sort-key": "row-13-060"
   },
   {
@@ -6625,7 +6625,7 @@
       "13 Bowser Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptAll(|Slingshot| and |Pokio|)}",
     "sort-key": "row-13-061"
   },
   {
@@ -6635,7 +6635,7 @@
       "13 Bowser Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptAll(|Slingshot| and |Pokio|)}",
     "sort-key": "row-13-062"
   },
   {
@@ -6934,7 +6934,7 @@
       "14 Moon Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Frog|)}",
     "sort-key": "row-14-030"
   },
   {
@@ -6964,7 +6964,7 @@
       "14 Moon Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "|Momentum| and {OptOne(Wall Jump)}",
     "sort-key": "row-14-033"
   },
   {
@@ -6974,7 +6974,7 @@
       "14 Moon Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Dash (2D)|)}",
     "sort-key": "row-14-034"
   },
   {
@@ -6984,7 +6984,7 @@
       "14 Moon Kingdom",
       "Moon Rock"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Dash (2D)|)}",
     "sort-key": "row-14-035"
   },
   {
@@ -7912,7 +7912,7 @@
       "15 Mushroom Kingdom",
       "Achievement"
     ],
-    "requires": "",
+    "requires": "|@Basic Captures:20| and |Lake Kingdom Rango Multimoon| and {OptOne(|Hold/Throw|)} and |Metro Kingdom Festival Multimoon| and |Snow Kingdom Bound Bowl Grand Prix Multimoon| and |Luncheon Kingdom Cave Story Moon| and |Parabones Skip| and (|Sand Kingdom Knucklotec Multimoon| or |Wooded Kingdom Torkdrift Multimoon| or {OptOne(|Wall Jump|)} or |Seaside Kingdom Mollusque-Lanceur Multimoon|)",
     "sort-key": "row-15-089"
   },
   {
@@ -7922,7 +7922,7 @@
       "15 Mushroom Kingdom",
       "Achievement"
     ],
-    "requires": "",
+    "requires": "|@Basic Captures:35| and |Lake Kingdom Rango Multimoon| and {OptOne(|Hold/Throw|)} and |Metro Kingdom Festival Multimoon| and |Snow Kingdom Bound Bowl Grand Prix Multimoon| and |Luncheon Kingdom Cave Story Moon| and |Parabones Skip| and (|Sand Kingdom Knucklotec Multimoon| or |Wooded Kingdom Torkdrift Multimoon| or {OptOne(|Wall Jump|)} or |Seaside Kingdom Mollusque-Lanceur Multimoon|)",
     "sort-key": "row-15-090"
   },
   {
@@ -7932,7 +7932,7 @@
       "15 Mushroom Kingdom",
       "Achievement"
     ],
-    "requires": "",
+    "requires": "|@Basic Captures:45| and |Lake Kingdom Rango Multimoon| and {OptOne(|Hold/Throw|)} and |Metro Kingdom Festival Multimoon| and |Snow Kingdom Bound Bowl Grand Prix Multimoon| and |Luncheon Kingdom Cave Story Moon| and |Parabones Skip| and (|Sand Kingdom Knucklotec Multimoon| or |Wooded Kingdom Torkdrift Multimoon| or {OptOne(|Wall Jump|)} or |Seaside Kingdom Mollusque-Lanceur Multimoon|)",
     "sort-key": "row-15-091"
   },
   {
@@ -8013,7 +8013,7 @@
       "15 Mushroom Kingdom",
       "Achievement"
     ],
-    "requires": "",
+    "requires": "{OptAll(|Ty-foo| and |Lava Bubble|)} and |Sand Kingdom Hariet Multimoon| and |Into the Lake| and |Wooded Kingdom Torkdrift Multimoon| and |Metro Kingdom Mechawiggler Multimoon| and |Snow Kingdom Bound Bowl Grand Prix Multimoon| and |Seaside Kingdom Mollusque-Lanceur Multimoon| and |Luncheon Kingdom Cave Story Moon| and |Post Game|",
     "sort-key": "row-15-099"
   },
   {
