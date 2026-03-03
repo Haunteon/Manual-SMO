@@ -7,13 +7,21 @@
   "starting_items": [
     {
       "items": [
-        "Frog",
-        "Spark Pylon",
-        "Chain Chomp",
         "Big Chain Chomp",
         "Broode's Chain Chomp"
       ],
       "_comment": "Capture Randomizer Items"
+    },
+    {
+      "items": [
+        "Frog",
+        "Spark Pylon",
+        "Chain Chomp"
+      ],
+      "yaml_option": [
+        "!min_capture_randomizer"
+      ],
+      "_comment": "Minimal Capture Randomizer Items"
     },
     {
       "items": [

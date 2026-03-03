@@ -43,6 +43,16 @@
       "default": false,
       "group": "Item Options"
     },
+    "min_capture_randomizer": {
+      "display_name": "Minimal Starting Captures",
+      "description": [
+        "Only start with Big Chain Chomp and Broode's Chain Chomp",
+        "If you don't have the item for it, immediately uncapture."
+      ],
+      "type": "Toggle",
+      "default": false,
+      "group": "Item Options"
+    },
     "capture_randomizer_extra": {
       "display_name": "Shuffle Extra Captures",
       "description": [
