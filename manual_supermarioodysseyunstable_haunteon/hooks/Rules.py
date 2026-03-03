@@ -97,3 +97,8 @@ def BeatBowser(world: World, multiworld: MultiWorld, state: CollectionState, pla
     if (state.count("Power Moon", player) >= get_option_value(multiworld, player, "moonsreqforcascade") + get_option_value(multiworld, player, "moonsreqforsand") + get_option_value(multiworld, player, "moonsreqforlake") + get_option_value(multiworld, player, "moonsreqforwooded") + get_option_value(multiworld, player, "moonsreqforlost") + get_option_value(multiworld, player, "moonsreqformetro") + get_option_value(multiworld, player, "moonsreqforsnow") + get_option_value(multiworld, player, "moonsreqforseaside") + get_option_value(multiworld, player, "moonsreqforluncheon") + get_option_value(multiworld, player, "moonsreqforruined") + get_option_value(multiworld, player, "moonsreqforbowser")):
         return True
     return False
+
+def DarkerEnabled(multiworld: MultiWorld,state: CollectionState, player: int, valueCount: str):
+    if get_option_value(multiworld, player, "goal") >= 3: #Darker Side or All Moons
+        return True
+    return f"{{ItemValue({valueCount})}}"
