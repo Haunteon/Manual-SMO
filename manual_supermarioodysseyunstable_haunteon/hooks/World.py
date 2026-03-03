@@ -101,7 +101,7 @@ def after_create_regions(world: World, multiworld: MultiWorld, player: int):
 #       will create 5 items that are the "useful trap" class
 # {"Item Name": {ItemClassification.useful: 5}} <- You can also use the classification directly
 def before_create_items_all(item_config: dict[str, int|dict], world: World, multiworld: MultiWorld, player: int) -> dict[str, int|dict]:
-    if get_option_value(multiworld, player, "goal") >= 1: #Anything except Festival
+    if get_option_value(multiworld, player, "goal") >= 1 and is_option_enabled(multiworld, player, "generic_moons"): # generic moons + Any Goal except Festival
         item_config["Power Moon"] = 248
         item_config["Progressive Kingdom Unlock"] = 7
     return item_config
