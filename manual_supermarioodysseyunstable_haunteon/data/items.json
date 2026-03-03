@@ -1,6 +1,6 @@
 [
   {
-    "count": "150",
+    "count": "110",
     "name": "Power Moon",
     "category": [
       "01 Moons",
@@ -82,7 +82,8 @@
     "name": "Metro Moon",
     "category": [
       "01 Moons",
-      "Specific"
+      "Specific",
+	  "Post Metro"
     ],
     "progression": true,
     "sort-key": "row-1-06",
@@ -161,7 +162,7 @@
     }
   },
   {
-    "count": "7",
+    "count": "3",
     "name": "Progressive Kingdom Unlock",
     "category": [
       "02 Kingdoms",
@@ -1088,7 +1089,7 @@
       "Basic Actions"
     ],
     "progression": true,
-    "sort-key": "row-4-03"
+    "sort-key": "row-4-04"
   },
   {
     "count": 1,
@@ -1098,7 +1099,7 @@
       "Basic Actions"
     ],
     "progression": true,
-    "sort-key": "row-4-04"
+    "sort-key": "row-4-03"
   },
   {
     "count": 1,
@@ -1118,7 +1119,7 @@
       "Basic Actions"
     ],
     "progression": true,
-    "sort-key": "row-4-06"
+    "sort-key": "row-4-23"
   },
   {
     "count": 1,
@@ -1128,7 +1129,7 @@
       "Basic Actions"
     ],
     "progression": true,
-    "sort-key": "row-4-07"
+    "sort-key": "row-4-11"
   },
   {
     "count": 1,
@@ -1138,7 +1139,7 @@
       "Basic Actions"
     ],
     "progression": true,
-    "sort-key": "row-4-08"
+    "sort-key": "row-4-12"
   },
   {
     "count": 1,
@@ -1148,7 +1149,7 @@
       "Basic Actions"
     ],
     "progression": true,
-    "sort-key": "row-4-09"
+    "sort-key": "row-4-13"
   },
   {
     "count": 1,
@@ -1158,7 +1159,7 @@
       "Basic Actions"
     ],
     "progression": true,
-    "sort-key": "row-4-10"
+    "sort-key": "row-4-22"
   },
   {
     "count": 1,
@@ -1168,7 +1169,7 @@
       "Basic Actions"
     ],
     "progression": true,
-    "sort-key": "row-4-11"
+    "sort-key": "row-4-10"
   },
   {
     "count": 1,
@@ -1178,7 +1179,7 @@
       "Basic Actions"
     ],
     "progression": true,
-    "sort-key": "row-4-12"
+    "sort-key": "row-4-14"
   },
   {
     "count": 1,
@@ -1188,7 +1189,7 @@
       "Basic Actions"
     ],
     "progression": true,
-    "sort-key": "row-4-13"
+    "sort-key": "row-4-06"
   },
   {
     "count": 1,
@@ -1198,7 +1199,7 @@
       "Basic Actions"
     ],
     "progression": true,
-    "sort-key": "row-4-14"
+    "sort-key": "row-4-07"
   },
   {
     "count": 1,
@@ -1208,7 +1209,7 @@
       "Basic Actions"
     ],
     "progression": true,
-    "sort-key": "row-4-15"
+    "sort-key": "row-4-08"
   },
   {
     "count": 1,
@@ -1218,7 +1219,7 @@
       "Basic Actions"
     ],
     "progression": true,
-    "sort-key": "row-4-16"
+    "sort-key": "row-4-15"
   },
   {
     "count": 1,
@@ -1228,7 +1229,7 @@
       "Basic Actions"
     ],
     "progression": true,
-    "sort-key": "row-4-17"
+    "sort-key": "row-4-16"
   },
   {
     "count": 1,
@@ -1238,17 +1239,7 @@
       "Basic Actions"
     ],
     "progression": true,
-    "sort-key": "row-4-18"
-  },
-  {
-    "count": 1,
-    "name": "Quick Swim",
-    "category": [
-      "04 Actions",
-      "Basic Actions"
-    ],
-    "progression": true,
-    "sort-key": "row-4-19"
+    "sort-key": "row-4-17"
   },
   {
     "count": 1,
@@ -1258,7 +1249,7 @@
       "Basic Actions"
     ],
     "progression": true,
-    "sort-key": "row-4-20"
+    "sort-key": "row-4-09"
   },
   {
     "count": 1,
@@ -1268,7 +1259,7 @@
       "Basic Actions"
     ],
     "progression": true,
-    "sort-key": "row-4-21"
+    "sort-key": "row-4-18"
   },
   {
     "count": 1,
@@ -1278,7 +1269,7 @@
       "Basic Actions"
     ],
     "progression": true,
-    "sort-key": "row-4-22"
+    "sort-key": "row-4-24"
   },
   {
     "count": 1,
@@ -1288,7 +1279,7 @@
       "Basic Actions"
     ],
     "progression": true,
-    "sort-key": "row-4-23"
+    "sort-key": "row-4-19"
   },
   {
     "count": 1,
@@ -1298,7 +1289,7 @@
       "Basic Actions"
     ],
     "progression": true,
-    "sort-key": "row-4-24"
+    "sort-key": "row-4-20"
   },
   {
     "count": 1,
@@ -1345,7 +1336,8 @@
     "name": "Caveman Headwear",
     "category": [
       "05 Outfits",
-      "Outfit Items"
+      "Outfit Items",
+	  "Post game"
     ],
     "progression": true,
     "sort-key": "row-5-01"
@@ -1355,7 +1347,8 @@
     "name": "Caveman Outfit",
     "category": [
       "05 Outfits",
-      "Outfit Items"
+      "Outfit Items",
+	  "Post Game"
     ],
     "progression": true,
     "sort-key": "row-5-02"
@@ -1385,7 +1378,8 @@
     "name": "Cowboy Hat",
     "category": [
       "05 Outfits",
-      "Outfit Items"
+      "Outfit Items",
+	  "Post Game"
     ],
     "progression": true,
     "sort-key": "row-5-05"
@@ -1395,7 +1389,8 @@
     "name": "Cowboy Outfit",
     "category": [
       "05 Outfits",
-      "Outfit Items"
+      "Outfit Items",
+	  "Post Game"
     ],
     "progression": true,
     "sort-key": "row-5-06"
@@ -1465,7 +1460,8 @@
     "name": "Snow Hood",
     "category": [
       "05 Outfits",
-      "Outfit Items"
+      "Outfit Items",
+	  "Post Metro"
     ],
     "progression": true,
     "sort-key": "row-5-13"
@@ -1475,7 +1471,8 @@
     "name": "Snow Suit",
     "category": [
       "05 Outfits",
-      "Outfit Items"
+      "Outfit Items",
+	  "Post Metro"
     ],
     "progression": true,
     "sort-key": "row-5-14"
@@ -1485,7 +1482,8 @@
     "name": "Resort Hat",
     "category": [
       "05 Outfits",
-      "Outfit Items"
+      "Outfit Items",
+	  "Post Metro"
     ],
     "progression": true,
     "sort-key": "row-5-15"
@@ -1495,7 +1493,8 @@
     "name": "Resort Outfit",
     "category": [
       "05 Outfits",
-      "Outfit Items"
+      "Outfit Items",
+	  "Post Metro"
     ],
     "progression": true,
     "sort-key": "row-5-16"
@@ -1505,7 +1504,8 @@
     "name": "Chef Hat",
     "category": [
       "05 Outfits",
-      "Outfit Items"
+      "Outfit Items",
+	  "Post Metro"
     ],
     "progression": true,
     "sort-key": "row-5-17"
@@ -1515,7 +1515,8 @@
     "name": "Chef Suit",
     "category": [
       "05 Outfits",
-      "Outfit Items"
+      "Outfit Items",
+	  "Post Metro"
     ],
     "progression": true,
     "sort-key": "row-5-18"
@@ -1525,7 +1526,8 @@
     "name": "Samurai Helmet",
     "category": [
       "05 Outfits",
-      "Outfit Items"
+      "Outfit Items",
+	  "Post Metro"
     ],
     "progression": true,
     "sort-key": "row-5-19"
@@ -1535,7 +1537,8 @@
     "name": "Samurai Armor",
     "category": [
       "05 Outfits",
-      "Outfit Items"
+      "Outfit Items",
+	  "Post Metro"
     ],
     "progression": true,
     "sort-key": "row-5-20"
@@ -1545,7 +1548,8 @@
     "name": "Space Helmet",
     "category": [
       "05 Outfits",
-      "Outfit Items"
+      "Outfit Items",
+	  "Post Metro"
     ],
     "progression": true,
     "sort-key": "row-5-21"
@@ -1555,7 +1559,8 @@
     "name": "Space Suit",
     "category": [
       "05 Outfits",
-      "Outfit Items"
+      "Outfit Items",
+	  "Post Metro"
     ],
     "progression": true,
     "sort-key": "row-5-22"
@@ -1565,7 +1570,8 @@
     "name": "Mario 64 Cap",
     "category": [
       "05 Outfits",
-      "Outfit Items"
+      "Outfit Items",
+	  "Post Game"
     ],
     "progression": true,
     "sort-key": "row-5-23"
@@ -1575,7 +1581,8 @@
     "name": "Mario 64 Suit",
     "category": [
       "05 Outfits",
-      "Outfit Items"
+      "Outfit Items",
+	  "Post Game"
     ],
     "progression": true,
     "sort-key": "row-5-24"
@@ -1585,7 +1592,8 @@
     "name": "Boxer Shorts",
     "category": [
       "05 Outfits",
-      "Outfit Items"
+      "Outfit Items",
+	  "Post Metro"
     ],
     "progression": true,
     "sort-key": "row-5-25"
@@ -1595,7 +1603,8 @@
     "name": "Mechanic Cap",
     "category": [
       "05 Outfits",
-      "Outfit Items"
+      "Outfit Items",
+	  "Post Game"
     ],
     "progression": true,
     "sort-key": "row-5-26"
@@ -1605,7 +1614,8 @@
     "name": "Mechanic Outfit",
     "category": [
       "05 Outfits",
-      "Outfit Items"
+      "Outfit Items",
+	  "Post Game"
     ],
     "progression": true,
     "sort-key": "row-5-27"
@@ -1615,7 +1625,8 @@
     "name": "Pirate Hat",
     "category": [
       "05 Outfits",
-      "Outfit Items"
+      "Outfit Items",
+	  "Post Game"
     ],
     "progression": true,
     "sort-key": "row-5-28"
@@ -1625,7 +1636,8 @@
     "name": "Pirate Outfit",
     "category": [
       "05 Outfits",
-      "Outfit Items"
+      "Outfit Items",
+	  "Post Game"
     ],
     "progression": true,
     "sort-key": "row-5-29"
@@ -1635,7 +1647,8 @@
     "name": "Clown Hat",
     "category": [
       "05 Outfits",
-      "Outfit Items"
+      "Outfit Items",
+	  "Post Game"
     ],
     "progression": true,
     "sort-key": "row-5-30"
@@ -1645,7 +1658,8 @@
     "name": "Clown Suit",
     "category": [
       "05 Outfits",
-      "Outfit Items"
+      "Outfit Items",
+	  "Post Game"
     ],
     "progression": true,
     "sort-key": "row-5-31"
@@ -1655,7 +1669,8 @@
     "name": "Doctor Headwear",
     "category": [
       "05 Outfits",
-      "Outfit Items"
+      "Outfit Items",
+	  "Post Game"
     ],
     "progression": true,
     "sort-key": "row-5-32"
@@ -1665,7 +1680,8 @@
     "name": "Doctor Outfit",
     "category": [
       "05 Outfits",
-      "Outfit Items"
+      "Outfit Items",
+	  "Post Game"
     ],
     "progression": true,
     "sort-key": "row-5-33"

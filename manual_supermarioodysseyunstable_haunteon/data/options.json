@@ -64,6 +64,16 @@
       "group": "Item Options",
       "hidden": true
     },
+	"capture_sanity": {
+      "display_name": "Capture Sanity",
+      "description": [
+        "Adds all 52 Captures as locations."
+      ],
+      "type": "Toggle",
+      "default": false,
+      "group": "Location Options",
+	  "hidden": true
+    },
     "action_randomizer": {
       "display_name": "Shuffle Actions",
       "description": [

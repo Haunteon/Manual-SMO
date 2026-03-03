@@ -12,6 +12,13 @@
     ],
     "hidden": true
   },
+  "Capture Sanity": {
+    "yaml_option": [
+      "capture_randomizer",
+      "capture_sanity"
+    ],
+    "hidden": true
+  },
   "Basic Actions": {
     "yaml_option": [
       "action_randomizer"

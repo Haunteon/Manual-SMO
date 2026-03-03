@@ -4266,7 +4266,8 @@
     "name": "Found with Snow Kingdom Art",
     "region": "Snow Kingdom 1st Visit",
     "category": [
-      "09 Snow Kingdom"
+      "09 Snow Kingdom",
+      "Post Metro"
     ],
     "requires": "{OptOne(|Ground Pound|)}",
     "sort-key": "row-09-034"
@@ -6642,7 +6643,8 @@
     "name": "Shining Above the Moon",
     "region": "Moon Kingdom 1st Visit",
     "category": [
-      "14 Moon Kingdom"
+      "14 Moon Kingdom",
+      "Post Metro"
     ],
     "requires": "",
     "sort-key": "row-14-001"
