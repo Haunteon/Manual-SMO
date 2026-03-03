@@ -366,7 +366,7 @@
     "category": [
       "02 Cascade Kingdom"
     ],
-    "requires": "{OptOne(|Chain Chomp|)}",
+    "requires": "",
     "sort-key": "row-02-001"
   },
   {
