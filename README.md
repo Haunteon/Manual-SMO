@@ -58,3 +58,4 @@
   - Extra Captures 
 - Regional Coin Logic
 - Achievement Moons
+- Capture Sanity
