@@ -4,6 +4,7 @@ Manual apworld for use with Archipelago Multiworld Randomizer
 - Festival
 - Bowser
 - World Peace
+- Darker Side
 ## Current features
 - Generic Moons
 - Specific Moons
@@ -56,5 +57,5 @@ Manual apworld for use with Archipelago Multiworld Randomizer
   - Extra actions not in Action Guide
 - Capture Shuffle
   - Extra Captures 
-- Regional Coin Checks
-  - Just enough to get you all the Outfit Door Moons
+- Regional Coin Logic
+- Achievement Moons
