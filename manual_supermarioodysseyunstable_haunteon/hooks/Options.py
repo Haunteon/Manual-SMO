@@ -117,24 +117,6 @@ def before_options_defined(options: dict[str, Type[Option[Any]]]) -> dict[str, T
 
 # This is called after any manual options are defined, in case you want to see what options are defined or want to modify the defined options
 def after_options_defined(options: Type[PerGameCommonOptions]):
-    option_groups = [
-        OptionGroup("Moon Requirements", [
-            Options.MoonsRequiredForCascade,
-            Options.MoonsRequiredForSand,
-            Options.MoonsRequiredForLake,
-            Options.MoonsRequiredForWooded,
-            Options.MoonsRequiredForLost,
-            Options.MoonsRequiredForMetro,
-            Options.MoonsRequiredForSnow,
-            Options.MoonsRequiredForSeaside,
-            Options.MoonsRequiredForLuncheon,
-            Options.MoonsRequiredForRuined,
-            Options.MoonsRequiredForBowser,
-        ]),
-    ]
-    
-    
-    
     # To access a modifiable version of options check the dict in options.type_hints
     # For example if you want to change DLC_enabled's display name you would do:
     # options.type_hints["DLC_enabled"].display_name = "New Display Name"
@@ -147,7 +129,7 @@ def after_options_defined(options: Type[PerGameCommonOptions]):
 
 # Use this Hook if you want to add your Option to an Option group (existing or not)
 def before_option_groups_created(groups: dict[str, list[Type[Option[Any]]]]) -> dict[str, list[Type[Option[Any]]]]:
-    groups["Moon Requirements"] = [MoonsRequiredForCascade, MoonsRequiredForSand, MoonsRequiredForLake, MoonsRequiredForWooded, MoonsRequiredForLost, MoonsRequiredForMetro, MoonsRequiredForSnow, MoonsRequiredForSeaside, MoonsRequiredForLuncheon, MoonsRequiredForRuined, MoonsRequiredForBowser]
+    groups["Moon Requirements"] = [moonsreqforcascade, moonsreqforsand, moonsreqforlake, moonsreqforwooded, moonsreqforlost, moonsreqformetro, moonsreqforsnow, moonsreqforseaside, moonsreqforluncheon, moonsreqforruined, moonsreqforbowser]
     # Uses the format groups['GroupName'] = [TotalCharactersToWinWith]
     return groups
 
