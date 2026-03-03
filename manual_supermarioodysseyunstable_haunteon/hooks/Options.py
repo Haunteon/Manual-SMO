@@ -99,6 +99,7 @@ class MoonsRequiredForBowser(Range):
     range_start = 0
     range_end = 16
     default = 8
+    
 # This is called before any manual options are defined, in case you want to define your own with a clean slate or let Manual define over them
 def before_options_defined(options: dict[str, Type[Option[Any]]]) -> dict[str, Type[Option[Any]]]:
     options["moonsreqforcascade"] = MoonsRequiredForCascade
@@ -128,6 +129,7 @@ def after_options_defined(options: Type[PerGameCommonOptions]):
 
 # Use this Hook if you want to add your Option to an Option group (existing or not)
 def before_option_groups_created(groups: dict[str, list[Type[Option[Any]]]]) -> dict[str, list[Type[Option[Any]]]]:
+    groups["Moon Requirements"] = [MoonsRequiredForCascade, MoonsRequiredForSand, MoonsRequiredForLake, MoonsRequiredForWooded, MoonsRequiredForLost, MoonsRequiredForMetro, MoonsRequiredForSnow, MoonsRequiredForSeaside, MoonsRequiredForLuncheon, MoonsRequiredForRuined, MoonsRequiredForBowser]
     # Uses the format groups['GroupName'] = [TotalCharactersToWinWith]
     return groups
 

@@ -1052,6 +1052,16 @@
   },
   {
     "count": 1,
+    "name": "Lever",
+    "category": [
+      "03 Captures",
+      "Extra Captures"
+    ],
+    "progression": true,
+    "sort-key": "row-3-54"
+  },
+  {
+    "count": 1,
     "name": "Long Jump",
     "category": [
       "04 Actions",

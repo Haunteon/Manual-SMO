@@ -440,7 +440,7 @@
     "connects_to": [
       "Dark Side Post Mech"
     ],
-    "requires": "{YamlDisabled(post_game_moons)} or {ItemValue(Darker:250)}"
+    "requires": "{DarkerEnabled(Darker:250)}"
   },
   "Dark Side Post Mech": {
     "connects_to": [
@@ -450,6 +450,6 @@
   "Darker Side": {
     "connects_to": [
     ],
-    "requires": "{YamlDisabled(post_game_moons)} or {ItemValue(Darker:500)}"
+    "requires": "{DarkerEnabled(Darker:500)}"
   }
 }
