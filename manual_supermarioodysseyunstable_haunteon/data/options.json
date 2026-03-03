@@ -109,18 +109,18 @@
       "display_name": "Include Post Peace Moons",
       "description": [
         "Only change if doing World Peace Goal",
-		"Adds Post Game moons as locations."
+        "Adds Post Game moons as locations."
       ],
       "type": "Toggle",
       "default": false,
       "group": "Location Options",
       "hidden": true
     },
-	"post_game_moons": {
+    "post_game_moons": {
       "display_name": "Include Post Game Moons",
       "description": [
         "Only change if doing World Peace Goal",
-		"Adds Post Game moons as locations."
+        "Adds Post Game moons as locations."
       ],
       "type": "Toggle",
       "default": false,
@@ -131,7 +131,7 @@
       "display_name": "Include Moon Rock Moons",
       "description": [
         "Requires Exclude Post Metro = FALSE",
-		"Requires Post Game Moons = TRUE",
+        "Requires Post Game Moons = TRUE",
         "Adds Moon Rock moons as locations."
       ],
       "type": "Toggle",
@@ -143,8 +143,8 @@
       "display_name": "Include Toadette Moons",
       "description": [
         "Requires Exclude Post Metro = FALSE",
-		"Requires Post Game Moons = TRUE",
-		"Adds Toadette moons as locations."
+        "Requires Post Game Moons = TRUE",
+        "Adds Toadette moons as locations."
       ],
       "type": "Toggle",
       "default": false,

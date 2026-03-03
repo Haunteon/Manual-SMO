@@ -40,7 +40,7 @@
     "region": "Sand Kingdom Post Peace",
     "category": [
       "00 Events",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "",
     "place_item": [
@@ -53,7 +53,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "00 Events",
-	  "Post Game"
+      "Post Game"
     ],
     "requires": "",
     "place_item": [
@@ -521,7 +521,7 @@
     "region": "Cascade Kingdom Post Peace",
     "category": [
       "02 Cascade Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Ty-foo|)} and |Snow Kingdom Bound Bowl Grand Prix Multimoon| and |Seaside Kingdom Mollusque-Lanceur Multimoon|",
     "sort-key": "row-02-018"
@@ -531,7 +531,7 @@
     "region": "Cascade Kingdom Post Peace",
     "category": [
       "02 Cascade Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "|Tourist 1|",
     "sort-key": "row-02-019"
@@ -864,7 +864,7 @@
     "category": [
       "03 Sand Kingdom"
     ],
-  "requires": "(|Pyramid Skip| and (|Cap Vault| or {OptOne(|Long Jump|)})) or ({OptOne(|Glydon|)} and |Sand Kingdom Knucklotec Multimoon|)",
+    "requires": "(|Pyramid Skip| and (|Cap Vault| or {OptOne(|Long Jump|)})) or ({OptOne(|Glydon|)} and |Sand Kingdom Knucklotec Multimoon|)",
     "sort-key": "row-03-013"
   },
   {
@@ -881,7 +881,7 @@
     "region": "Sand Kingdom Post Peace",
     "category": [
       "03 Sand Kingdom",
-	  "Post Peace"
+      "Post Peace"
     ],
     "requires": "",
     "sort-key": "row-03-015"
@@ -945,7 +945,7 @@
     "region": "Sand Kingdom Post Peace",
     "category": [
       "03 Sand Kingdom",
-	  "Post Peace"
+      "Post Peace"
     ],
     "requires": "",
     "sort-key": "row-03-022"
@@ -955,7 +955,7 @@
     "region": "Sand Kingdom Post Peace",
     "category": [
       "03 Sand Kingdom",
-	  "Post Peace"
+      "Post Peace"
     ],
     "requires": "{OptOne(|Ground Pound|)}",
     "sort-key": "row-03-023"
@@ -1001,7 +1001,7 @@
     "region": "Sand Kingdom Post Peace",
     "category": [
       "03 Sand Kingdom",
-	  "Post Peace"
+      "Post Peace"
     ],
     "requires": "{OptAll(|Roll| and |Wall Jump|)}",
     "sort-key": "row-03-028"
@@ -1011,7 +1011,7 @@
     "region": "Sand Kingdom Post Peace",
     "category": [
       "03 Sand Kingdom",
-	  "Post Peace"
+      "Post Peace"
     ],
     "requires": "",
     "sort-key": "row-03-029"
@@ -1021,7 +1021,7 @@
     "region": "Sand Kingdom Post Peace",
     "category": [
       "03 Sand Kingdom",
-	  "Post Peace"
+      "Post Peace"
     ],
     "requires": "{OptOne(|Jaxi|)} or ({OptAll(|Long Jump| and |Roll|)})",
     "sort-key": "row-03-030"
@@ -1031,7 +1031,7 @@
     "region": "Sand Kingdom Post Peace",
     "category": [
       "03 Sand Kingdom",
-	  "Post Peace"
+      "Post Peace"
     ],
     "requires": "{OptOne(|Ground Pound|)}",
     "sort-key": "row-03-031"
@@ -1050,7 +1050,7 @@
     "region": "Sand Kingdom Post Peace",
     "category": [
       "03 Sand Kingdom",
-	  "Post Peace"
+      "Post Peace"
     ],
     "requires": "",
     "sort-key": "row-03-033"
@@ -1060,7 +1060,7 @@
     "region": "Sand Kingdom Post Peace",
     "category": [
       "03 Sand Kingdom",
-	  "Post Peace"
+      "Post Peace"
     ],
     "requires": "{OptOne(|Lakitu|)}",
     "sort-key": "row-03-034"
@@ -1070,7 +1070,7 @@
     "region": "Sand Kingdom Post Peace",
     "category": [
       "03 Sand Kingdom",
-	  "Post Peace"
+      "Post Peace"
     ],
     "requires": "{OptOne(|Goomba|)}",
     "sort-key": "row-03-035"
@@ -1089,7 +1089,7 @@
     "region": "Sand Kingdom Post Peace",
     "category": [
       "03 Sand Kingdom",
-	  "Post Peace"
+      "Post Peace"
     ],
     "requires": "{OptOne(|Lakitu|)}",
     "sort-key": "row-03-037"
@@ -1099,7 +1099,7 @@
     "region": "Sand Kingdom Post Peace",
     "category": [
       "03 Sand Kingdom",
-	  "Post Peace"
+      "Post Peace"
     ],
     "requires": "{OptOne(|Jaxi|)}",
     "sort-key": "row-03-038"
@@ -1109,7 +1109,7 @@
     "region": "Sand Kingdom Post Peace",
     "category": [
       "03 Sand Kingdom",
-	  "Post Peace"
+      "Post Peace"
     ],
     "requires": "{OptOne(|Jaxi|)}",
     "sort-key": "row-03-039"
@@ -1164,7 +1164,7 @@
     "region": "Sand Kingdom Post Peace",
     "category": [
       "03 Sand Kingdom",
-	  "Post Peace"
+      "Post Peace"
     ],
     "requires": "",
     "sort-key": "row-03-045"
@@ -1201,7 +1201,7 @@
     "region": "Sand Kingdom Post Peace",
     "category": [
       "03 Sand Kingdom",
-	  "Post Peace"
+      "Post Peace"
     ],
     "requires": "",
     "sort-key": "row-03-049"
@@ -1301,7 +1301,7 @@
     "region": "Sand Kingdom Post Peace",
     "category": [
       "03 Sand Kingdom",
-	  "Post Peace"
+      "Post Peace"
     ],
     "requires": "{OptOne(|Mini Rocket|)}",
     "sort-key": "row-03-060"
@@ -1311,7 +1311,7 @@
     "region": "Sand Kingdom Post Peace",
     "category": [
       "03 Sand Kingdom",
-	  "Post Peace"
+      "Post Peace"
     ],
     "requires": "{OptOne(|Mini Rocket|)}",
     "sort-key": "row-03-061"
@@ -1675,7 +1675,7 @@
     "region": "Lake Kingdom Post Peace",
     "category": [
       "04 Lake Kingdom",
-	  "Post Peace"
+      "Post Peace"
     ],
     "requires": "{OptAll(|Swim| and |Hold/Throw|)}",
     "sort-key": "row-04-009"
@@ -1685,7 +1685,7 @@
     "region": "Lake Kingdom Post Peace",
     "category": [
       "04 Lake Kingdom",
-	  "Post Peace"
+      "Post Peace"
     ],
     "requires": "",
     "sort-key": "row-04-010"
@@ -1695,7 +1695,7 @@
     "region": "Lake Kingdom Post Peace",
     "category": [
       "04 Lake Kingdom",
-	  "Post Peace"
+      "Post Peace"
     ],
     "requires": "(|High Jump| or {OptOne(|Spin|)}) or ({OptAll(|Wall Jump| and |Dive|)})",
     "sort-key": "row-04-011"
@@ -1732,7 +1732,7 @@
     "region": "Lake Kingdom Post Peace",
     "category": [
       "04 Lake Kingdom",
-	  "Post Peace"
+      "Post Peace"
     ],
     "requires": "{OptOne(|Lakitu|)}",
     "sort-key": "row-04-015"
@@ -1742,7 +1742,7 @@
     "region": "Lake Kingdom Post Peace",
     "category": [
       "04 Lake Kingdom",
-	  "Post Peace"
+      "Post Peace"
     ],
     "requires": "{OptOne(|Cheep Cheep|)}",
     "sort-key": "row-04-016"
@@ -1779,7 +1779,7 @@
     "region": "Lake Kingdom Post Peace",
     "category": [
       "04 Lake Kingdom",
-	  "Post Peace"
+      "Post Peace"
     ],
     "requires": "{OptOne(|Puzzle Part (Lake)|)}",
     "sort-key": "row-04-020"
@@ -1834,7 +1834,7 @@
     "region": "Lake Kingdom 1st Visit",
     "category": [
       "04 Lake Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Ty-foo|)} and |Metro Kingdom Mechawiggler Multimoon| and |Snow Kingdom Bound Bowl Grand Prix Multimoon| and |Seaside Kingdom Mollusque-Lanceur Multimoon|",
     "sort-key": "row-04-026"
@@ -1844,7 +1844,7 @@
     "region": "Lake Kingdom Post Peace",
     "category": [
       "04 Lake Kingdom",
-	  "Post Peace"
+      "Post Peace"
     ],
     "requires": "{OptOne(|Ground Pound|)}",
     "sort-key": "row-04-027"
@@ -2181,7 +2181,7 @@
     "region": "Wooded Kingdom Post Peace",
     "category": [
       "05 Wooded Kingdom",
-	  "Post Peace"
+      "Post Peace"
     ],
     "requires": "{OptOne(|Glydon|)}",
     "sort-key": "row-05-020"
@@ -2200,7 +2200,7 @@
     "region": "Wooded Kingdom Post Peace",
     "category": [
       "05 Wooded Kingdom",
-	  "Post Peace"
+      "Post Peace"
     ],
     "requires": "{OptOne(|Sherm|)}",
     "sort-key": "row-05-022"
@@ -2246,7 +2246,7 @@
     "region": "Wooded Kingdom Post Peace",
     "category": [
       "05 Wooded Kingdom",
-	  "Post Peace"
+      "Post Peace"
     ],
     "requires": "{OptOne(|Spin Throw|)}",
     "sort-key": "row-05-027"
@@ -2337,7 +2337,7 @@
     "region": "Wooded Kingdom Post Peace",
     "category": [
       "05 Wooded Kingdom",
-	  "Post Peace"
+      "Post Peace"
     ],
     "requires": "{OptOne(|Down Throw|)}",
     "sort-key": "row-05-037"
@@ -2347,7 +2347,7 @@
     "region": "Wooded Kingdom Post Peace",
     "category": [
       "05 Wooded Kingdom",
-	  "Post Peace"
+      "Post Peace"
     ],
     "requires": "",
     "sort-key": "row-05-038"
@@ -2429,7 +2429,7 @@
     "region": "Wooded Kingdom Post Peace",
     "category": [
       "05 Wooded Kingdom",
-	  "Post Peace"
+      "Post Peace"
     ],
     "requires": "{OptAll(|Uproot| and |Hold/Throw|)}",
     "sort-key": "row-05-047"
@@ -2439,7 +2439,7 @@
     "region": "Wooded Kingdom Post Peace",
     "category": [
       "05 Wooded Kingdom",
-	  "Post Peace"
+      "Post Peace"
     ],
     "requires": "{OptAll(|Uproot| and |Hold/Throw|)}",
     "sort-key": "row-05-048"
@@ -2449,7 +2449,7 @@
     "region": "Wooded Kingdom 1st Visit",
     "category": [
       "05 Wooded Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Ty-foo|)} and |Metro Kingdom Mechawiggler Multimoon| and |Snow Kingdom Bound Bowl Grand Prix Multimoon| and |Seaside Kingdom Mollusque-Lanceur Multimoon|",
     "sort-key": "row-05-049"
@@ -2728,7 +2728,7 @@
     "region": "Cloud Kingdom Post Peace",
     "category": [
       "06 Cloud Kingdom",
-	  "Post Peace"
+      "Post Peace"
     ],
     "requires": "{OptOne(|Picture Match Part (Goomba)|)}",
     "sort-key": "row-06-001"
@@ -3297,8 +3297,8 @@
     "region": "Metro Kingdom Post Peace",
     "category": [
       "08 Metro Kingdom",
-	  "Post Peace",
-	  "Post Metro"
+      "Post Peace",
+      "Post Metro"
     ],
     "requires": "{OptOne(|Pole|)}",
     "sort-key": "row-08-017"
@@ -3317,8 +3317,8 @@
     "region": "Metro Kingdom Post Peace",
     "category": [
       "08 Metro Kingdom",
-	  "Post Peace",
-	  "Post Metro"
+      "Post Peace",
+      "Post Metro"
     ],
     "requires": "",
     "sort-key": "row-08-019"
@@ -3328,8 +3328,8 @@
     "region": "Metro Kingdom Post Peace",
     "category": [
       "08 Metro Kingdom",
-	  "Post Peace",
-	  "Post Metro"
+      "Post Peace",
+      "Post Metro"
     ],
     "requires": "{OptOne(|Motor Scooter|)}",
     "sort-key": "row-08-020"
@@ -3618,8 +3618,8 @@
     "region": "Metro Kingdom Post Peace",
     "category": [
       "08 Metro Kingdom",
-	  "Post Peace",
-	  "Post Metro"
+      "Post Peace",
+      "Post Metro"
     ],
     "requires": "|Travel Guide|",
     "sort-key": "row-08-052"
@@ -3840,7 +3840,7 @@
       "08 Metro Kingdom",
       "Moon Rock"
     ],
-  "requires": "{OptOne(|Spark Pylon|)} and ({OptAll(|Long Jump| or |Dive|)})",
+    "requires": "{OptOne(|Spark Pylon|)} and ({OptAll(|Long Jump| or |Dive|)})",
     "sort-key": "row-08-074"
   },
   {
@@ -3918,7 +3918,7 @@
     "region": "Snow Kingdom 1st Visit",
     "category": [
       "09 Snow Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "",
     "sort-key": "row-09-001"
@@ -3928,7 +3928,7 @@
     "region": "Snow Kingdom 1st Visit",
     "category": [
       "09 Snow Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "",
     "sort-key": "row-09-002"
@@ -3938,7 +3938,7 @@
     "region": "Snow Kingdom 1st Visit",
     "category": [
       "09 Snow Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Ty-foo|)} or ({OptOne(|Dive|)} and ({OptOne(|Long Jump|)} or {OptOne(|Triple Jump|)} or {OptOne(|Cap Jump|)}))",
     "sort-key": "row-09-003"
@@ -3948,7 +3948,7 @@
     "region": "Snow Kingdom 1st Visit",
     "category": [
       "09 Snow Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "",
     "sort-key": "row-09-004"
@@ -3958,7 +3958,7 @@
     "region": "Snow Kingdom 1st Visit",
     "category": [
       "09 Snow Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Shiverian Racer|)} and |After Gusty Barrier|",
     "place_item": [
@@ -3971,7 +3971,7 @@
     "region": "Snow Kingdom 1st Visit",
     "category": [
       "09 Snow Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "",
     "sort-key": "row-09-006"
@@ -3981,7 +3981,7 @@
     "region": "Snow Kingdom 1st Visit",
     "category": [
       "09 Snow Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "",
     "sort-key": "row-09-007"
@@ -3991,7 +3991,7 @@
     "region": "Snow Kingdom 1st Visit",
     "category": [
       "09 Snow Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Ground Pound|)}",
     "sort-key": "row-09-008"
@@ -4001,7 +4001,7 @@
     "region": "Snow Kingdom 1st Visit",
     "category": [
       "09 Snow Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Ground Pound|)}",
     "sort-key": "row-09-009"
@@ -4011,8 +4011,8 @@
     "region": "Snow Kingdom Post Peace",
     "category": [
       "09 Snow Kingdom",
-	  "Post Peace",
-	  "Post Metro"
+      "Post Peace",
+      "Post Metro"
     ],
     "requires": "",
     "sort-key": "row-09-010"
@@ -4022,7 +4022,7 @@
     "region": "Snow Kingdom 1st Visit",
     "category": [
       "09 Snow Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "",
     "sort-key": "row-09-011"
@@ -4032,7 +4032,7 @@
     "region": "Snow Kingdom 1st Visit",
     "category": [
       "09 Snow Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "",
     "sort-key": "row-09-012"
@@ -4042,8 +4042,8 @@
     "region": "Snow Kingdom Post Peace",
     "category": [
       "09 Snow Kingdom",
-	  "Post Peace",
-	  "Post Metro"
+      "Post Peace",
+      "Post Metro"
     ],
     "requires": "",
     "sort-key": "row-09-013"
@@ -4053,8 +4053,8 @@
     "region": "Snow Kingdom Post Peace",
     "category": [
       "09 Snow Kingdom",
-	  "Post Peace",
-	  "Post Metro"
+      "Post Peace",
+      "Post Metro"
     ],
     "requires": "",
     "sort-key": "row-09-014"
@@ -4064,8 +4064,8 @@
     "region": "Snow Kingdom Post Peace",
     "category": [
       "09 Snow Kingdom",
-	  "Post Peace",
-	  "Post Metro"
+      "Post Peace",
+      "Post Metro"
     ],
     "requires": "",
     "sort-key": "row-09-015"
@@ -4075,8 +4075,8 @@
     "region": "Snow Kingdom Post Peace",
     "category": [
       "09 Snow Kingdom",
-	  "Post Peace",
-	  "Post Metro"
+      "Post Peace",
+      "Post Metro"
     ],
     "requires": "",
     "sort-key": "row-09-016"
@@ -4086,8 +4086,8 @@
     "region": "Snow Kingdom Post Peace",
     "category": [
       "09 Snow Kingdom",
-	  "Post Peace",
-	  "Post Metro"
+      "Post Peace",
+      "Post Metro"
     ],
     "requires": "{OptOne(|Lakitu|)}",
     "sort-key": "row-09-017"
@@ -4097,7 +4097,7 @@
     "region": "Snow Kingdom 1st Visit",
     "category": [
       "09 Snow Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Goomba|)}",
     "sort-key": "row-09-018"
@@ -4107,7 +4107,7 @@
     "region": "Snow Kingdom 1st Visit",
     "category": [
       "09 Snow Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "",
     "sort-key": "row-09-019"
@@ -4117,8 +4117,8 @@
     "region": "Snow Kingdom Post Peace",
     "category": [
       "09 Snow Kingdom",
-	  "Post Peace",
-	  "Post Metro"
+      "Post Peace",
+      "Post Metro"
     ],
     "requires": "{OptOne(|Boxer Shorts|)}",
     "sort-key": "row-09-020"
@@ -4128,7 +4128,7 @@
     "region": "Snow Kingdom 1st Visit",
     "category": [
       "09 Snow Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "",
     "sort-key": "row-09-021"
@@ -4138,8 +4138,8 @@
     "region": "Snow Kingdom Post Peace",
     "category": [
       "09 Snow Kingdom",
-	  "Post Peace",
-	  "Post Metro"
+      "Post Peace",
+      "Post Metro"
     ],
     "requires": "",
     "sort-key": "row-09-022"
@@ -4149,8 +4149,8 @@
     "region": "Snow Kingdom Post Peace",
     "category": [
       "09 Snow Kingdom",
-	  "Post Peace",
-	  "Post Metro"
+      "Post Peace",
+      "Post Metro"
     ],
     "requires": "{OptOne(|Shiverian Racer|)}",
     "sort-key": "row-09-023"
@@ -4160,8 +4160,8 @@
     "region": "Snow Kingdom Post Peace",
     "category": [
       "09 Snow Kingdom",
-	  "Post Peace",
-	  "Post Metro"
+      "Post Peace",
+      "Post Metro"
     ],
     "requires": "",
     "sort-key": "row-09-024"
@@ -4171,8 +4171,8 @@
     "region": "Snow Kingdom Post Peace",
     "category": [
       "09 Snow Kingdom",
-	  "Post Peace",
-	  "Post Metro"
+      "Post Peace",
+      "Post Metro"
     ],
     "requires": "",
     "sort-key": "row-09-025"
@@ -4182,8 +4182,8 @@
     "region": "Snow Kingdom Post Peace",
     "category": [
       "09 Snow Kingdom",
-	  "Post Peace",
-	  "Post Metro"
+      "Post Peace",
+      "Post Metro"
     ],
     "requires": "{OptOne(|Swim|)}",
     "sort-key": "row-09-026"
@@ -4193,8 +4193,8 @@
     "region": "Snow Kingdom Post Peace",
     "category": [
       "09 Snow Kingdom",
-	  "Post Peace",
-	  "Post Metro"
+      "Post Peace",
+      "Post Metro"
     ],
     "requires": "{OptOne(|Swim|)}",
     "sort-key": "row-09-027"
@@ -4204,8 +4204,8 @@
     "region": "Snow Kingdom Post Peace",
     "category": [
       "09 Snow Kingdom",
-	  "Post Peace",
-	  "Post Metro"
+      "Post Peace",
+      "Post Metro"
     ],
     "requires": "{OptOne(|Ty-foo|)}",
     "sort-key": "row-09-028"
@@ -4215,7 +4215,7 @@
     "region": "Snow Kingdom 1st Visit",
     "category": [
       "09 Snow Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptAll(|Snow Hood| and |Snow Suit|)}",
     "sort-key": "row-09-029"
@@ -4225,7 +4225,7 @@
     "region": "Snow Kingdom 1st Visit",
     "category": [
       "09 Snow Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptAll(|Snow Hood| and |Snow Suit| and |Dash (2D)|)}",
     "sort-key": "row-09-030"
@@ -4235,8 +4235,8 @@
     "region": "Snow Kingdom Post Peace",
     "category": [
       "09 Snow Kingdom",
-	  "Post Peace",
-	  "Post Metro"
+      "Post Peace",
+      "Post Metro"
     ],
     "requires": "{OptOne(|Hold/Throw|)}",
     "sort-key": "row-09-031"
@@ -4246,8 +4246,8 @@
     "region": "Snow Kingdom Post Peace",
     "category": [
       "09 Snow Kingdom",
-	  "Post Peace",
-	  "Post Metro"
+      "Post Peace",
+      "Post Metro"
     ],
     "requires": "{OptOne(|Hold/Throw|)}",
     "sort-key": "row-09-032"
@@ -4486,7 +4486,7 @@
     "region": "Seaside Kingdom 1st Visit",
     "category": [
       "10 Seaside Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Gushen|)}",
     "sort-key": "row-10-001"
@@ -4496,7 +4496,7 @@
     "region": "Seaside Kingdom 1st Visit",
     "category": [
       "10 Seaside Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptAll(|Gushen| or |Cheep Cheep| or |Swim|)}",
     "sort-key": "row-10-002"
@@ -4506,7 +4506,7 @@
     "region": "Seaside Kingdom 1st Visit",
     "category": [
       "10 Seaside Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Gushen|)}",
     "sort-key": "row-10-003"
@@ -4516,7 +4516,7 @@
     "region": "Seaside Kingdom 1st Visit",
     "category": [
       "10 Seaside Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "",
     "sort-key": "row-10-004"
@@ -4526,7 +4526,7 @@
     "region": "Seaside Kingdom 1st Visit",
     "category": [
       "10 Seaside Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Gushen|)}",
     "place_item": [
@@ -4539,7 +4539,7 @@
     "region": "Seaside Kingdom 1st Visit",
     "category": [
       "10 Seaside Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Gushen|)}",
     "sort-key": "row-10-006"
@@ -4549,7 +4549,7 @@
     "region": "Seaside Kingdom 1st Visit",
     "category": [
       "10 Seaside Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Gushen|)} or ({OptOne(|Wall Jump|)} and |Cap Vault|)",
     "sort-key": "row-10-007"
@@ -4559,7 +4559,7 @@
     "region": "Seaside Kingdom 1st Visit",
     "category": [
       "10 Seaside Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "",
     "sort-key": "row-10-008"
@@ -4569,7 +4569,7 @@
     "region": "Seaside Kingdom 1st Visit",
     "category": [
       "10 Seaside Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "",
     "sort-key": "row-10-009"
@@ -4579,7 +4579,7 @@
     "region": "Seaside Kingdom 1st Visit",
     "category": [
       "10 Seaside Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Cheep Cheep|)} or ({OptAll(|Swim| and |Ground Pound|)})",
     "sort-key": "row-10-010"
@@ -4589,7 +4589,7 @@
     "region": "Seaside Kingdom 1st Visit",
     "category": [
       "10 Seaside Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptAll(|Cheep Cheep| or |Swim|)}",
     "sort-key": "row-10-011"
@@ -4599,7 +4599,7 @@
     "region": "Seaside Kingdom 1st Visit",
     "category": [
       "10 Seaside Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptAll(|Cheep Cheep| or |Swim|)}",
     "sort-key": "row-10-012"
@@ -4609,7 +4609,7 @@
     "region": "Seaside Kingdom 1st Visit",
     "category": [
       "10 Seaside Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptAll(|Cheep Cheep| or |Swim|)}",
     "sort-key": "row-10-013"
@@ -4619,7 +4619,7 @@
     "region": "Seaside Kingdom 1st Visit",
     "category": [
       "10 Seaside Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptAll(|Cheep Cheep| or |Swim|)}",
     "sort-key": "row-10-014"
@@ -4629,8 +4629,8 @@
     "region": "Seaside Kingdom Post Peace",
     "category": [
       "10 Seaside Kingdom",
-	  "Post Peace",
-	  "Post Metro"
+      "Post Peace",
+      "Post Metro"
     ],
     "requires": "",
     "sort-key": "row-10-015"
@@ -4640,7 +4640,7 @@
     "region": "Seaside Kingdom 1st Visit",
     "category": [
       "10 Seaside Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Cheep Cheep|)} or ({OptAll(|Swim| and |Ground Pound|)})",
     "sort-key": "row-10-016"
@@ -4650,7 +4650,7 @@
     "region": "Seaside Kingdom 1st Visit",
     "category": [
       "10 Seaside Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Ground Pound|)}",
     "sort-key": "row-10-017"
@@ -4660,7 +4660,7 @@
     "region": "Seaside Kingdom 1st Visit",
     "category": [
       "10 Seaside Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Ground Pound|)}",
     "sort-key": "row-10-018"
@@ -4670,7 +4670,7 @@
     "region": "Seaside Kingdom 1st Visit",
     "category": [
       "10 Seaside Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Cheep Cheep|)} or ({OptAll(|Swim| and |Ground Pound|)})",
     "sort-key": "row-10-019"
@@ -4680,7 +4680,7 @@
     "region": "Seaside Kingdom 1st Visit",
     "category": [
       "10 Seaside Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptAll(|Swim| and |Ground Pound|)}",
     "sort-key": "row-10-020"
@@ -4690,7 +4690,7 @@
     "region": "Seaside Kingdom 1st Visit",
     "category": [
       "10 Seaside Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptAll(|Cheep Cheep| or |Swim|)}",
     "sort-key": "row-10-021"
@@ -4700,7 +4700,7 @@
     "region": "Seaside Kingdom 1st Visit",
     "category": [
       "10 Seaside Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptAll(|Cheep Cheep| or |Swim|)}",
     "sort-key": "row-10-022"
@@ -4710,7 +4710,7 @@
     "region": "Seaside Kingdom 1st Visit",
     "category": [
       "10 Seaside Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptAll(|Gushen| and |Hold/Throw| and |Swim|)}",
     "sort-key": "row-10-023"
@@ -4720,7 +4720,7 @@
     "region": "Seaside Kingdom 1st Visit",
     "category": [
       "10 Seaside Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptAll(|Gushen| and |Hold/Throw|)}",
     "sort-key": "row-10-024"
@@ -4730,7 +4730,7 @@
     "region": "Seaside Kingdom 1st Visit",
     "category": [
       "10 Seaside Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptAll(|Gushen| and |Hold/Throw|)}",
     "sort-key": "row-10-025"
@@ -4740,7 +4740,7 @@
     "region": "Seaside Kingdom 1st Visit",
     "category": [
       "10 Seaside Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptAll(|Gushen| and |Hold/Throw| and |Swim|)}",
     "sort-key": "row-10-026"
@@ -4750,7 +4750,7 @@
     "region": "Seaside Kingdom 1st Visit",
     "category": [
       "10 Seaside Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Ground Pound|)}",
     "sort-key": "row-10-027"
@@ -4760,8 +4760,8 @@
     "region": "Seaside Kingdom Post Peace",
     "category": [
       "10 Seaside Kingdom",
-	  "Post Peace",
-	  "Post Metro"
+      "Post Peace",
+      "Post Metro"
     ],
     "requires": "{OptOne(|Swim|)}",
     "sort-key": "row-10-028"
@@ -4771,8 +4771,8 @@
     "region": "Seaside Kingdom Post Peace",
     "category": [
       "10 Seaside Kingdom",
-	  "Post Peace",
-	  "Post Metro"
+      "Post Peace",
+      "Post Metro"
     ],
     "requires": "{OptOne(|Ground Pound|)}",
     "sort-key": "row-10-029"
@@ -4782,7 +4782,7 @@
     "region": "Seaside Kingdom 1st Visit",
     "category": [
       "10 Seaside Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptAll(|Swim| and |Scarecrow|)}",
     "sort-key": "row-10-030"
@@ -4792,7 +4792,7 @@
     "region": "Seaside Kingdom 1st Visit",
     "category": [
       "10 Seaside Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "",
     "sort-key": "row-10-031"
@@ -4802,7 +4802,7 @@
     "region": "Seaside Kingdom 1st Visit",
     "category": [
       "10 Seaside Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Goomba|)}",
     "sort-key": "row-10-032"
@@ -4812,8 +4812,8 @@
     "region": "Seaside Kingdom Post Peace",
     "category": [
       "10 Seaside Kingdom",
-	  "Post Peace",
-	  "Post Metro"
+      "Post Peace",
+      "Post Metro"
     ],
     "requires": "{OptOne(|Glydon|)}",
     "sort-key": "row-10-033"
@@ -4823,7 +4823,7 @@
     "region": "Seaside Kingdom 1st Visit",
     "category": [
       "10 Seaside Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Gushen|)}",
     "sort-key": "row-10-034"
@@ -4833,7 +4833,7 @@
     "region": "Seaside Kingdom 1st Visit",
     "category": [
       "10 Seaside Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "",
     "sort-key": "row-10-035"
@@ -4843,7 +4843,7 @@
     "region": "Seaside Kingdom 1st Visit",
     "category": [
       "10 Seaside Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "",
     "sort-key": "row-10-036"
@@ -4853,8 +4853,8 @@
     "region": "Seaside Kingdom Post Peace",
     "category": [
       "10 Seaside Kingdom",
-	  "Post Peace",
-	  "Post Metro"
+      "Post Peace",
+      "Post Metro"
     ],
     "requires": "",
     "sort-key": "row-10-037"
@@ -4864,8 +4864,8 @@
     "region": "Seaside Kingdom Post Peace",
     "category": [
       "10 Seaside Kingdom",
-	  "Post Peace",
-	  "Post Metro"
+      "Post Peace",
+      "Post Metro"
     ],
     "requires": "",
     "sort-key": "row-10-038"
@@ -4875,7 +4875,7 @@
     "region": "Seaside Kingdom 1st Visit",
     "category": [
       "10 Seaside Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptAll(|Cheep Cheep| or |Swim|)}",
     "sort-key": "row-10-039"
@@ -4885,7 +4885,7 @@
     "region": "Seaside Kingdom 1st Visit",
     "category": [
       "10 Seaside Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Swim|)}",
     "sort-key": "row-10-040"
@@ -4895,7 +4895,7 @@
     "region": "Seaside Kingdom 1st Visit",
     "category": [
       "10 Seaside Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Ground Pound|)}",
     "sort-key": "row-10-041"
@@ -4905,7 +4905,7 @@
     "region": "Seaside Kingdom 1st Visit",
     "category": [
       "10 Seaside Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptAll(|Resort Hat| and |Resort Outfit|)}",
     "sort-key": "row-10-042"
@@ -4915,7 +4915,7 @@
     "region": "Seaside Kingdom 1st Visit",
     "category": [
       "10 Seaside Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Mini Rocket|)}",
     "sort-key": "row-10-043"
@@ -4925,7 +4925,7 @@
     "region": "Seaside Kingdom 1st Visit",
     "category": [
       "10 Seaside Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Mini Rocket|)}",
     "sort-key": "row-10-044"
@@ -4935,7 +4935,7 @@
     "region": "Seaside Kingdom 1st Visit",
     "category": [
       "10 Seaside Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Gushen|)}",
     "sort-key": "row-10-045"
@@ -4945,7 +4945,7 @@
     "region": "Seaside Kingdom 1st Visit",
     "category": [
       "10 Seaside Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Gushen|)}",
     "sort-key": "row-10-046"
@@ -4955,7 +4955,7 @@
     "region": "Seaside Kingdom 1st Visit",
     "category": [
       "10 Seaside Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Uproot|)}",
     "sort-key": "row-10-047"
@@ -4965,7 +4965,7 @@
     "region": "Seaside Kingdom 1st Visit",
     "category": [
       "10 Seaside Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Uproot|)}",
     "sort-key": "row-10-048"
@@ -4975,7 +4975,7 @@
     "region": "Seaside Kingdom 1st Visit",
     "category": [
       "10 Seaside Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Gushen|)} or |Post Game|",
     "sort-key": "row-10-049"
@@ -4985,7 +4985,7 @@
     "region": "Seaside Kingdom 1st Visit",
     "category": [
       "10 Seaside Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Ground Pound|)}",
     "sort-key": "row-10-050"
@@ -5205,7 +5205,7 @@
     "region": "Luncheon Kingdom 1st Visit",
     "category": [
       "11 Luncheon Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "",
     "place_item": [
@@ -5218,7 +5218,7 @@
     "region": "Luncheon Kingdom Post Spewart",
     "category": [
       "11 Luncheon Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Hammer Bro|)} and |Get to Cheese|",
     "place_item": [
@@ -5231,7 +5231,7 @@
     "region": "Luncheon Kingdom Post Cheese",
     "category": [
       "11 Luncheon Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Meat|)} and |Get to Meat|",
     "place_item": [
@@ -5244,7 +5244,7 @@
     "region": "Luncheon Kingdom Post Meat",
     "category": [
       "11 Luncheon Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Lava Bubble|)}",
     "place_item": [
@@ -5257,7 +5257,7 @@
     "region": "Luncheon Kingdom Post Cave",
     "category": [
       "11 Luncheon Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Volbonan|)}",
     "place_item": [
@@ -5270,7 +5270,7 @@
     "region": "Luncheon Kingdom 1st Visit",
     "category": [
       "11 Luncheon Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "",
     "sort-key": "row-11-006"
@@ -5280,7 +5280,7 @@
     "region": "Luncheon Kingdom 1st Visit",
     "category": [
       "11 Luncheon Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "",
     "sort-key": "row-11-007"
@@ -5290,7 +5290,7 @@
     "region": "Luncheon Kingdom Post Spewart",
     "category": [
       "11 Luncheon Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "|Get to Cheese| and ({OptOne(|Hammer Bro|)} or ({OptOne(|Wall Jump|)} and {OptOne(|Dive|)} and (|High Jump| or {OptOne(|Spin|)} or {OptOne(|Cap Jump|)})))",
     "sort-key": "row-11-008"
@@ -5300,7 +5300,7 @@
     "region": "Luncheon Kingdom Post Spewart",
     "category": [
       "11 Luncheon Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "",
     "sort-key": "row-11-009"
@@ -5310,7 +5310,7 @@
     "region": "Luncheon Kingdom Post Spewart",
     "category": [
       "11 Luncheon Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Ground Pound|)}",
     "sort-key": "row-11-010"
@@ -5320,7 +5320,7 @@
     "region": "Luncheon Kingdom Post Cheese",
     "category": [
       "11 Luncheon Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Ground Pound|)}",
     "sort-key": "row-11-011"
@@ -5330,7 +5330,7 @@
     "region": "Luncheon Kingdom Post Spewart",
     "category": [
       "11 Luncheon Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Ground Pound|)} and ({OptOne(|Lava Bubble|)} or {OptOne(|Cap Vault|)})",
     "sort-key": "row-11-012"
@@ -5340,7 +5340,7 @@
     "region": "Luncheon Kingdom Post Spewart",
     "category": [
       "11 Luncheon Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "({OptAll(|Wall Jump| and |Dive|)}) or |Cap Vault| or {OptOne(|Hammer Bro|)}",
     "sort-key": "row-11-013"
@@ -5350,7 +5350,7 @@
     "region": "Luncheon Kingdom Post Cheese",
     "category": [
       "11 Luncheon Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Lava Bubble|)}",
     "sort-key": "row-11-014"
@@ -5360,7 +5360,7 @@
     "region": "Luncheon Kingdom Post Spewart",
     "category": [
       "11 Luncheon Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Hold/Throw|)}",
     "sort-key": "row-11-015"
@@ -5370,7 +5370,7 @@
     "region": "Luncheon Kingdom Post Spewart",
     "category": [
       "11 Luncheon Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Hold/Throw|)} and |Get to Cheese| and ({OptOne(|Hammer Bro|)} or ({OptOne(|Wall Jump|)} and {OptOne(|Dive|)} and (|High Jump| or {OptOne(|Spin|)} or {OptOne(|Cap Jump|)})))",
     "sort-key": "row-11-016"
@@ -5380,7 +5380,7 @@
     "region": "Luncheon Kingdom Post Cheese",
     "category": [
       "11 Luncheon Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptAll(|Hammer Bro| and |Hold/Throw|)}",
     "sort-key": "row-11-017"
@@ -5390,7 +5390,7 @@
     "region": "Luncheon Kingdom 1st Visit",
     "category": [
       "11 Luncheon Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Wall Jump|)}",
     "sort-key": "row-11-018"
@@ -5400,7 +5400,7 @@
     "region": "Luncheon Kingdom Post Meat",
     "category": [
       "11 Luncheon Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "",
     "sort-key": "row-11-019"
@@ -5410,8 +5410,8 @@
     "region": "Luncheon Kingdom Post Peace",
     "category": [
       "11 Luncheon Kingdom",
-	  "Post Peace",
-	  "Post Metro"
+      "Post Peace",
+      "Post Metro"
     ],
     "requires": "{OptAll(|High Jump| or |Spin|)}",
     "sort-key": "row-11-020"
@@ -5421,7 +5421,7 @@
     "region": "Luncheon Kingdom Post Cheese",
     "category": [
       "11 Luncheon Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Lava Bubble|)}",
     "sort-key": "row-11-021"
@@ -5431,7 +5431,7 @@
     "region": "Luncheon Kingdom Post Cheese",
     "category": [
       "11 Luncheon Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptAll(|Lava Bubble| and |Ground Pound|)}",
     "sort-key": "row-11-022"
@@ -5441,7 +5441,7 @@
     "region": "Luncheon Kingdom Post Cheese",
     "category": [
       "11 Luncheon Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Lava Bubble|)}",
     "sort-key": "row-11-023"
@@ -5451,7 +5451,7 @@
     "region": "Luncheon Kingdom 1st Visit",
     "category": [
       "11 Luncheon Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Goomba|)}",
     "sort-key": "row-11-024"
@@ -5461,7 +5461,7 @@
     "region": "Luncheon Kingdom Post Spewart",
     "category": [
       "11 Luncheon Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "",
     "sort-key": "row-11-025"
@@ -5471,7 +5471,7 @@
     "region": "Luncheon Kingdom Post Spewart",
     "category": [
       "11 Luncheon Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "",
     "sort-key": "row-11-026"
@@ -5481,7 +5481,7 @@
     "region": "Luncheon Kingdom Post Spewart",
     "category": [
       "11 Luncheon Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptAll(|Lava Bubble| and |Chef Hat| and |Chef Suit|)}",
     "sort-key": "row-11-027"
@@ -5491,7 +5491,7 @@
     "region": "Luncheon Kingdom Post Spewart",
     "category": [
       "11 Luncheon Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptAll(|Lava Bubble| and |Chef Hat| and |Chef Suit|)}",
     "sort-key": "row-11-028"
@@ -5501,7 +5501,7 @@
     "region": "Luncheon Kingdom Post Cave",
     "category": [
       "11 Luncheon Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Lava Bubble|)}",
     "sort-key": "row-11-029"
@@ -5511,7 +5511,7 @@
     "region": "Luncheon Kingdom Post Meat",
     "category": [
       "11 Luncheon Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "",
     "sort-key": "row-11-030"
@@ -5521,7 +5521,7 @@
     "region": "Luncheon Kingdom Post Meat",
     "category": [
       "11 Luncheon Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptAll(|Lava Bubble| or |Fire Bro|)}",
     "sort-key": "row-11-031"
@@ -5531,7 +5531,7 @@
     "region": "Luncheon Kingdom Post Cave",
     "category": [
       "11 Luncheon Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptAll(|Fire Piranha Plant| and |Hold/Throw|)}",
     "sort-key": "row-11-032"
@@ -5541,7 +5541,7 @@
     "region": "Luncheon Kingdom Post Cave",
     "category": [
       "11 Luncheon Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Lava Bubble|)}",
     "sort-key": "row-11-033"
@@ -5551,7 +5551,7 @@
     "region": "Luncheon Kingdom Post Meat",
     "category": [
       "11 Luncheon Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "",
     "sort-key": "row-11-034"
@@ -5561,8 +5561,8 @@
     "region": "Luncheon Kingdom Post Peace",
     "category": [
       "11 Luncheon Kingdom",
-	  "Post Peace",
-	  "Post Metro"
+      "Post Peace",
+      "Post Metro"
     ],
     "requires": "",
     "sort-key": "row-11-035"
@@ -5572,8 +5572,8 @@
     "region": "Luncheon Kingdom Post Peace",
     "category": [
       "11 Luncheon Kingdom",
-	  "Post Peace",
-	  "Post Metro"
+      "Post Peace",
+      "Post Metro"
     ],
     "requires": "{OptOne(|Lava Bubble|)}",
     "sort-key": "row-11-036"
@@ -5583,7 +5583,7 @@
     "region": "Luncheon Kingdom Post Spewart",
     "category": [
       "11 Luncheon Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "",
     "sort-key": "row-11-037"
@@ -5593,7 +5593,7 @@
     "region": "Luncheon Kingdom Post Spewart",
     "category": [
       "11 Luncheon Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "",
     "sort-key": "row-11-038"
@@ -5603,7 +5603,7 @@
     "region": "Luncheon Kingdom Post Cheese",
     "category": [
       "11 Luncheon Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Lava Bubble|)}",
     "sort-key": "row-11-039"
@@ -5613,7 +5613,7 @@
     "region": "Luncheon Kingdom Post Cheese",
     "category": [
       "11 Luncheon Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Lava Bubble|)}",
     "sort-key": "row-11-040"
@@ -5623,7 +5623,7 @@
     "region": "Luncheon Kingdom Post Spewart",
     "category": [
       "11 Luncheon Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Volbonan|)}",
     "sort-key": "row-11-041"
@@ -5633,7 +5633,7 @@
     "region": "Luncheon Kingdom Post Spewart",
     "category": [
       "11 Luncheon Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Volbonan|)}",
     "sort-key": "row-11-042"
@@ -5643,7 +5643,7 @@
     "region": "Luncheon Kingdom Post Spewart",
     "category": [
       "11 Luncheon Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Hammer Bro|)} and |Get to Cheese|",
     "sort-key": "row-11-043"
@@ -5653,7 +5653,7 @@
     "region": "Luncheon Kingdom Post Spewart",
     "category": [
       "11 Luncheon Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Hammer Bro|)} and |Get to Cheese|",
     "sort-key": "row-11-044"
@@ -5663,7 +5663,7 @@
     "region": "Luncheon Kingdom Post Cheese",
     "category": [
       "11 Luncheon Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Lava Bubble|)}",
     "sort-key": "row-11-045"
@@ -5673,7 +5673,7 @@
     "region": "Luncheon Kingdom Post Cheese",
     "category": [
       "11 Luncheon Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Lava Bubble|)}",
     "sort-key": "row-11-046"
@@ -5683,7 +5683,7 @@
     "region": "Luncheon Kingdom 1st Visit",
     "category": [
       "11 Luncheon Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "|Into the Lake| and |Sherm Wall|",
     "sort-key": "row-11-047"
@@ -5693,8 +5693,8 @@
     "region": "Luncheon Kingdom Post Peace",
     "category": [
       "11 Luncheon Kingdom",
-	  "Post Peace",
-	  "Post Metro"
+      "Post Peace",
+      "Post Metro"
     ],
     "requires": "|Tourist 2|",
     "sort-key": "row-11-048"
@@ -5704,7 +5704,7 @@
     "region": "Luncheon Kingdom Post Meat",
     "category": [
       "11 Luncheon Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Cheep Cheep|)} or ({OptAll(|Ground Pound| and |Swim|)})",
     "sort-key": "row-11-049"
@@ -5904,7 +5904,7 @@
     "region": "Ruined Kingdom 1st Visit",
     "category": [
       "12 Ruined Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Spark Pylon|)}",
     "place_item": [
@@ -5917,7 +5917,7 @@
     "region": "Ruined Kingdom 1st Visit",
     "category": [
       "12 Ruined Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "",
     "sort-key": "row-12-002"
@@ -5927,8 +5927,8 @@
     "region": "Ruined Kingdom Post Peace",
     "category": [
       "12 Ruined Kingdom",
-	  "Post Peace",
-	  "Post Metro"
+      "Post Peace",
+      "Post Metro"
     ],
     "requires": "{OptAll(|Mini Rocket| AND |Spark Pylon|)}",
     "sort-key": "row-12-003"
@@ -5938,8 +5938,8 @@
     "region": "Ruined Kingdom Post Peace",
     "category": [
       "12 Ruined Kingdom",
-	  "Post Peace",
-	  "Post Metro"
+      "Post Peace",
+      "Post Metro"
     ],
     "requires": "{OptAll(|Mini Rocket| AND |Spark Pylon|)}",
     "sort-key": "row-12-004"
@@ -6009,7 +6009,7 @@
     "region": "Bowser Kingdom Courtyards",
     "category": [
       "13 Bowser Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Ground Pound|)}",
     "sort-key": "row-13-001"
@@ -6019,7 +6019,7 @@
     "region": "Bowser Kingdom Courtyards",
     "category": [
       "13 Bowser Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "",
     "sort-key": "row-13-002"
@@ -6029,7 +6029,7 @@
     "region": "Bowser Kingdom Courtyards",
     "category": [
       "13 Bowser Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "",
     "sort-key": "row-13-003"
@@ -6039,7 +6039,7 @@
     "region": "Bowser Kingdom Poison Swamp",
     "category": [
       "13 Bowser Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "",
     "place_item": [
@@ -6052,7 +6052,7 @@
     "region": "Bowser Kingdom Courtyards",
     "category": [
       "13 Bowser Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "",
     "sort-key": "row-13-005"
@@ -6062,7 +6062,7 @@
     "region": "Bowser Kingdom Courtyards",
     "category": [
       "13 Bowser Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "",
     "sort-key": "row-13-006"
@@ -6072,7 +6072,7 @@
     "region": "Bowser Kingdom Courtyards",
     "category": [
       "13 Bowser Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "",
     "sort-key": "row-13-007"
@@ -6082,7 +6082,7 @@
     "region": "Bowser Kingdom Courtyards",
     "category": [
       "13 Bowser Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Swim|)}",
     "sort-key": "row-13-008"
@@ -6092,8 +6092,8 @@
     "region": "Bowser Kingdom Post Peace",
     "category": [
       "13 Bowser Kingdom",
-	  "Post Peace",
-	  "Post Metro"
+      "Post Peace",
+      "Post Metro"
     ],
     "requires": "",
     "sort-key": "row-13-009"
@@ -6103,8 +6103,8 @@
     "region": "Bowser Kingdom Post Peace",
     "category": [
       "13 Bowser Kingdom",
-	  "Post Peace",
-	  "Post Metro"
+      "Post Peace",
+      "Post Metro"
     ],
     "requires": "{OptAll(|Lakitu| and |Slingshot|)}",
     "sort-key": "row-13-010"
@@ -6114,7 +6114,7 @@
     "region": "Bowser Kingdom Poison Swamp",
     "category": [
       "13 Bowser Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "({OptAll(|Long Jump| and |Dive|)}) or ({OptAll(|Lakitu| and |Slingshot|)} and |Bowser Kingdom Mecha-Broodal Multimoon|)",
     "sort-key": "row-13-011"
@@ -6124,7 +6124,7 @@
     "region": "Bowser Kingdom 1st Visit",
     "category": [
       "13 Bowser Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "",
     "sort-key": "row-13-012"
@@ -6134,7 +6134,7 @@
     "region": "Bowser Kingdom Poison Swamp",
     "category": [
       "13 Bowser Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Ground Pound|)}",
     "sort-key": "row-13-013"
@@ -6144,7 +6144,7 @@
     "region": "Bowser Kingdom Outer Wall",
     "category": [
       "13 Bowser Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "",
     "sort-key": "row-13-014"
@@ -6154,8 +6154,8 @@
     "region": "Bowser Kingdom Post Peace",
     "category": [
       "13 Bowser Kingdom",
-	  "Post Peace",
-	  "Post Metro"
+      "Post Peace",
+      "Post Metro"
     ],
     "requires": "",
     "sort-key": "row-13-015"
@@ -6165,7 +6165,7 @@
     "region": "Bowser Kingdom Courtyards",
     "category": [
       "13 Bowser Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Ground Pound|)}",
     "sort-key": "row-13-016"
@@ -6175,8 +6175,8 @@
     "region": "Bowser Kingdom Post Peace",
     "category": [
       "13 Bowser Kingdom",
-	  "Post Peace",
-	  "Post Metro"
+      "Post Peace",
+      "Post Metro"
     ],
     "requires": "",
     "sort-key": "row-13-017"
@@ -6186,7 +6186,7 @@
     "region": "Bowser Kingdom Courtyards",
     "category": [
       "13 Bowser Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "",
     "sort-key": "row-13-018"
@@ -6196,7 +6196,7 @@
     "region": "Bowser Kingdom 1st Visit",
     "category": [
       "13 Bowser Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Goomba|)}",
     "sort-key": "row-13-019"
@@ -6206,7 +6206,7 @@
     "region": "Bowser Kingdom Outer Wall",
     "category": [
       "13 Bowser Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "",
     "sort-key": "row-13-020"
@@ -6216,7 +6216,7 @@
     "region": "Bowser Kingdom Courtyards",
     "category": [
       "13 Bowser Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Pokio|)}",
     "sort-key": "row-13-021"
@@ -6226,7 +6226,7 @@
     "region": "Bowser Kingdom Courtyards",
     "category": [
       "13 Bowser Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Pokio|)}",
     "sort-key": "row-13-022"
@@ -6236,8 +6236,8 @@
     "region": "Bowser Kingdom Post Peace",
     "category": [
       "13 Bowser Kingdom",
-	  "Post Peace",
-	  "Post Metro"
+      "Post Peace",
+      "Post Metro"
     ],
     "requires": "{OptOne(|Pokio|)}",
     "sort-key": "row-13-023"
@@ -6247,7 +6247,7 @@
     "region": "Bowser Kingdom Courtyards",
     "category": [
       "13 Bowser Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Jizo|)}",
     "sort-key": "row-13-024"
@@ -6257,7 +6257,7 @@
     "region": "Bowser Kingdom Courtyards",
     "category": [
       "13 Bowser Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Jizo|)}",
     "sort-key": "row-13-025"
@@ -6267,7 +6267,7 @@
     "region": "Bowser Kingdom Courtyards",
     "category": [
       "13 Bowser Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Spark Pylon|)}",
     "sort-key": "row-13-026"
@@ -6277,8 +6277,8 @@
     "region": "Bowser Kingdom Post Peace",
     "category": [
       "13 Bowser Kingdom",
-	  "Post Peace",
-	  "Post Metro"
+      "Post Peace",
+      "Post Metro"
     ],
     "requires": "{OptOne(|Lakitu|)}",
     "sort-key": "row-13-027"
@@ -6288,7 +6288,7 @@
     "region": "Bowser Kingdom Outer Wall",
     "category": [
       "13 Bowser Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "",
     "sort-key": "row-13-028"
@@ -6298,7 +6298,7 @@
     "region": "Bowser Kingdom Courtyards",
     "category": [
       "13 Bowser Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "",
     "sort-key": "row-13-029"
@@ -6308,8 +6308,8 @@
     "region": "Bowser Kingdom Post Peace",
     "category": [
       "13 Bowser Kingdom",
-	  "Post Peace",
-	  "Post Metro"
+      "Post Peace",
+      "Post Metro"
     ],
     "requires": "",
     "sort-key": "row-13-030"
@@ -6319,7 +6319,7 @@
     "region": "Bowser Kingdom Courtyards",
     "category": [
       "13 Bowser Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptAll(|Samurai Helmet| and |Samurai Armor|)}",
     "sort-key": "row-13-031"
@@ -6329,7 +6329,7 @@
     "region": "Bowser Kingdom Courtyards",
     "category": [
       "13 Bowser Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptAll(|Samurai Helmet| and |Samurai Armor|)}",
     "sort-key": "row-13-032"
@@ -6339,8 +6339,8 @@
     "region": "Bowser Kingdom Post Peace",
     "category": [
       "13 Bowser Kingdom",
-	  "Post Peace",
-	  "Post Metro"
+      "Post Peace",
+      "Post Metro"
     ],
     "requires": "{OptOne(|Pokio|)}",
     "sort-key": "row-13-033"
@@ -6350,8 +6350,8 @@
     "region": "Bowser Kingdom Post Peace",
     "category": [
       "13 Bowser Kingdom",
-	  "Post Peace",
-	  "Post Metro"
+      "Post Peace",
+      "Post Metro"
     ],
     "requires": "{OptOne(|Pokio|)}",
     "sort-key": "row-13-034"
@@ -6361,8 +6361,8 @@
     "region": "Bowser Kingdom Post Peace",
     "category": [
       "13 Bowser Kingdom",
-	  "Post Peace",
-	  "Post Metro"
+      "Post Peace",
+      "Post Metro"
     ],
     "requires": "{OptAll(|Jizo| and |Wall Jump|)}",
     "sort-key": "row-13-035"
@@ -6372,8 +6372,8 @@
     "region": "Bowser Kingdom Post Peace",
     "category": [
       "13 Bowser Kingdom",
-	  "Post Peace",
-	  "Post Metro"
+      "Post Peace",
+      "Post Metro"
     ],
     "requires": "{OptAll(|Jizo| and |Wall Jump|)}",
     "sort-key": "row-13-036"
@@ -6383,7 +6383,7 @@
     "region": "Bowser Kingdom Poison Swamp",
     "category": [
       "13 Bowser Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Hold/Throw|)}",
     "sort-key": "row-13-037"
@@ -6393,7 +6393,7 @@
     "region": "Bowser Kingdom Poison Swamp",
     "category": [
       "13 Bowser Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Hold/Throw|)}",
     "sort-key": "row-13-038"
@@ -6652,7 +6652,7 @@
     "region": "Moon Kingdom 1st Visit",
     "category": [
       "14 Moon Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "",
     "sort-key": "row-14-002"
@@ -6662,7 +6662,7 @@
     "region": "Moon Kingdom Post Moon Cave",
     "category": [
       "14 Moon Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Frog|)}",
     "sort-key": "row-14-003"
@@ -6672,7 +6672,7 @@
     "region": "Moon Kingdom 1st Visit",
     "category": [
       "14 Moon Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Hold/Throw|)}",
     "sort-key": "row-14-004"
@@ -6682,7 +6682,7 @@
     "region": "Moon Kingdom 1st Visit",
     "category": [
       "14 Moon Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "",
     "sort-key": "row-14-005"
@@ -6692,7 +6692,7 @@
     "region": "Moon Kingdom 1st Visit",
     "category": [
       "14 Moon Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "",
     "sort-key": "row-14-006"
@@ -6702,7 +6702,7 @@
     "region": "Moon Kingdom 1st Visit",
     "category": [
       "14 Moon Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Long Jump|)}",
     "sort-key": "row-14-007"
@@ -6712,7 +6712,7 @@
     "region": "Moon Kingdom 1st Visit",
     "category": [
       "14 Moon Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Long Jump|)}",
     "sort-key": "row-14-008"
@@ -6722,7 +6722,7 @@
     "region": "Moon Kingdom 1st Visit",
     "category": [
       "14 Moon Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Bowser Statue|)}",
     "sort-key": "row-14-009"
@@ -6732,7 +6732,7 @@
     "region": "Moon Kingdom 1st Visit",
     "category": [
       "14 Moon Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Parabones|)}",
     "sort-key": "row-14-010"
@@ -6742,7 +6742,7 @@
     "region": "Moon Kingdom 1st Visit",
     "category": [
       "14 Moon Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Banzai Bill|)}",
     "sort-key": "row-14-011"
@@ -6752,7 +6752,7 @@
     "region": "Moon Kingdom 1st Visit",
     "category": [
       "14 Moon Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Banzai Bill|)}",
     "sort-key": "row-14-012"
@@ -6762,7 +6762,7 @@
     "region": "Moon Kingdom 1st Visit",
     "category": [
       "14 Moon Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Banzai Bill|)}",
     "sort-key": "row-14-013"
@@ -6772,7 +6772,7 @@
     "region": "Moon Kingdom Post Moon Cave",
     "category": [
       "14 Moon Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Frog|)}",
     "sort-key": "row-14-014"
@@ -7022,7 +7022,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Game"
+      "Post Game"
     ],
     "requires": "{OptAll(|Yoshi| OR |Cap Vault|)}",
     "sort-key": "row-15-001"
@@ -7032,7 +7032,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Game"
+      "Post Game"
     ],
     "requires": "",
     "sort-key": "row-15-002"
@@ -7042,7 +7042,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Game"
+      "Post Game"
     ],
     "requires": "",
     "sort-key": "row-15-003"
@@ -7052,7 +7052,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Game"
+      "Post Game"
     ],
     "requires": "{OptOne(|Hold/Throw|)}",
     "sort-key": "row-15-004"
@@ -7062,7 +7062,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Game"
+      "Post Game"
     ],
     "requires": "{OptOne(|Hold/Throw|)}",
     "sort-key": "row-15-005"
@@ -7072,7 +7072,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Game"
+      "Post Game"
     ],
     "requires": "{OptOne(|Hold/Throw|)}",
     "sort-key": "row-15-006"
@@ -7082,7 +7082,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Game"
+      "Post Game"
     ],
     "requires": "{OptAll(|Hold/Throw| AND |Swim|)}",
     "sort-key": "row-15-007"
@@ -7092,7 +7092,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Game"
+      "Post Game"
     ],
     "requires": "{OptOne(|Spin Throw|)}",
     "sort-key": "row-15-008"
@@ -7102,7 +7102,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Game"
+      "Post Game"
     ],
     "requires": "{OptAll(|Motor Scooter| OR |Roll|)}",
     "sort-key": "row-15-009"
@@ -7112,7 +7112,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Game"
+      "Post Game"
     ],
     "requires": "{OptOne(|Ground Pound|)}",
     "sort-key": "row-15-010"
@@ -7122,7 +7122,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Game"
+      "Post Game"
     ],
     "requires": "{OptOne(|Dash (2D)|)}",
     "sort-key": "row-15-011"
@@ -7132,7 +7132,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Game"
+      "Post Game"
     ],
     "requires": "",
     "sort-key": "row-15-012"
@@ -7142,7 +7142,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Game"
+      "Post Game"
     ],
     "requires": "{OptOne(|Yoshi|)}",
     "sort-key": "row-15-013"
@@ -7152,7 +7152,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Game"
+      "Post Game"
     ],
     "requires": "{OptOne(|Yoshi)}",
     "sort-key": "row-15-014"
@@ -7162,7 +7162,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Game"
+      "Post Game"
     ],
     "requires": "{OptOne(|Yoshi|)}",
     "sort-key": "row-15-015"
@@ -7172,7 +7172,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Game"
+      "Post Game"
     ],
     "requires": "{OptOne(|Goomba|)}",
     "sort-key": "row-15-016"
@@ -7182,7 +7182,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Game"
+      "Post Game"
     ],
     "requires": "{OptOne(|Goomba|)}",
     "sort-key": "row-15-017"
@@ -7192,7 +7192,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Game"
+      "Post Game"
     ],
     "requires": "",
     "sort-key": "row-15-018"
@@ -7202,7 +7202,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Game"
+      "Post Game"
     ],
     "requires": "",
     "sort-key": "row-15-019"
@@ -7212,7 +7212,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Game"
+      "Post Game"
     ],
     "requires": "",
     "sort-key": "row-15-020"
@@ -7222,7 +7222,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Game"
+      "Post Game"
     ],
     "requires": "",
     "sort-key": "row-15-021"
@@ -7232,7 +7232,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Game"
+      "Post Game"
     ],
     "requires": "",
     "sort-key": "row-15-022"
@@ -7242,7 +7242,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Game"
+      "Post Game"
     ],
     "requires": "{OptAll(|Mini Rocket| AND |Picture Match Part (Mario)|)}",
     "sort-key": "row-15-023"
@@ -7252,7 +7252,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Game"
+      "Post Game"
     ],
     "requires": "{OptAll(|Mini Rocket| AND |Picture Match Part (Mario)|)}",
     "sort-key": "row-15-024"
@@ -7262,7 +7262,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Game"
+      "Post Game"
     ],
     "requires": "",
     "sort-key": "row-15-025"
@@ -7272,7 +7272,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Game"
+      "Post Game"
     ],
     "requires": "{OptOne(|Ground Pound|)}",
     "sort-key": "row-15-026"
@@ -7282,7 +7282,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Game"
+      "Post Game"
     ],
     "requires": "{OptAll(|Mario 64 Cap| and |Mario 64 Suit|)}",
     "sort-key": "row-15-027"
@@ -7292,7 +7292,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Game"
+      "Post Game"
     ],
     "requires": "{OptAll(|Mario 64 Cap| and |Mario 64 Suit|)}",
     "sort-key": "row-15-028"
@@ -7302,7 +7302,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Game"
+      "Post Game"
     ],
     "requires": "{OptOne(|Yoshi|)}",
     "sort-key": "row-15-029"
@@ -7312,7 +7312,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Game"
+      "Post Game"
     ],
     "requires": "{OptOne(|Yoshi|)}",
     "sort-key": "row-15-030"
@@ -7322,7 +7322,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Game"
+      "Post Game"
     ],
     "requires": "{OptOne(|Dash (2D)|)}",
     "sort-key": "row-15-031"
@@ -7332,7 +7332,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Game"
+      "Post Game"
     ],
     "requires": "",
     "sort-key": "row-15-032"
@@ -7342,7 +7342,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Game"
+      "Post Game"
     ],
     "requires": "{OptOne(|Knucklotec's Fist|)}",
     "sort-key": "row-15-033"
@@ -7352,7 +7352,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Game"
+      "Post Game"
     ],
     "requires": "{OptOne(|Uproot|)} and ({OptOne(|Hold/Throw|)} or {OptOne(|Yoshi|)} or ({OptOne(|Dive|)} and {OptOne(|Wall Jump|)} and ({OptOne(|Goomba|)} or ({OptOne(|Cap Jump|)} and ({OptOne(|Back Flip|)} or ({OptAll(|Ground Pound| and |Ground Pound Jump|)}))))))",
     "sort-key": "row-15-034"
@@ -7362,7 +7362,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Game"
+      "Post Game"
     ],
     "requires": "{OptOne(|Sherm|)}",
     "sort-key": "row-15-035"
@@ -7372,7 +7372,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Game"
+      "Post Game"
     ],
     "requires": "{OptOne(|Gushen|)}",
     "sort-key": "row-15-036"
@@ -7382,7 +7382,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Game"
+      "Post Game"
     ],
     "requires": "{OptOne(|Lava Bubble|)}",
     "sort-key": "row-15-037"
@@ -7392,7 +7392,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Game"
+      "Post Game"
     ],
     "requires": "{OptOne(|Yoshi|)}",
     "sort-key": "row-15-038"
@@ -7402,7 +7402,7 @@
     "region": "Luncheon Kingdom Post Cheese",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Game"
+      "Post Game"
     ],
     "requires": "|Lava Bubble|",
     "sort-key": "row-15-039"
@@ -7412,7 +7412,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Game"
+      "Post Game"
     ],
     "requires": "|Tourist 4|",
     "sort-key": "row-15-040"
@@ -7422,7 +7422,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Game"
+      "Post Game"
     ],
     "requires": "{OptOne(|Ground Pound|)}",
     "sort-key": "row-15-041"
@@ -7432,7 +7432,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Game"
+      "Post Game"
     ],
     "requires": "|Peach Mushroom|",
     "sort-key": "row-15-042"
@@ -7442,7 +7442,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Game"
+      "Post Game"
     ],
     "requires": "|Peach Mushroom|",
     "sort-key": "row-15-043"
@@ -7452,7 +7452,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "",
     "sort-key": "row-15-044"
@@ -7462,7 +7462,7 @@
     "region": "Mushroom Kingdom Post Game",
     "category": [
       "15 Mushroom Kingdom",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "|Sand Kingdom Knucklotec Multimoon| and |Lake Kingdom Rango Multimoon| and |Wooded Kingdom Torkdrift Multimoon| and |Metro Kingdom Festival Multimoon| and |Snow Kingdom Bound Bowl Grand Prix Multimoon| and |Seaside Kingdom Mollusque-Lanceur Multimoon| and |Luncheon Kingdom Cookatiel Multimoon|",
     "sort-key": "row-15-045"

@@ -6,12 +6,22 @@
   "death_link": true,
   "starting_items": [
     {
-            "items": ["Frog", "Spark Pylon", "Chain Chomp", "Big Chain Chomp", "Broode's Chain Chomp"],
-            "_comment": "Capture Randomizer Items"
-        },
+      "items": [
+        "Frog",
+        "Spark Pylon",
+        "Chain Chomp",
+        "Big Chain Chomp",
+        "Broode's Chain Chomp"
+      ],
+      "_comment": "Capture Randomizer Items"
+    },
     {
-            "items": ["Capture", "Cap Throw/Hold", "Enter Pipe"],
-            "_comment": "Action Randomizer Items"
-        }
+      "items": [
+        "Capture",
+        "Cap Throw/Hold",
+        "Enter Pipe"
+      ],
+      "_comment": "Action Randomizer Items"
+    }
   ]
 }
