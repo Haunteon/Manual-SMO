@@ -129,7 +129,7 @@ def after_options_defined(options: Type[PerGameCommonOptions]):
 
 # Use this Hook if you want to add your Option to an Option group (existing or not)
 def before_option_groups_created(groups: dict[str, list[Type[Option[Any]]]]) -> dict[str, list[Type[Option[Any]]]]:
-    groups["Moon Requirements"] = [moonsreqforcascade, moonsreqforsand, moonsreqforlake, moonsreqforwooded, moonsreqforlost, moonsreqformetro, moonsreqforsnow, moonsreqforseaside, moonsreqforluncheon, moonsreqforruined, moonsreqforbowser]
+    groups["Moon Requirements"] = [MoonsRequiredForCascade, MoonsRequiredForSand, MoonsRequiredForLake, MoonsRequiredForWooded, MoonsRequiredForLost, MoonsRequiredForMetro, MoonsRequiredForSnow, MoonsRequiredForSeaside, MoonsRequiredForLuncheon, MoonsRequiredForRuined, MoonsRequiredForBowser]
     # Uses the format groups['GroupName'] = [TotalCharactersToWinWith]
     return groups
 
