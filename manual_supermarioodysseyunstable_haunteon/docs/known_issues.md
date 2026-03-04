@@ -8,7 +8,7 @@ Top hat tower - require frog or expect checkpoint
 ## Lake Kingdom
 ~~broken pillar lake - add swim for convenience~~
 ## Wooded Kingdom
-"Blocked" after spewart
+"Blocked" after spewart.
 Reachable from post wall with a long jump
 - Nut at dead end
 - crumbling tower
