@@ -423,7 +423,7 @@
     "category": [
       "02 Cascade Kingdom"
     ],
-    "requires": "{OptAll(|Chain Chomp|)}",
+    "requires": "",
     "sort-key": "row-02-007"
   },
   {
@@ -1658,7 +1658,7 @@
     "category": [
       "04 Lake Kingdom"
     ],
-    "requires": "{OptAll(|Cheep Cheep| or |Ground Pound|)}",
+    "requires": "{OptOne(|Cheep Cheep|)} or ({OptAll(|Ground Pound| and |Swim|)})",
     "sort-key": "row-04-007"
   },
   {
@@ -3029,7 +3029,7 @@
       "07 Lost Kingdom",
       "Post Game"
     ],
-    "requires": "{OptAll(|Momentum| and |View of Lost|)}",
+    "requires": "|Momentum| and |View of Lost|",
     "sort-key": "row-07-024"
   },
   {
@@ -3039,7 +3039,7 @@
       "07 Lost Kingdom",
       "Post Game"
     ],
-    "requires": "|Suitcase|",
+    "requires": "|Suitcase| and |View of Lost|",
     "sort-key": "row-07-025"
   },
   {
@@ -3089,7 +3089,7 @@
       "07 Lost Kingdom",
       "Moon Rock"
     ],
-    "requires": "{OptAll(|Ground Pound| and |Wall Jump| and |Dive|)}",
+    "requires": "|View of Lost| and {OptOne(|Dive|)}",
     "sort-key": "row-07-030"
   },
   {
@@ -4713,7 +4713,7 @@
       "10 Seaside Kingdom",
       "Post Metro"
     ],
-    "requires": "{OptAll(|Gushen| and |Hold/Throw| and |Swim|)}",
+    "requires": "{OptAll(|Hold/Throw| and |Swim|)} and (|Cap Vault| or {OptOne(|Gushen|)})",
     "sort-key": "row-10-023"
   },
   {
@@ -4723,7 +4723,7 @@
       "10 Seaside Kingdom",
       "Post Metro"
     ],
-    "requires": "{OptAll(|Gushen| and |Hold/Throw|)}",
+    "requires": "{OptOne(|Hold/Throw|)}",
     "sort-key": "row-10-024"
   },
   {
@@ -4733,7 +4733,7 @@
       "10 Seaside Kingdom",
       "Post Metro"
     ],
-    "requires": "{OptAll(|Gushen| and |Hold/Throw|)}",
+    "requires": "{OptOne(|Hold/Throw|)}",
     "sort-key": "row-10-025"
   },
   {
@@ -4743,7 +4743,7 @@
       "10 Seaside Kingdom",
       "Post Metro"
     ],
-    "requires": "{OptAll(|Gushen| and |Hold/Throw| and |Swim|)}",
+    "requires": "{OptAll(|Hold/Throw| and |Swim|)}",
     "sort-key": "row-10-026"
   },
   {
@@ -5681,7 +5681,7 @@
   },
   {
     "name": "Secret Path to Mount Volbono!",
-    "region": "Luncheon Kingdom 1st Visit",
+    "region": "Sand Kingdom 1st Visit",
     "category": [
       "11 Luncheon Kingdom",
       "Post Metro"
