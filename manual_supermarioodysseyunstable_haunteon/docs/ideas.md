@@ -5,18 +5,18 @@
 ## Sand
 ### Door
 - Purple Shop Sombrero + Poncho (Sand)
-- Yellow Shop Skeleton
+- Yellow Shop Skeleton (Mushroom Post Game)
 ## Lake
 ### Door
 - Purple Shop Swim Gear (Lake)
-- Yellow Shop Boxer Shorts
+- Yellow Shop Boxer Shorts (Sand 1st Visit)
 ### Sister (Space)
 - Purple Shop Space (Moon)
-- Yellow Shop Satellaview 
+- Yellow Shop Satellaview (Mushroom Post Game)
 ### Sister (Cowboy)
 - Purple Shop Cowboy (Sand)
 ### Sister (Pirate)
-- Yellow Shop Pirate
+- Yellow Shop Pirate (Seaside 1st Visit)
 ## Wooded
 ### Door
 - Purple Shop Explorer (Wooded)
@@ -24,28 +24,29 @@
 ### Door
 - Purple Shop Builder (Metro)
 ### New Donker
-- Yellow Shop Clown
+- Yellow Shop Clown (Luncheon 1st Visit)
 ## Snow
 ### Door
 - Purple Shop Snow (Snow)
 ### Shiverian
-- Yellow Shop Boxer Shorts
+- Yellow Shop Boxer Shorts (Sand 1st Visit
 ## Seaside
 - Purple Shop Resort (Seaside)
-- Yellow Shop Sunshine
+- Yellow Shop Sunshine (Mushroom Post Game)
 ## Luncheon
 ### Door
 - Purple Shop Chef (Luncheon)
 ### Steam Gardener
-- Yellow Shop Mechanic
+- Yellow Shop Mechanic (Wooded 1st Visit)
 ## Bowser
 ### Door
 - Purple Shop Samuria (Bowser)
 ## Moon
 ### Shiverian
-- Yellow Shop Doctor
+- Yellow Shop Doctor (220 Power Moon)
 ## Mushroom
-- Purple Shop Mario 64
-- Yellow Shop Metal Mario
+- Purple Shop Mario 64 (Mushroom Post Game)
+- Yellow Shop Metal Mario (560 Power Moons) 
+
 
 
