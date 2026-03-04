@@ -31,6 +31,7 @@
 ### Shiverian
 - Yellow Shop Boxer Shorts (Sand 1st Visit
 ## Seaside
+### Door
 - Purple Shop Resort (Seaside)
 - Yellow Shop Sunshine (Mushroom Post Game)
 ## Luncheon
@@ -48,6 +49,7 @@
 ### Door
 - Purple Shop Mario 64 (Mushroom Post Game)
 - Yellow Shop Metal Mario (560 Power Moons) 
+
 
 
 
