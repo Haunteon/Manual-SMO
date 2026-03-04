@@ -8,12 +8,12 @@ Top hat tower - require frog or expect checkpoint
 ## Lake Kingdom
 ~~broken pillar lake - add swim for convenience~~
 ## Wooded Kingdom
+"Blocked" after spewart
+Reachable from post wall with a long jump
 - Nut at dead end
 - crumbling tower
 - nut in the tower
 - strech legs
-all get "Blocked" after spewart
-Reachable from post wall with a long jump
 ## Lost
 ~~regular cup - delete opt all~~
 ~~Peach in lost - add view of lost~~
