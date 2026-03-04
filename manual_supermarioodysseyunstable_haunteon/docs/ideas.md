@@ -1,7 +1,7 @@
 # Outfit Requirements
 ## Cascade
 ### Bonnetor
-- Purple Shop Caveman (CCascade)
+- Purple Shop Caveman (Cascade)
 ## Sand
 ### Door
 - Purple Shop Sombrero + Poncho (Sand)
@@ -47,3 +47,4 @@
 ## Mushroom
 - Purple Shop Mario 64
 - Yellow Shop Metal Mario
+
