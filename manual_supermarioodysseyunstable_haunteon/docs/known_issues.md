@@ -3,7 +3,7 @@ Top hat tower - require frog or expect checkpoint or Frog Skip
 ## Cascade Kingdom
 
 ## Sand Kingdom
-
+Sand Kingdom Regular Cup - Added Jaxi logic
 ## Lake Kingdom
 
 ## Wooded Kingdom
@@ -32,5 +32,8 @@ Reachable from post wall with a long jump
 ## Mushroom
 
 ## Dark
-
+Changed Dark Side Requirements
 ## Darker
+Changed Darker Side Requirements
+## Other
+Caveman Headwear - Changed category

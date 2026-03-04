@@ -440,7 +440,7 @@
     "connects_to": [
       "Dark Side Post Mech"
     ],
-    "requires": "{DarkerEnabled(Darker:250)}"
+    "requires": "{EnterDark()}"
   },
   "Dark Side Post Mech": {
     "connects_to": [
@@ -450,6 +450,6 @@
   "Darker Side": {
     "connects_to": [
     ],
-    "requires": "{DarkerEnabled(Darker:500)}"
+    "requires": "{EnterDarker()}"
   }
 }

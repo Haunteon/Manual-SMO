@@ -1362,7 +1362,7 @@
       "03 Sand Kingdom",
       "Post Game"
     ],
-    "requires": "{OptOne(|Spark Pylon|)}",
+    "requires": "{OptAll(|Spark Pylon| or |Jaxi|)}",
     "sort-key": "row-03-066"
   },
   {
