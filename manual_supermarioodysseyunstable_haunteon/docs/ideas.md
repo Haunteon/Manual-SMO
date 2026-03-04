@@ -11,7 +11,7 @@
 - Purple Shop Swim Gear (Lake)
 - Yellow Shop Boxer Shorts
 ### Sister (Space)
-- Purple Shop Regional Space (Moon)
+- Purple Shop Space (Moon)
 - Yellow Shop Satellaview 
 ### Sister (Cowboy)
 - Purple Shop Cowboy (Sand)
@@ -47,4 +47,5 @@
 ## Mushroom
 - Purple Shop Mario 64
 - Yellow Shop Metal Mario
+
 
