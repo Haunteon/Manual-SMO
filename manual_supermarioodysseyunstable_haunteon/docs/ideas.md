@@ -1,28 +1,49 @@
-## Outfit Requirements
-### Sand
-- Purple Shop Sombrero + Poncho
+# Outfit Requirements
+## Cascade
+### Bonnetor
+- Purple Shop Caveman (CCascade)
+## Sand
+### Door
+- Purple Shop Sombrero + Poncho (Sand)
 - Yellow Shop Skeleton
-### Lake
-- Purple Shop Swim Gear
+## Lake
+### Door
+- Purple Shop Swim Gear (Lake)
 - Yellow Shop Boxer Shorts
-#### Sisters
-- Purple Shop Regional Space
+### Sister (Space)
+- Purple Shop Regional Space (Moon)
 - Yellow Shop Satellaview 
-
-
-### Wooded
-- Purple Shop Explorer
-- 
-### Metro
-- Purple Shop Builder
-- 
-### Snow
-- Purple Shop Snow
-- 
-### Seaside
-- Purple Shop Resort
+### Sister (Cowboy)
+- Purple Shop Cowboy (Sand)
+### Sister (Pirate)
+- Yellow Shop Pirate
+## Wooded
+### Door
+- Purple Shop Explorer (Wooded)
+## Metro
+### Door
+- Purple Shop Builder (Metro)
+### New Donker
+- Yellow Shop Clown
+## Snow
+### Door
+- Purple Shop Snow (Snow)
+### Shiverian
+- Yellow Shop Boxer Shorts
+## Seaside
+- Purple Shop Resort (Seaside)
 - Yellow Shop Sunshine
-### Moon
-### Mushroom
+## Luncheon
+### Door
+- Purple Shop Chef (Luncheon)
+### Steam Gardener
+- Yellow Shop Mechanic
+## Bowser
+### Door
+- Purple Shop Samuria (Bowser)
+## Moon
+### Shiverian
+- Yellow Shop Doctor
+## Mushroom
 - Purple Shop Mario 64
 - Yellow Shop Metal Mario
