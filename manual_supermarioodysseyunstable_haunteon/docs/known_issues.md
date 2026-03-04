@@ -1,5 +1,5 @@
 ## Cap Kingdom
-Top hat tower - require frog or expect checkpoint
+Top hat tower - require frog or expect checkpoint or Frog Skip
 ## Cascade Kingdom
 
 ## Sand Kingdom

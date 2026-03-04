@@ -1,3 +1,9 @@
+# New Features
+- Yaml Option Exclude Jump Rope/Volley Ball 100 Locations
+- Purple Shop Sanity
+- Yellow Shop Sanity
+- Capture Sanity
+
 # Outfit Requirements
 ## Cascade
 ### Bonnetor
@@ -49,8 +55,3 @@
 ### Door
 - Purple Shop Mario 64 (Mushroom Post Game)
 - Yellow Shop Metal Mario (560 Power Moons) 
-
-
-
-
-
