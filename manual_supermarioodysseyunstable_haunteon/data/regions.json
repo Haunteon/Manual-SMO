@@ -74,7 +74,7 @@
       "Wooded Kingdom Maze Skip",
       "Cloud Kingdom 1st Visit"
     ],
-    "requires": "{OptOne(|Hold/Throw|)} and {BeatSand()} and (|Kingdom Split Path Wooded Kingdom| or ({BeatLake()} and |Into the Lake|))"
+    "requires": "{OptOne(|Hold/Throw|)} and {BeatSand()} and (|Kingdom Split Path Wooded Kingdom| or ({BeatLake()} and |Kingdom Split Path Lake Kingdom| and |Into the Lake|))"
   },
   "Wooded Kingdom Deep Woods": {
     "connects_to": [
