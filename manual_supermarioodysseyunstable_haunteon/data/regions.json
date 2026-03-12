@@ -54,14 +54,14 @@
     "connects_to": [
       "Lake Kingdom Into the Lake"
     ],
-    "requires": "({BeatSand()} and |Kingdom Split Path Lake Kingdom|) or ({BeatSand()} and {BeatWooded()} and (|Maze Skip| or (|Kingdom Split Path Wooded Kingdom| and {OptOne(|Hold/Throw|)})))"
+    "requires": "|Into the Lake| and {BeatSand()} and (|Kingdom Split Path Lake Kingdom| or ({BeatWooded()} and |Kingdom Split Path Wooded Kingdom|))"
   },
   "Lake Kingdom Into the Lake": {
     "connects_to": [
       "Lake Kingdom Post Peace",
       "Cloud Kingdom 1st Visit"
     ],
-    "requires": "|Into the Lake|"
+    "requires": ""
   },
   "Lake Kingdom Post Peace": {
     "connects_to": [
@@ -71,19 +71,19 @@
   "Wooded Kingdom 1st Visit": {
     "connects_to": [
       "Wooded Kingdom Deep Woods",
-      "Wooded Kingdom Maze Skip"
+      "Wooded Kingdom Maze Skip",
+      "Cloud Kingdom 1st Visit"
     ],
-    "requires": "({BeatSand()} and |Kingdom Split Path Wooded Kingdom|) or ({BeatSand()} and {BeatLake()} and |Into the Lake|)"
+    "requires": "{OptOne(|Hold/Throw|)} and {BeatSand()} and (|Kingdom Split Path Wooded Kingdom| or ({BeatLake()} and |Into the Lake|))"
   },
   "Wooded Kingdom Deep Woods": {
     "connects_to": [
     ],
-    "requires": "{OptOne(|Hold/Throw|)}"
+    "requires": ""
   },
   "Wooded Kingdom Maze Skip": {
     "connects_to": [
-      "Wooded Kingdom Post Spewart",
-      "Cloud Kingdom 1st Visit"
+      "Wooded Kingdom Post Spewart"
     ],
     "requires": "|Maze Skip|"
   },
