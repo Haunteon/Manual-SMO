@@ -4359,7 +4359,7 @@
       "09 Snow Kingdom",
       "Moon Rock"
     ],
-    "requires": "{OptOne(|Ground Pound|)} and ()",
+    "requires": "{OptOne(|Ground Pound|)}",
     "sort-key": "row-09-043"
   },
   {
