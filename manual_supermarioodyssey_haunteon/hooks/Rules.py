@@ -101,12 +101,12 @@ def BeatBowser(world: World, multiworld: MultiWorld, state: CollectionState, pla
 def EnterDark(multiworld: MultiWorld,state: CollectionState, player: int):
     if get_option_value(multiworld, player, "goal") >= 3: #Darker Side or All Moons
         return "{ItemValue(Darker:250)}"
-    return ""
+    return "{ItemValue(Darker:1)}"
     
 def EnterDarker(multiworld: MultiWorld,state: CollectionState, player: int):
     if get_option_value(multiworld, player, "goal") >= 3: #Darker Side or All Moons
         return "{ItemValue(Darker:500)}"
-    return ""
+    return "{ItemValue(Darker:1)}"
     
 # def DarkerEnabled(multiworld: MultiWorld,state: CollectionState, player: int, valueCount: str):
 #    if get_option_value(multiworld, player, "goal") >= 3: #Darker Side or All Moons
