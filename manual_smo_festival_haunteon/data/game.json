@@ -3,7 +3,7 @@
   "game": "SMO_Festival",
   "creator": "Haunteon",
   "filler_item_name": "Coin",
-  "Deathlink": true,
+  "death_link": true,
   "starting_items": [
     {
       "items": [

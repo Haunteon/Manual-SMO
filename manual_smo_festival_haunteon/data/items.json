@@ -143,6 +143,7 @@
     "count": 10,
     "progression": true,
     "sort-key": "row-2-3",
+	"early": true,
     "value": {
       "Cascade": 1
     }

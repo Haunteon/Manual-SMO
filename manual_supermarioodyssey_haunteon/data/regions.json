@@ -54,7 +54,7 @@
     "connects_to": [
       "Lake Kingdom Into the Lake"
     ],
-    "requires": "|Into the Lake| and {BeatSand()} and (|Kingdom Split Path Lake Kingdom| or ({BeatWooded()} and |Kingdom Split Path Wooded Kingdom|))"
+    "requires": "|Into the Lake| and {BeatSand()} and (|Kingdom Split Path Lake Kingdom| or ({OptOne(|Hold/Throw|)} and {BeatWooded()} and |Kingdom Split Path Wooded Kingdom|))"
   },
   "Lake Kingdom Into the Lake": {
     "connects_to": [

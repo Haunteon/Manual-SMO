@@ -21,6 +21,7 @@
     ],
     "progression": true,
     "sort-key": "row-1-01",
+	"early": true,
     "value": {
       "Darker": 1
     }

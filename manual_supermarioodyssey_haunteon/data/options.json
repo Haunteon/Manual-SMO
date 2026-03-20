@@ -105,15 +105,6 @@
       "default": false,
       "group": "Item Options"
     },
-    "outfit_moons": {
-      "display_name": "Outfit Doors",
-      "description": [
-        "Adds Outfit Door moons as locations."
-      ],
-      "type": "Toggle",
-      "default": false,
-      "group": "Location Options"
-    },
     "post_metro_moons": {
       "display_name": "Exclude Post Metro Moons",
       "description": [
