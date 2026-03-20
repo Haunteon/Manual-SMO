@@ -66,7 +66,7 @@ def before_generate_early(world: World, multiworld: MultiWorld, player: int) -> 
         multiworld.worlds[player].options.post_metro_moons.value = 0
         multiworld.worlds[player].options.post_peace_moons.value = 1
         multiworld.worlds[player].options.post_game_moons.value = 1
-        multiworld.worlds[player].options.moon_rock_moons.value = 0
+        #multiworld.worlds[player].options.moon_rock_moons.value = 0
         multiworld.worlds[player].options.achievement_moons.value = 0
     if get_option_value(multiworld, player, "goal") == 4: #All Moons
         multiworld.worlds[player].options.post_metro_moons.value = 0
