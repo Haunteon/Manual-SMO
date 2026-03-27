@@ -20,7 +20,8 @@ IF PLAYING WITH MINIMAL CAPTURES:
 ## What do you need to go to the next kingdom?
 - Enough Power Moons
 - Kingdom Unlock Item (Generic moons only)
-## How many moons do you need to leave a kingdom? (These numbers can be changed in yaml options)
+## How many moons do you need to leave a kingdom?
+(These numbers can be changed in yaml options)
 ### Generic moons:
 - Cascade: 5
 - Sand: 21
