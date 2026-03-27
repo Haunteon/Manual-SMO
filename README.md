@@ -1,23 +1,26 @@
-# Super Mario Odyssey 
+# Super Mario Odyssey
+IF PLAYING WITH MINIMAL CAPTURES:
+  - Play vanilla until you collect 'Our First Power Moon', then the manual officially starts
+  - It is assumed you grabbed the checkpoint at the top of Top Hat Tower.
 ## Goals
-- Festival
-- Bowser
-- World Peace
-- Darker Side
+- Festival - A Traditional Festival!
+- Bowser - Rescue Princess Peach (Toadette Moon)
+- World Peace - Achieve World Peace (Toadette Moon)
+- Darker Side - A Long Journey's End
 ## Current features
 - Generic Moons
 - Specific Moons
-- Outfit Doors
-  - Outfits can be shuffled seperately
+- Outfit Shuffle
 - Action Shuffle
   - Basic actions in Action Guide
 - Capture Shuffle
   - Captures are given as items. If you don't have the item for it, immediately uncapture.
+  - Do not abuse the immediate uncapture for trick jumps (such as entering lake kingdom using goombas)
 - Warp Painting Logic
 ## What do you need to go to the next kingdom?
 - Enough Power Moons
-- Kingdom Unlock Item
-## How many moons do you need to leave a kingdom?
+- Kingdom Unlock Item (Generic moons only)
+## How many moons do you need to leave a kingdom? (These numbers can be changed in yaml options)
 ### Generic moons:
 - Cascade: 5
 - Sand: 21
@@ -46,6 +49,9 @@
 - Chain Chomp
 - Big Chain Chomp
 - Broode's Chain Chomp (Golden)
+## Minimal Staring Captures
+- Big Chain Chomp
+- Broode's Chain Chomp
 ## Starting Actions
 - Capture
 - Enter Pipe
