@@ -6,7 +6,7 @@ IF PLAYING WITH MINIMAL CAPTURES:
 - Festival - A Traditional Festival!
 - Bowser - Rescue Princess Peach (Toadette Moon)
 - World Peace - Achieve World Peace (Toadette Moon)
-- Darker Side - A Long Journey's End
+- Darker Side - A Long Journey's End'
 ## Current features
 - Generic Moons
 - Specific Moons
@@ -50,7 +50,7 @@ These numbers can be changed in yaml options and should appear in the manual cli
 - Chain Chomp
 - Big Chain Chomp
 - Broode's Chain Chomp (Golden)
-## Minimal Staring Captures
+## Minimal Starting Captures
 - Big Chain Chomp
 - Broode's Chain Chomp
 ## Starting Actions
