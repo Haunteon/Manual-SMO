@@ -387,7 +387,7 @@
     "category": [
       "02 Cascade Kingdom"
     ],
-    "requires": "{OptAll(|Chain Chomp| or |T-Rex|)}",
+    "requires": "{OptAll(|Chain Chomp| or |Big Chain Chomp| or |T-Rex|)}",
     "sort-key": "row-02-003"
   },
   {
