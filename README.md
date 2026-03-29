@@ -1,6 +1,6 @@
 # Super Mario Odyssey
 This is the Manual for playing Super Mario Odyssey in [Archipelago](https://archipelago.gg/), based on the previous work of:
-- Rampant Epsilon
+- RampantEpsilon
 - MarioManTAW
 - Empathy.mp3 
 - Astro
