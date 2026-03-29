@@ -17,7 +17,7 @@ Locations consist of Every Power moon in the Game depending on yaml settings.
 Item Pool includes:
 - Generic Power Moons (Mutually Exclusive)
 - Kingdom Specific Power Moons (Mutually Exclusive)
-- Kingdom Unlock Items (Generic Moons Only)
+- Progressive Kingdom Unlock Items (Generic Moons Only)
 - Kingdom Split Path Items
 - Outfits
 - Captures
