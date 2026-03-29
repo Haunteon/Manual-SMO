@@ -19,6 +19,7 @@ See [FAQ](https://github.com/Haunteon/Manual-SMO/blob/main/manual_supermarioodys
 - It Popped Out of the Ice (Snow Kingdom Moon Rock)- Incomplete Logic
 - Chomp through the Rocks - Add Big Chain Chomp
 - Taking Notes: Dive and Swim - Change to (Ground Pound and Ground Pound Jump) or swim
+- Flooding Pipeway Ceiling Secret - Check Triple Jump and Spin Jump
 # Not Yet Implemented
 - Action Shuffle
   - Extra actions not in Action Guide
