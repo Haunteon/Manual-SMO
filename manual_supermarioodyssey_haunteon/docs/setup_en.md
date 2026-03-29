@@ -15,7 +15,7 @@
 3. Close Archipelago Launcher Entirely
 ## Generating a Game
 
-1. Create your player options YAML file either using `Options Creator` or `Generate Template Options` in teh Launcher.
+1. Create your player options YAML file either using `Options Creator` or `Generate Template Options` in the Launcher.
 2. Gather the YAMLs of all players into the `Archipelago/Players` folder.
 3. Run the Archipelago Launcher and select Generate.
 4. A zip file will be created in the `Archipelago/output` folder. Upload this to [the Archipelago website](https://archipelago.gg/uploads) to host your game.
@@ -24,7 +24,7 @@
 1. Open Archipelago Launcher.
 2. Open Manual Client from Launcher
 3. Connect to Server, `Server:Port`
-4. Follow Prompt for slot name Capital letter sensitive
+4. Follow Prompt for slot name. Capital Letter Sensitive
 5. Click on the `Manual` tab
 6. Enjoy.
 ## Game Troubleshooting
