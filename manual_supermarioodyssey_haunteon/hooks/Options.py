@@ -26,77 +26,77 @@ from typing import Type, Any
 class MoonsRequiredForCascade(Range):
     """During Specific moons this is how many cascade moons you need to leave cascade. During generic moons increased the amount of moons needed to get to the next kingdom by this much"""
     display_name = "Required Cascade moons"
-    range_start = 0
+    range_start = 5
     range_end = 10
     default = 5
 
 class MoonsRequiredForSand(Range):
     """During Specific moons this is how many sand moons you need to leave sand. During generic moons increased the amount of moons needed to get to the next kingdom by this much"""
     display_name = "Required Sand moons"
-    range_start = 0
+    range_start = 16
     range_end = 32
     default = 16
 
 class MoonsRequiredForLake(Range):
     """During Specific moons this is how many lake moons you need to enter lake and wooded. During generic moons increased the amount of moons needed to get to the next kingdom by this much"""
     display_name = "Required Lake moons"
-    range_start = 0
+    range_start = 8
     range_end = 16
     default = 8
 
 class MoonsRequiredForWooded(Range):
     """During Specific moons this is how many wooded moons you need to enter lake and wooded. During generic moons increased the amount of moons needed to get to the next kingdom by this much"""
     display_name = "Required Wooded moons"
-    range_start = 0
+    range_start = 16
     range_end = 32
     default = 16
 
 class MoonsRequiredForLost(Range):
     """During Specific moons this is how many lost moons you need to leave lost. During generic moons increased the amount of moons needed to get to the next kingdom by this much"""
     display_name = "Required Lost moons"
-    range_start = 0
+    range_start = 10
     range_end = 20
     default = 10
 
 class MoonsRequiredForMetro(Range):
     """During Specific moons this is how many Metro moons you need to leave lost. During generic moons increased the amount of moons needed to get to the next kingdom by this much"""
     display_name = "Required Metro moons"
-    range_start = 0
+    range_start = 20
     range_end = 40
     default = 20
 
 class MoonsRequiredForSnow(Range):
     """During Specific moons this is how many Snow moons you need to enter snow and seaside. During generic moons increased the amount of moons needed to get to the next kingdom by this much"""
     display_name = "Required Snow moons"
-    range_start = 0
+    range_start = 10
     range_end = 20
     default = 10
 
 class MoonsRequiredForSeaside(Range):
     """During Specific moons this is how many Seaside moons you need to enter snow and seaside. During generic moons increased the amount of moons needed to get to the next kingdom by this much"""
     display_name = "Required Seaside moons"
-    range_start = 0
+    range_start = 10
     range_end = 20
     default = 10
 
 class MoonsRequiredForLuncheon(Range):
     """During Specific moons this is how many Luncheon moons you need to leave Luncheon. During generic moons increased the amount of moons needed to get to the next kingdom by this much"""
     display_name = "Required Luncheon moons"
-    range_start = 0
+    range_start = 18
     range_end = 36
     default = 18
 
 class MoonsRequiredForRuined(Range):
     """During Specific moons this is how many Ruined moons you need to leave Ruined. During generic moons increased the amount of moons needed to get to the next kingdom by this much"""
     display_name = "Required Ruined moons"
-    range_start = 0
+    range_start = 3
     range_end = 6
     default = 3
 
 class MoonsRequiredForBowser(Range):
     """During Specific moons this is how many Bowser moons you need to leave Bowser. During generic moons increased the amount of moons needed to get to the next kingdom by this much"""
     display_name = "Required Bowser moons"
-    range_start = 0
+    range_start = 8
     range_end = 16
     default = 8
     
