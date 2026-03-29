@@ -1,7 +1,5 @@
 # Super Mario Odyssey
-IF PLAYING WITH MINIMAL CAPTURES:
-  - Play vanilla until you collect 'Our First Power Moon', then the manual officially starts
-  - It is assumed you grabbed the checkpoint at the top of Top Hat Tower.
+
 ## Goals
 - Festival - A Traditional Festival!
 - Bowser - Rescue Princess Peach (Toadette Moon)
