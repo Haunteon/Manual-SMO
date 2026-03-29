@@ -8,6 +8,8 @@ This is the Manual for playing Super Mario Odyssey in [Archipelago](https://arch
 - Meleneh 
 ## What's In It?
 See the [info document]().
+## Installation & Usage
+See the [setup guide]().
 ## Why can't I do XYZ?
 See [FAQ]().
 ## Known Issues
@@ -24,6 +26,3 @@ See [FAQ]().
 - Regional Coin Logic
 - Achievement Moons
 - Capture Sanity
-## Installation & Usage
-
-See the [setup guide](https://github.com/randomsalience/albw-archipelago/blob/main/docs/setup_en.md).
