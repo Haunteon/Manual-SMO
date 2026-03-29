@@ -7,11 +7,11 @@ This is the Manual for playing Super Mario Odyssey in [Archipelago](https://arch
 - Squidy
 - Meleneh 
 ## What's In It?
-See the [info document]().
+See the [info document](https://github.com/Haunteon/Manual-SMO/blob/main/manual_supermarioodyssey_haunteon/docs/en_Super_Mario_Odyssey.md).
 ## Installation & Usage
-See the [setup guide]().
+See the [setup guide](https://github.com/Haunteon/Manual-SMO/blob/main/manual_supermarioodyssey_haunteon/docs/setup_en.md).
 ## Why can't I do XYZ?
-See [FAQ]().
+See [FAQ](https://github.com/Haunteon/Manual-SMO/blob/main/manual_supermarioodyssey_haunteon/docs/FAQ.md).
 ## Known Issues
 - Lake/Wooded split logic still causing problems
 - Potential softlocks in Wooded and Sand Kingdom
