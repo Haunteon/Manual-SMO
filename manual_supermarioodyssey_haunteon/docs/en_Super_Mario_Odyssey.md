@@ -13,6 +13,7 @@ There are 4 Goals:
 ## What items and locations get shuffled?
 
 Locations consist of Every Power moon in the Game depending on yaml settings
+
 Item Pool includes:
 - Generic Power Moons (Mutually Exclusive)
 - Kingdom Specific Power Moons (Mutually Exclusive)
