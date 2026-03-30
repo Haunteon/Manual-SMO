@@ -20,6 +20,8 @@ See [FAQ](https://github.com/Haunteon/Manual-SMO/blob/main/manual_supermarioodys
 - Chomp through the Rocks - Add Big Chain Chomp
 - Taking Notes: Dive and Swim - Change to (Ground Pound and Ground Pound Jump) or swim
 - Flooding Pipeway Ceiling Secret - Check Triple Jump and Spin Jump
+- By a Babbling Brook - add coin coffer
+- A Hard Rock in Deep Words - add coin coffer
 # Not Yet Implemented
 - Action Shuffle
   - Extra actions not in Action Guide
