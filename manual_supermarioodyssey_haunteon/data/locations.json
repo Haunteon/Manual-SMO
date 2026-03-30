@@ -2293,7 +2293,7 @@
     "category": [
       "05 Wooded Kingdom"
     ],
-    "requires": "{OptAll(|T-Rex| and |Ground Pound|)}",
+    "requires": "({OptAll(|T-Rex| or |Coin Coffer|)}) and {OptOne(|Ground Pound|)}",
     "sort-key": "row-05-032"
   },
   {
