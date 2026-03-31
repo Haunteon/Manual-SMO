@@ -1,3 +1,5 @@
+### Various Clips for Visual Help
+[Google Drive Folder](https://drive.google.com/drive/folders/1vUYo5J0J7RxsSCvdweY3XjUik--tX-B_?usp=sharing)
 ## Yaml Options
 - #### Minimal Captures
     - Play vanilla until you collect 'Our First Power Moon', then the manual officially starts
@@ -68,5 +70,3 @@ Defeating Hariet in Sand Kingdom causes these moons to be inaccessible until aft
 - Herding Sheep in the Dunes
 - Walking the Desert!
 - Hidden Room in the Inverted Pyramid
-### Various Clips for Visual Help
-[Google Drive Folder](https://drive.google.com/drive/folders/1vUYo5J0J7RxsSCvdweY3XjUik--tX-B_?usp=sharing)
