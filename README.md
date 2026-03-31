@@ -24,7 +24,7 @@ See [FAQ](https://github.com/Haunteon/Manual-SMO/blob/main/manual_supermarioodys
 - A Hard Rock in Deep Words - add coin coffer
 - Flooding Pipeway secret - Change to Wall Jump and (High Jump or Spin or Cap Vault)
 - Lighthouse Seal - Double check swim only
-- 
+- Seaside Gardening - Only the bottom right grows tall, all seeds Cap Vault or Gushen
 # Not Yet Implemented
 - Action Shuffle
   - Extra actions not in Action Guide
