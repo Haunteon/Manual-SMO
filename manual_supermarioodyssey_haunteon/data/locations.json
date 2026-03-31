@@ -1715,7 +1715,7 @@
     "category": [
       "04 Lake Kingdom"
     ],
-    "requires": "{OptAll(|Up Throw| or |Swim| or |Homing Cap Throw|)}",
+    "requires": "{OptOne(|Swim|)} or {OptOne(|Cheep Cheep|)} or ({OptAll(|Ground Pound| and |Ground Pound Jump|)})",
     "sort-key": "row-04-013"
   },
   {
@@ -2284,7 +2284,7 @@
     "category": [
       "05 Wooded Kingdom"
     ],
-    "requires": "{OptAll(|T-Rex| and |Ground Pound|)}",
+    "requires": "{OptOne(|Ground Pound|)} and ({OptAll(|T-Rex| or |Coin Coffer|)})",
     "sort-key": "row-05-031"
   },
   {
@@ -2293,7 +2293,7 @@
     "category": [
       "05 Wooded Kingdom"
     ],
-    "requires": "({OptAll(|T-Rex| or |Coin Coffer|)}) and {OptOne(|Ground Pound|)}",
+    "requires": "{OptOne(|Ground Pound|)} and ({OptAll(|T-Rex| or |Coin Coffer|)})",
     "sort-key": "row-05-032"
   },
   {
@@ -2367,7 +2367,7 @@
     "category": [
       "05 Wooded Kingdom"
     ],
-    "requires": "{OptAll(|Swim| and |Wall Jump|)} and (|Cap Vault| or {OptOne(|Side Flip|)} or {OptOne(|Back Flip|)} or ({OptAll(|Ground Pound| and |Ground Pound Jump|)}))",
+    "requires": "{OptAll(|Swim| and |Wall Jump|)} and (|Cap Vault| or |High Jump| or {OptOne(|Swim|)})",
     "sort-key": "row-05-040"
   },
   {
@@ -4723,7 +4723,7 @@
       "10 Seaside Kingdom",
       "Post Metro"
     ],
-    "requires": "{OptOne(|Hold/Throw|)}",
+    "requires": "{OptOne(|Hold/Throw|)} and (|Cap Vault| or {OptOne(|Gushen|)})"",
     "sort-key": "row-10-024"
   },
   {
@@ -4733,7 +4733,7 @@
       "10 Seaside Kingdom",
       "Post Metro"
     ],
-    "requires": "{OptOne(|Hold/Throw|)}",
+    "requires": "{OptOne(|Hold/Throw|)} and (|Cap Vault| or {OptOne(|Gushen|)})"",
     "sort-key": "row-10-025"
   },
   {
@@ -4743,7 +4743,7 @@
       "10 Seaside Kingdom",
       "Post Metro"
     ],
-    "requires": "{OptAll(|Hold/Throw| and |Swim|)}",
+    "requires": "{OptAll(|Hold/Throw| and |Swim|)} and (|Cap Vault| or {OptOne(|Gushen|)})"",
     "sort-key": "row-10-026"
   },
   {
