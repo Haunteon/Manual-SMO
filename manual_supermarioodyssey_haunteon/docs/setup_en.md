@@ -5,7 +5,7 @@
 - [Archipelago](https://github.com/ArchipelagoMW/Archipelago/releases).
 - Nintendo Switch 
 - Super Mario Odyssey
-- Latest Manual Stable Release (Optional?)
+- Latest Manual Stable Release (Optional)
 - Latest Universal Tracker Release (Optional)
 
 ## Installation Procedures
