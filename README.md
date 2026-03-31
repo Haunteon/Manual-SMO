@@ -15,15 +15,15 @@ See [FAQ](https://github.com/Haunteon/Manual-SMO/blob/main/manual_supermarioodys
 ## Known Issues
 - Lake/Wooded split logic still causing problems
 - Potential softlocks in Wooded and Sand Kingdom
-- Moon requirements minimum is causing issues with random in options creator
+- (Fixed) Moon requirements minimum is causing issues with random in options creator
 - It Popped Out of the Ice (Snow Kingdom Moon Rock) - Incomplete Logic
-- Chomp through the Rocks - Add Big Chain Chomp
-- Taking Notes: Dive and Swim - Change to (Ground Pound and Ground Pound Jump) or swim or Cheep Cheep
-- By a Babbling Brook - add coin coffer
-- A Hard Rock in Deep Words - add coin coffer
-- Flooding Pipeway secret - Change to Wall Jump and (High Jump or Spin or Cap Vault)
-- Lighthouse Seal - Double check swim only
-- Seaside Gardening - Only the bottom right grows tall, all seeds Cap Vault or Gushen
+- (Fixed) Chomp through the Rocks - Add Big Chain Chomp
+- (Fixed) Taking Notes: Dive and Swim - Change to (Ground Pound and Ground Pound Jump) or swim or Cheep Cheep
+- (Fixed) By a Babbling Brook - add coin coffer
+- (Fixed) A Hard Rock in Deep Words - add coin coffer
+- (Fixed) Flooding Pipeway secret - Change to Wall Jump and (High Jump or Spin or Cap Vault)
+- (Fixed) Lighthouse Seal - Double check swim only
+- (Fixed) Seaside Gardening - Only the bottom right grows tall, all seeds Cap Vault or Gushen
 # Not Yet Implemented
 - Action Shuffle
   - Extra actions not in Action Guide
