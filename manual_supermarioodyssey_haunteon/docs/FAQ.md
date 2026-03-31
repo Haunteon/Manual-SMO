@@ -1,7 +1,7 @@
 # Various Clips for Visual Help
 [Google Drive Folder](https://drive.google.com/drive/folders/1vUYo5J0J7RxsSCvdweY3XjUik--tX-B_?usp=sharing)
 ## Why are checks missing I did not mark?
-It is possibly because of the `!collect` command. The host could have `collect_mode: "auto"` (default) set in the host.yaml. If a game goals, this option with forcibly take all of its items from other games in the multiworld and mark those checks as completed. 
+It is possibly because of the `!collect` command. The host could have `collect_mode: "auto"` (default) set in the host.yaml. When a game goals, this option with forcibly take all of its items from other games in the multiworld and mark those checks as completed. 
 ## Yaml Options
 - #### Minimal Captures
     - Play vanilla until you collect 'Our First Power Moon', then the manual officially starts
