@@ -4359,7 +4359,7 @@
       "09 Snow Kingdom",
       "Moon Rock"
     ],
-    "requires": "{OptOne(|Ground Pound|)}",
+    "requires": "{OptOne(|Ground Pound|)} and ({OptOne(|Ty-foo|)} or {OptOne(|Triple Jump|)} or {OptOne(|Spin|)} or {OptOne(|Cap Jump|)} or ({OptAll(|Wall Jump| and |Dive|)}) or (|High Jump| and ({OptAll(|Long Jump| or |Dive|)})))",
     "sort-key": "row-09-043"
   },
   {
