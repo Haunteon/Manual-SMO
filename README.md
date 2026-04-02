@@ -16,7 +16,7 @@ See [FAQ](https://github.com/Haunteon/Manual-SMO/blob/main/manual_supermarioodys
 - Lake/Wooded split logic still causing problems
 - Potential softlocks in Wooded and Sand Kingdom
 - (Fixed) Moon requirements minimum is causing issues with random in options creator
-- It Popped Out of the Ice (Snow Kingdom Moon Rock) - Incomplete Logic (Decided upon, but not coded yet)
+- (Fixed) It Popped Out of the Ice (Snow Kingdom Moon Rock) - Incomplete Logic
 - (Fixed) Chomp through the Rocks - Add Big Chain Chomp
 - (Fixed) Taking Notes: Dive and Swim - Change to (Ground Pound and Ground Pound Jump) or swim or Cheep Cheep
 - (Fixed) By a Babbling Brook - add coin coffer
