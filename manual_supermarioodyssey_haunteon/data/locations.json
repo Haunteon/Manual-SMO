@@ -4723,7 +4723,7 @@
       "10 Seaside Kingdom",
       "Post Metro"
     ],
-    "requires": "{OptOne(|Hold/Throw|)} and (|Cap Vault| or {OptOne(|Gushen|)})"",
+    "requires": "{OptOne(|Hold/Throw|)} and (|Cap Vault| or {OptOne(|Gushen|)})",
     "sort-key": "row-10-024"
   },
   {
@@ -4733,7 +4733,7 @@
       "10 Seaside Kingdom",
       "Post Metro"
     ],
-    "requires": "{OptOne(|Hold/Throw|)} and (|Cap Vault| or {OptOne(|Gushen|)})"",
+    "requires": "{OptOne(|Hold/Throw|)} and (|Cap Vault| or {OptOne(|Gushen|)})",
     "sort-key": "row-10-025"
   },
   {
@@ -4743,7 +4743,7 @@
       "10 Seaside Kingdom",
       "Post Metro"
     ],
-    "requires": "{OptAll(|Hold/Throw| and |Swim|)} and (|Cap Vault| or {OptOne(|Gushen|)})"",
+    "requires": "{OptAll(|Hold/Throw| and |Swim|)} and (|Cap Vault| or {OptOne(|Gushen|)})",
     "sort-key": "row-10-026"
   },
   {
