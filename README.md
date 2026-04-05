@@ -32,3 +32,8 @@ See [FAQ](https://github.com/Haunteon/Manual-SMO/blob/main/manual_supermarioodys
 - Regional Coin Logic
 - Achievement Moons
 - Capture Sanity
+- Traps (Some ideas)
+  - Return to nearest checkpoint/Odyssey/Death 
+  - Challenge Trap
+    - Reverse controls?
+  - No Cappy: 30 Seconds 
