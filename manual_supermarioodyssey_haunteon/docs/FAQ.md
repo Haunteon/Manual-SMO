@@ -26,7 +26,7 @@ It is possibly because of the `!collect` command. The host could have `collect_m
 - Kingdom Split Path (Lake, Wooded, Snow, Seaside)
 ## How many moons do you need to leave a kingdom?
 These numbers can be changed in yaml options and should appear in the manual client when you first connect to the multiworld
-### Generic moons:
+## Generic moons:
 - Cascade: 5
 - Sand: 21
 - Lake/Wooded: 45
@@ -36,7 +36,7 @@ These numbers can be changed in yaml options and should appear in the manual cli
 - Luncheon: 113
 - Ruined: 116
 - Bowser's: 124
-### Specific moons:
+## Specific moons:
 - Cascade: 5
 - Sand: 16
 - Lake: 8
@@ -62,7 +62,9 @@ These numbers can be changed in yaml options and should appear in the manual cli
 - Enter Pipe
 - Cap Throw and Hold
 - Jump/Double Jump
-### Sand Kingdom
+## Warp Paintings
+Paintings are not in logic until you can access EVERY painting that could lead to that moon.
+## Sand Kingdom
 Leaving while holding 16 moons in game forces you to pick which kingdom to progress to next, recommended to immediately revisit Cap and Cascade after entering Sand.
 
 Defeating Hariet in Sand Kingdom causes these moons to be inaccessible until after Knucklotec (Potentially Softlocking)
