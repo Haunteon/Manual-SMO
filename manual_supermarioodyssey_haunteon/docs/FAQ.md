@@ -4,7 +4,7 @@
 It is possibly because of the `!collect` command. The host could have `collect_mode: "auto"` (default) set in the host.yaml. When a game goals, this option with forcibly take all of its items from other games in the multiworld and mark those checks as completed. 
 ## Yaml Options
 - #### Minimal Captures
-    - Play vanilla until you collect 'Our First Power Moon', then the manual officially starts
+    - Play vanilla until you collect `Our First Power Moon`, then the manual officially starts
     - It is assumed you grabbed the checkpoint at the top of Top Hat Tower.
 - #### Goal
 	- Festival
