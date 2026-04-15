@@ -24,6 +24,7 @@ See [FAQ](https://github.com/Haunteon/Manual-SMO/blob/main/manual_supermarioodys
 - (Fixed) Flooding Pipeway secret - Change to Wall Jump and (High Jump or Spin or Cap Vault)
 - (Fixed) Lighthouse Seal - Double check swim only
 - (Fixed) Seaside Gardening - Only the bottom right grows tall, all seeds Cap Vault or Gushen
+- Document Progressive Kingdom Unlocks
 # Not Yet Implemented
 - Action Shuffle
   - Extra actions not in Action Guide
