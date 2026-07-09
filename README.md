@@ -15,6 +15,8 @@ See [FAQ](https://github.com/Haunteon/Manual-SMO/blob/main/manual_supermarioodys
 ## Known Issues
 - Lake/Wooded split logic still causing problems
 - Potential softlocks in Wooded and Sand Kingdom
+- Jammin in Metro - Requires RC Car
+- Lost Kingdom timer - opt one -> opt all
 - (Fixed) Moon requirements minimum is causing issues with random in options creator
 - (Fixed) It Popped Out of the Ice (Snow Kingdom Moon Rock) - Incomplete Logic
 - (Fixed) Chomp through the Rocks - Add Big Chain Chomp
