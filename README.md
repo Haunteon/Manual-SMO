@@ -17,7 +17,8 @@ See [FAQ](https://github.com/Haunteon/Manual-SMO/blob/main/manual_supermarioodys
 - Potential softlocks in Wooded and Sand Kingdom
 - Jammin in Metro - Requires RC Car
 - Lost Kingdom timer - opt one -> opt all
-- Overlooking a bunch of ingredients - Reauires hammer bro, doesn't check for cheese area
+- Overlooking a bunch of ingredients - Requires hammer bro, doesn't check for cheese area
+- Center/Edge of the galaxy - swapped requirements
 - (Fixed) Moon requirements minimum is causing issues with random in options creator
 - (Fixed) It Popped Out of the Ice (Snow Kingdom Moon Rock) - Incomplete Logic
 - (Fixed) Chomp through the Rocks - Add Big Chain Chomp
