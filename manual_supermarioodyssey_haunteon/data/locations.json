@@ -2284,7 +2284,7 @@
     "category": [
       "05 Wooded Kingdom"
     ],
-    "requires": "{OptOne(|Ground Pound|)} and ({OptAll(|T-Rex| or |Coin Coffer|)})",
+    "requires": "{OptOne(|Ground Pound|)} and ({OptOne(|T-Rex|}) or {OptOne(|Coin Coffer|)} or {YamlEnabled(lure_captures)})",
     "sort-key": "row-05-031"
   },
   {
@@ -2293,7 +2293,7 @@
     "category": [
       "05 Wooded Kingdom"
     ],
-    "requires": "{OptOne(|Ground Pound|)} and ({OptAll(|T-Rex| or |Coin Coffer|)})",
+    "requires": "{OptOne(|Ground Pound|)} and ({OptOne(|T-Rex|}) or {OptOne(|Coin Coffer|)} or {YamlEnabled(lure_captures)})",
     "sort-key": "row-05-032"
   },
   {
@@ -2367,7 +2367,7 @@
     "category": [
       "05 Wooded Kingdom"
     ],
-    "requires": "{OptAll(|Swim| and |Wall Jump|)} and (|Cap Vault| or |High Jump| or {OptOne(|Swim|)})",
+    "requires": "{OptAll(|Swim| and |Wall Jump|)} and (|Cap Vault| or |High Jump| or {OptOne(|Spin|)})",
     "sort-key": "row-05-040"
   },
   {
@@ -3099,7 +3099,7 @@
       "07 Lost Kingdom",
       "Moon Rock"
     ],
-    "requires": "{OptOne(|Scarecrow| and |Climb|)}",
+    "requires": "{OptOne(|Scarecrow|)} and {OptOne(|Climb|)}",
     "sort-key": "row-07-031"
   },
   {
@@ -3680,7 +3680,7 @@
       "08 Metro Kingdom",
       "Post Game"
     ],
-    "requires": "",
+    "requires": "{OptOne(|RC Car|)}",
     "sort-key": "row-08-058"
   },
   {
