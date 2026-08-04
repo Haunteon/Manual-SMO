@@ -64,6 +64,20 @@ These numbers can be changed in yaml options and should appear in the manual cli
 - Jump/Double Jump
 ## Warp Paintings
 Paintings are not in logic until you can access EVERY painting that could lead to that moon.
+
+Painting Access Logic
+- Fossil Falls - Bound Bowl + Mollusque-Lanceur + Ty-foo
+- Tostarena - Into the Lake + Post Wall
+- Lake Lamode - Bound Bowl + Mollusque-Lanceur + Mechawiggler + Ty-foo
+- Steam Gardens - Bound Bowl + Mollusque-Lanceur + Mechawiggler + Ty-foo
+- New Donk City - Post Hariet			
+- Shiveria - Post Game			
+- Bubblaine - Post Game			
+- Mount Volbono - Into the Lake + Post Wall		
+- Bowser's Castle - Post Game			
+- Peach's Castle - Post Cheese + Lava Bubble		
+
+
 ## Sand Kingdom
 Leaving while holding 16 moons in game forces you to pick which kingdom to progress to next, recommended to immediately revisit Cap and Cascade after entering Sand.
 
