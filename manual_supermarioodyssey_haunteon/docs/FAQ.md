@@ -74,3 +74,8 @@ Defeating Hariet in Sand Kingdom causes these moons to be inaccessible until aft
 - Herding Sheep in the Dunes
 - Walking the Desert!
 - Hidden Room in the Inverted Pyramid
+
+## Wooded Kingdom
+Defeating Spewart in Wooded Kingdom Causes these moons to be inaccessible until ??? (Potentially Softlocking)
+
+- 
