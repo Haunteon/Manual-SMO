@@ -100,7 +100,7 @@ Painting Access Logic
 
 
 ## Sand Kingdom
-Leaving while holding 16 moons in game forces you to pick which kingdom to progress to next, recommended to immediately revisit Cap and Cascade after entering Sand.
+Leaving while holding 16 moons in game forces you to pick which kingdom to progress to next, I STRONGLY recommended to immediately revisit Cap and Cascade after entering Sand.
 
 Defeating Hariet in Sand Kingdom causes these moons to be inaccessible until after Knucklotec (Potentially Softlocking)
 - Secret of the Inverted Mural
