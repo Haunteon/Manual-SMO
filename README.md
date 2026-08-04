@@ -20,9 +20,10 @@ See [FAQ](https://github.com/Haunteon/Manual-SMO/blob/main/manual_supermarioodys
 - Action Shuffle
   - Extra actions not in Action Guide
 - Capture Shuffle
-  - Extra Captures 
-- Regional Coin Logic
-- Achievement Moons
+  - Extra Captures
+- Shop Sanity (Yellow and Purple Shops)
+- Regional Coin Logic (Purple Coins)
+- Achievement Moons (Toadette)
 - Capture Sanity
 - Traps (Some ideas)
   - Return to nearest checkpoint/Odyssey/Death 
