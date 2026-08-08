@@ -864,7 +864,7 @@
     "category": [
       "03 Sand Kingdom"
     ],
-    "requires": "(|Pyramid Skip| and (|Cap Vault| or {OptOne(|Long Jump|)})) or ({OptOne(|Glydon|)} and |Sand Kingdom Knucklotec Multimoon|)",
+    "requires": "(|Pyramid Skip| and (|Cap Vault| or {OptOne(|Long Jump|)})) or ({OptOne(|Glydon|)} and |Sand Kingdom Knucklotec Multimoon|) or {OptOne(|Bullet Bill|)}",
     "sort-key": "row-03-013"
   },
   {
