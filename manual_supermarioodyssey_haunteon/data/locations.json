@@ -1658,7 +1658,7 @@
     "category": [
       "04 Lake Kingdom"
     ],
-    "requires": "{OptOne(|Cheep Cheep|)} or ({OptAll(|Ground Pound| and |Swim|)})",
+    "requires": "{OptOne(|Cheep Cheep|)} or {OptOne(|Ground Pound|)}",
     "sort-key": "row-04-007"
   },
   {
