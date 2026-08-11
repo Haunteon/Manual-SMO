@@ -2,73 +2,81 @@
   {
     "name": "High Jump",
     "requires": "{OptOne(|Triple Jump|)} or {OptOne(|Back Flip|)} or {OptOne(|Side Flip|)} or ({OptAll(|Ground Pound| and |Ground Pound Jump|)})",
-    "visible": true
+    "category": ["Movement"],
+	"visible": true
   },
   {
     "name": "Momentum",
     "requires": "{OptOne(|Long Jump|)} or {OptOne(|Roll|)} or {OptOne(|Dive|)}",
-    "visible": true
+    "category": ["Movement"],
+	"visible": true
   },
   {
     "name": "Cap Vault",
     "requires": "{OptAll(|Dive|)} and {OptOne(|Cap Jump|)}",
-    "visible": true
+    "category": ["Movement"],
+	"visible": true
   },
   {
     "name": "Pyramid Skip",
     "region": "Sand Kingdom 1st Visit",
     "requires": "({OptOne(|Bullet Bill|)} or (|Cap Vault| and ({OptOne(|Long Jump|)} or {OptOne(|Triple Jump|)})))",
-    "visible": false
+    "category": ["Movement"],
+	"visible": false
   },
   {
     "name": "Into the Lake",
     "region": "Sand Kingdom 1st Visit",
     "requires": "(({OptAll(|Zipper| and |Swim|)}) or (|Cap Vault| and (|High Jump| or ({OptOne(|Long Jump|)} or ({OptOne(Triple Jump)} and {OptOne(|Wall Jump|)})))) or ({OptAll(|Cap Jump| and |Triple Jump| and |Wall Jump| and |Goomba|)}))",
-    "visible": false
+    "category": ["Movement"],
+	"visible": false
   },
   {
     "name": "Above the Lake",
     "region": "Lake Kingdom Into the Lake",
     "requires": "{OptOne(|Cheep Cheep|)} or {OptOne(|Swim|)} or |Cap Vault|",
-    "visible": false
+    "category": ["Movement"],
+	"visible": false
   },
   {
     "name": "Maze Skip",
     "region": "Wooded Kingdom 1st Visit",
     "requires": "{OptOne(|Uproot|)} or |Cap Vault|",
-    "visible": false
+    "category": ["Movement"],
+	"visible": false
   },
   {
     "name": "To the Wall",
     "region": "Wooded Kingdom Post Spewart",
     "requires": "{OptOne(|Hold/Throw|)} or (|High Jump| and |Cap Vault|) or ({OptAll(|Uproot| and |Dive|)})",
-    "visible": false
+    "category": ["Movement"],
+	"visible": false
   },
   {
     "name": "Sherm Wall",
     "region": "Wooded Kingdom Post Spewart",
     "requires": "|To the Wall| and ({OptOne(|Sherm|)} or ({OptAll(|Goomba| and |Wall Jump| and |Dive|)}))",
-    "visible": false
+    "category": ["Movement"],
+	"visible": false
   },
   {
     "name": "View of Lost",
     "region": "Lost Kingdom 1st Visit",
     "requires": "{OptAll(|Ground Pound| and |Wall Jump|)}",
-    "visible": false
+    "category": ["Movement"],
+	"visible": false
   },
   {
     "name": "After Gusty Barrier",
     "copy_location": "The Gusty Barrier",
-    "category": [
-      "Post Metro"
-    ],
     "visible": false
   },
   {
     "name": "Get to Cheese",
     "region": "Luncheon Kingdom Post Spewart",
     "category": [
-      "Post Metro"
+      "Movement",
+	  "Post Metro"
     ],
     "requires": "{OptOne(|Lava Bubble|)} or ({OptOne(|Dive|)} and ({OptOne(|Triple Jump|)} or {OptOne(|Cap Jump|)} or ({OptAll(|Ground Pound| and |Ground Pound Jump|)})))",
     "visible": false
@@ -77,7 +85,8 @@
     "name": "Get to Meat",
     "region": "Luncheon Kingdom Post Cheese",
     "category": [
-      "Post Metro"
+      "Movement",
+	  "Post Metro"
     ],
     "requires": "{OptOne(|Volbonan|)} or ({OptOne(|Wall Jump|)} and {OptOne(|Dive|)} and (|High Jump| or {OptOne(|Spin|)})) or (|High Jump| and ({OptOne(|Cap Jump|)} or |Cap Vault|))",
     "visible": false
@@ -86,7 +95,8 @@
     "name": "Enter the Courtyard",
     "region": "Bowser Kingdom 1st Visit",
     "category": [
-      "Post Metro"
+      "Movement",
+	  "Post Metro"
     ],
     "requires": "{OptOne(|Pokio|)} or ({OptOne(|Dive|)} and ({OptOne(|Back Flip|)} or {OptOne(|Wall Jump|)} or ({OptAll(|Ground Pound| and |Ground Pound Jump|)})))",
     "visible": false
@@ -95,7 +105,8 @@
     "name": "Over the Moat",
     "region": "Bowser Kingdom Courtyards",
     "category": [
-      "Post Metro"
+      "Movement",
+	  "Post Metro"
     ],
     "requires": "{OptOne(|Pokio|)} or (|High Jump| and |Cap Vault|)",
     "visible": false
@@ -104,7 +115,8 @@
     "name": "Parabones Skip",
     "region": "Moon Kingdom 1st Visit",
     "category": [
-      "Post Metro"
+      "Movement",
+	  "Post Metro"
     ],
     "requires": "{OptOne(|Parabones|)} or (|Cap Vault| and ({OptAll(|Long Jump| or |Triple Jump|)}))",
     "visible": false
@@ -113,7 +125,8 @@
     "name": "Moon Cave Gauntlet",
     "region": "Moon Kingdom 1st Visit",
     "category": [
-      "Post Metro"
+      "Movement",
+	  "Post Metro"
     ],
     "requires": "(|Parabones Skip| and {OptAll(|Banzai Bill| and |Spark Pylon|)})",
     "visible": false
@@ -122,7 +135,8 @@
     "name": "Moon Cave Skip",
     "region": "Moon Kingdom 1st Visit",
     "category": [
-      "Post Metro"
+      "Movement",
+	  "Post Metro"
     ],
     "requires": "{YamlEnabled(moon_cave_skip)} and {OptOne(|Cap Jump|)} and {OptOne(|Wall Jump|)} and ({OptOne(|Back Flip|)} or ({OptAll(|Ground Pound| and |Ground Pound Jump|)}))",
     "visible": false
@@ -257,5 +271,75 @@
     "name": "Post Game",
     "copy_location": "Rescue Princess Peach",
     "visible": false
-  }
+  },
+  {
+    "name": "Slots Sand",
+    "copy_location": "Sand Kingdom Slots",
+    "visible": false
+  },
+  {
+    "name": "Slots Metro",
+    "copy_location": "Metro Kingdom Slots",
+    "visible": false
+  },
+  {
+    "name": "Slots Luncheon",
+    "copy_location": "Luncheon Kingdom Slots",
+    "visible": false
+  },
+  {
+    "name": "Goombette Sand 1",
+    "copy_location": "Love in the Heart of the Desert",
+    "visible": false
+  },
+  {
+    "name": "Goombette Sand 2",
+    "copy_location": "Love at the Edge of the Desert",
+    "visible": false
+  },
+  {
+    "name": "Goombette Lake",
+    "copy_location": "Love by the Lake",
+    "visible": false
+  },
+  {
+    "name": "Goombette Wooded",
+    "copy_location": "Love in the Forest Ruins",
+    "visible": false
+  },
+  {
+    "name": "Goombette Seaside",
+    "copy_location": "Love by the Seaside",
+    "visible": false
+  },
+  {
+    "name": "Goombette Luncheon",
+    "copy_location": "Love Above the Lava",
+    "visible": false
+  },
+  {
+    "name": "Goombette Mushroom",
+    "copy_location": "Love at Peach's Castle",
+    "visible": false
+  },
+  {
+    "name": "Sheep Sand",
+    "copy_location": "Herding Sheep in the Dunes",
+    "visible": false
+  },
+  {
+    "name": "Sheep Wooded 1",
+    "copy_location": "Herding Sheep Above the Forest Fog",
+    "visible": false
+  },
+  {
+    "name": "Sheep Wooded 2",
+    "copy_location": "Herding Sheep on the Iron Bridge",
+    "visible": false
+  },
+  {
+    "name": "Sheep Mushroom",
+    "copy_location": "Herding Sheep at Peach's Castle",
+    "visible": false
+  },
 ]
