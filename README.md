@@ -29,7 +29,8 @@ See [FAQ](https://github.com/Haunteon/Manual-SMO/blob/main/manual_supermarioodys
   - Return to nearest checkpoint/Odyssey/Death 
   - Challenge Trap
     - Reverse controls?
-    - No Cappy: 30 Seconds 
+    - No Cappy: 30 Seconds
+- Per Kingdom Moon Rock Items (specific moon rocks vs generic moon rock)
 ## Changelog
 - 2.0.3
   - Logic Fixes
