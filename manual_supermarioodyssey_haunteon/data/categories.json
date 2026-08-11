@@ -100,5 +100,25 @@
       "!generic_moons"
     ],
     "hidden": true
+  },
+  "Individual Rock": {
+    "yaml_option": [
+      "!post_metro_moons",
+      "post_peace_moons",
+      "post_game_moons",
+      "moon_rock_moons",
+      "individual_rocks"
+    ],
+    "hidden": true
+  },
+  "All Rock": {
+    "yaml_option": [
+      "!post_metro_moons",
+      "post_peace_moons",
+      "post_game_moons",
+      "moon_rock_moons",
+      "!individual_rocks"
+    ],
+    "hidden": true
   }
 }
