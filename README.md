@@ -16,6 +16,7 @@ See [FAQ](https://github.com/Haunteon/Manual-SMO/blob/main/manual_supermarioodys
 - Lake/Wooded split logic still causing problems
 - Potential softlocks in Wooded and Sand Kingdom
 - Document Progressive Kingdom Unlocks
+- Generic Moons option description confusing
 # Not Yet Implemented
 - Action Shuffle
   - Extra actions not in Action Guide
