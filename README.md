@@ -31,6 +31,18 @@ See [FAQ](https://github.com/Haunteon/Manual-SMO/blob/main/manual_supermarioodys
     - Reverse controls?
     - No Cappy: 30 Seconds 
 ## Changelog
+- 2.0.4
+  - New Additions
+    - Added/Changed Logic to Toadette Moons
+	  - Princess Peach Moons
+	  - Goombette Moons
+	  - Slots Moon
+	  - Sheep Moon
+	  
+  - Logic Fixes
+    - From the Broken Pillar - Remove Swim (Can delay sinking with cap throw)
+	- On the Lone Pillar - Add Bullet Bill (can reach with bullet bill only using motion controls)
+
 - 2.0.3
   - Logic Fixes
     - Jammin in Metro - Requires RC Car
