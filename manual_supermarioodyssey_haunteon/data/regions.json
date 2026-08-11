@@ -291,7 +291,7 @@
   "Cap Kingdom Moon Rock": {
     "connects_to": [
     ],
-    "requires": "|Moon Power| and {OptOne(|Paragoomba|)}"
+    "requires": "{OptOne(|Paragoomba|)} and ({OptOne(|Moon Power All|)} or {OptOne(|Moon Power Cap|)})"
   },
   "Cascade Kingdom Post Game": {
     "connects_to": [
@@ -302,7 +302,7 @@
   "Cascade Kingdom Moon Rock": {
     "connects_to": [
     ],
-    "requires": "|Moon Power|"
+    "requires": "{OptOne(|Moon Power All|)} or {OptOne(|Moon Power Cascade|)}"
   },
   "Sand Kingdom Post Game": {
     "connects_to": [
@@ -313,7 +313,7 @@
   "Sand Kingdom Moon Rock": {
     "connects_to": [
     ],
-    "requires": "|Moon Power|"
+    "requires": "{OptOne(|Moon Power All|)} or {OptOne(|Moon Power Sand|)}"
   },
   "Lake Kingdom Post Game": {
     "connects_to": [
@@ -324,7 +324,7 @@
   "Lake Kingdom Moon Rock": {
     "connects_to": [
     ],
-    "requires": "|Moon Power|"
+    "requires": "{OptOne(|Moon Power All|)} or {OptOne(|Moon Power Lake|)}"
   },
   "Wooded Kingdom Post Game": {
     "connects_to": [
@@ -335,7 +335,7 @@
   "Wooded Kingdom Moon Rock": {
     "connects_to": [
     ],
-    "requires": "|Moon Power|"
+    "requires": "{OptOne(|Moon Power All|)} or {OptOne(|Moon Power Wooded|)}"
   },
   "Cloud Kingdom Post Game": {
     "connects_to": [
@@ -346,7 +346,7 @@
   "Cloud Kingdom Moon Rock": {
     "connects_to": [
     ],
-    "requires": "|Moon Power|"
+    "requires": "{OptOne(|Moon Power All|)} or {OptOne(|Moon Power Cloud|)}"
   },
   "Lost Kingdom Post Game": {
     "connects_to": [
@@ -357,7 +357,7 @@
   "Lost Kingdom Moon Rock": {
     "connects_to": [
     ],
-    "requires": "|Moon Power|"
+    "requires": "{OptOne(|Moon Power All|)} or {OptOne(|Moon Power Lost|)}"
   },
   "Metro Kingdom Post Game": {
     "connects_to": [
@@ -368,7 +368,7 @@
   "Metro Kingdom Moon Rock": {
     "connects_to": [
     ],
-    "requires": "|Moon Power|"
+    "requires": "{OptOne(|Moon Power All|)} or {OptOne(|Moon Power Metro|)}"
   },
   "Snow Kingdom Post Game": {
     "connects_to": [
@@ -379,7 +379,7 @@
   "Snow Kingdom Moon Rock": {
     "connects_to": [
     ],
-    "requires": "|Moon Power|"
+    "requires": "{OptOne(|Moon Power All|)} or {OptOne(|Moon Power Snow|)}"
   },
   "Seaside Kingdom Post Game": {
     "connects_to": [
@@ -390,7 +390,7 @@
   "Seaside Kingdom Moon Rock": {
     "connects_to": [
     ],
-    "requires": "|Moon Power|"
+    "requires": "{OptOne(|Moon Power All|)} or {OptOne(|Moon Power Seaside|)}"
   },
   "Luncheon Kingdom Post Game": {
     "connects_to": [
@@ -401,7 +401,7 @@
   "Luncheon Kingdom Moon Rock": {
     "connects_to": [
     ],
-    "requires": "|Moon Power|"
+    "requires": "{OptOne(|Moon Power All|)} or {OptOne(|Moon Power Luncheon|)}"
   },
   "Ruined Kingdom Post Game": {
     "connects_to": [
@@ -412,7 +412,7 @@
   "Ruined Kingdom Moon Rock": {
     "connects_to": [
     ],
-    "requires": "|Moon Power|"
+    "requires": "{OptOne(|Moon Power All|)} or {OptOne(|Moon Power Ruined|)}"
   },
   "Bowser Kingdom Post Game": {
     "connects_to": [
@@ -423,7 +423,7 @@
   "Bowser Kingdom Moon Rock": {
     "connects_to": [
     ],
-    "requires": "|Moon Power|"
+    "requires": "{OptOne(|Moon Power All|)} or {OptOne(|Moon Power Bowser|)}"
   },
   "Moon Kingdom Post Game": {
     "connects_to": [
@@ -434,7 +434,7 @@
   "Moon Kingdom Moon Rock": {
     "connects_to": [
     ],
-    "requires": "|Moon Power|"
+    "requires": "{OptOne(|Moon Power All|)} or {OptOne(|Moon Power Moon|)}"
   },
   "Dark Side": {
     "connects_to": [

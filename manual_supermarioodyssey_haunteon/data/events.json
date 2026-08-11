@@ -2,69 +2,89 @@
   {
     "name": "High Jump",
     "requires": "{OptOne(|Triple Jump|)} or {OptOne(|Back Flip|)} or {OptOne(|Side Flip|)} or ({OptAll(|Ground Pound| and |Ground Pound Jump|)})",
-    "category": ["Movement"],
-	"visible": true
+    "category": [
+      "Movement"
+    ],
+    "visible": true
   },
   {
     "name": "Momentum",
     "requires": "{OptOne(|Long Jump|)} or {OptOne(|Roll|)} or {OptOne(|Dive|)}",
-    "category": ["Movement"],
-	"visible": true
+    "category": [
+      "Movement"
+    ],
+    "visible": true
   },
   {
     "name": "Cap Vault",
     "requires": "{OptAll(|Dive|)} and {OptOne(|Cap Jump|)}",
-    "category": ["Movement"],
-	"visible": true
+    "category": [
+      "Movement"
+    ],
+    "visible": true
   },
   {
     "name": "Pyramid Skip",
     "region": "Sand Kingdom 1st Visit",
     "requires": "({OptOne(|Bullet Bill|)} or (|Cap Vault| and ({OptOne(|Long Jump|)} or {OptOne(|Triple Jump|)})))",
-    "category": ["Movement"],
-	"visible": false
+    "category": [
+      "Movement"
+    ],
+    "visible": false
   },
   {
     "name": "Into the Lake",
     "region": "Sand Kingdom 1st Visit",
     "requires": "(({OptAll(|Zipper| and |Swim|)}) or (|Cap Vault| and (|High Jump| or ({OptOne(|Long Jump|)} or ({OptOne(Triple Jump)} and {OptOne(|Wall Jump|)})))) or ({OptAll(|Cap Jump| and |Triple Jump| and |Wall Jump| and |Goomba|)}))",
-    "category": ["Movement"],
-	"visible": false
+    "category": [
+      "Movement"
+    ],
+    "visible": false
   },
   {
     "name": "Above the Lake",
     "region": "Lake Kingdom Into the Lake",
     "requires": "{OptOne(|Cheep Cheep|)} or {OptOne(|Swim|)} or |Cap Vault|",
-    "category": ["Movement"],
-	"visible": false
+    "category": [
+      "Movement"
+    ],
+    "visible": false
   },
   {
     "name": "Maze Skip",
     "region": "Wooded Kingdom 1st Visit",
     "requires": "{OptOne(|Uproot|)} or |Cap Vault|",
-    "category": ["Movement"],
-	"visible": false
+    "category": [
+      "Movement"
+    ],
+    "visible": false
   },
   {
     "name": "To the Wall",
     "region": "Wooded Kingdom Post Spewart",
     "requires": "{OptOne(|Hold/Throw|)} or (|High Jump| and |Cap Vault|) or ({OptAll(|Uproot| and |Dive|)})",
-    "category": ["Movement"],
-	"visible": false
+    "category": [
+      "Movement"
+    ],
+    "visible": false
   },
   {
     "name": "Sherm Wall",
     "region": "Wooded Kingdom Post Spewart",
     "requires": "|To the Wall| and ({OptOne(|Sherm|)} or ({OptAll(|Goomba| and |Wall Jump| and |Dive|)}))",
-    "category": ["Movement"],
-	"visible": false
+    "category": [
+      "Movement"
+    ],
+    "visible": false
   },
   {
     "name": "View of Lost",
     "region": "Lost Kingdom 1st Visit",
     "requires": "{OptAll(|Ground Pound| and |Wall Jump|)}",
-    "category": ["Movement"],
-	"visible": false
+    "category": [
+      "Movement"
+    ],
+    "visible": false
   },
   {
     "name": "After Gusty Barrier",
@@ -76,7 +96,7 @@
     "region": "Luncheon Kingdom Post Spewart",
     "category": [
       "Movement",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Lava Bubble|)} or ({OptOne(|Dive|)} and ({OptOne(|Triple Jump|)} or {OptOne(|Cap Jump|)} or ({OptAll(|Ground Pound| and |Ground Pound Jump|)})))",
     "visible": false
@@ -86,7 +106,7 @@
     "region": "Luncheon Kingdom Post Cheese",
     "category": [
       "Movement",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Volbonan|)} or ({OptOne(|Wall Jump|)} and {OptOne(|Dive|)} and (|High Jump| or {OptOne(|Spin|)})) or (|High Jump| and ({OptOne(|Cap Jump|)} or |Cap Vault|))",
     "visible": false
@@ -96,7 +116,7 @@
     "region": "Bowser Kingdom 1st Visit",
     "category": [
       "Movement",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Pokio|)} or ({OptOne(|Dive|)} and ({OptOne(|Back Flip|)} or {OptOne(|Wall Jump|)} or ({OptAll(|Ground Pound| and |Ground Pound Jump|)})))",
     "visible": false
@@ -106,7 +126,7 @@
     "region": "Bowser Kingdom Courtyards",
     "category": [
       "Movement",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Pokio|)} or (|High Jump| and |Cap Vault|)",
     "visible": false
@@ -116,7 +136,7 @@
     "region": "Moon Kingdom 1st Visit",
     "category": [
       "Movement",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{OptOne(|Parabones|)} or (|Cap Vault| and ({OptAll(|Long Jump| or |Triple Jump|)}))",
     "visible": false
@@ -126,7 +146,7 @@
     "region": "Moon Kingdom 1st Visit",
     "category": [
       "Movement",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "(|Parabones Skip| and {OptAll(|Banzai Bill| and |Spark Pylon|)})",
     "visible": false
@@ -136,7 +156,7 @@
     "region": "Moon Kingdom 1st Visit",
     "category": [
       "Movement",
-	  "Post Metro"
+      "Post Metro"
     ],
     "requires": "{YamlEnabled(moon_cave_skip)} and {OptOne(|Cap Jump|)} and {OptOne(|Wall Jump|)} and ({OptOne(|Back Flip|)} or ({OptAll(|Ground Pound| and |Ground Pound Jump|)}))",
     "visible": false
@@ -341,5 +361,5 @@
     "name": "Sheep Mushroom",
     "copy_location": "Herding Sheep at Peach's Castle",
     "visible": false
-  },
+  }
 ]

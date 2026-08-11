@@ -28,7 +28,7 @@
       "display_name": "Generic Moons",
       "description": [
         "All power moons will be generic power moons instead of Kingdom specific Moons",
-"This also adds Progressive Kingdom Unlock items"
+        "This also adds Progressive Kingdom Unlock items"
       ],
       "type": "Toggle",
       "default": false,
@@ -65,7 +65,7 @@
       "group": "Item Options",
       "hidden": true
     },
-	"capture_sanity": {
+    "capture_sanity": {
       "display_name": "Capture Sanity",
       "description": [
         "Adds all 52 Captures as locations."
@@ -73,7 +73,7 @@
       "type": "Toggle",
       "default": false,
       "group": "Location Options",
-	  "hidden": true
+      "hidden": true
     },
     "action_randomizer": {
       "display_name": "Shuffle Actions",
@@ -145,6 +145,19 @@
         "Requires Exclude Post Metro = FALSE",
         "Requires Post Game Moons = TRUE",
         "Adds Moon Rock moons as locations."
+      ],
+      "type": "Toggle",
+      "default": false,
+      "group": "Location Options",
+      "hidden": false
+    },
+    "individual_rocks": {
+      "display_name": "Individual Moon Rocks",
+      "description": [
+        "Requires Exclude Post Metro = FALSE",
+        "Requires Post Game Moons = TRUE",
+        "Requires Include Moon Rock Moons = True",
+        "This option randomizes each Moon Rock individually"
       ],
       "type": "Toggle",
       "default": false,

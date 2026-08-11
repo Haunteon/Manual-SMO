@@ -206,7 +206,7 @@
     "category": [
       "01 Cap Kingdom",
       "Post Game",
-	  "Toadette Peach"
+      "Toadette Peach"
     ],
     "requires": "|Suitcase|",
     "sort-key": "row-01-016"
@@ -552,7 +552,7 @@
     "category": [
       "02 Cascade Kingdom",
       "Post Game",
-	  "Toadette Peach"
+      "Toadette Peach"
     ],
     "requires": "|Suitcase|",
     "sort-key": "row-02-021"
@@ -1053,7 +1053,7 @@
     "category": [
       "03 Sand Kingdom",
       "Post Peace",
-	  "Toadette Sheep"
+      "Toadette Sheep"
     ],
     "requires": "",
     "sort-key": "row-03-033"
@@ -1074,7 +1074,7 @@
     "category": [
       "03 Sand Kingdom",
       "Post Peace",
-	  "Toadette Goombette"
+      "Toadette Goombette"
     ],
     "requires": "{OptOne(|Goomba|)}",
     "sort-key": "row-03-035"
@@ -1159,7 +1159,7 @@
     "region": "Sand Kingdom 1st Visit",
     "category": [
       "03 Sand Kingdom",
-	  "Toadette Slots"
+      "Toadette Slots"
     ],
     "requires": "",
     "sort-key": "row-03-044"
@@ -1396,7 +1396,7 @@
     "category": [
       "03 Sand Kingdom",
       "Post Game",
-	  "Toadette Peach"
+      "Toadette Peach"
     ],
     "requires": "|Suitcase|",
     "sort-key": "row-03-069"
@@ -1517,7 +1517,7 @@
     "category": [
       "03 Sand Kingdom",
       "Moon Rock",
-	  "Toadette Goombette"
+      "Toadette Goombette"
     ],
     "requires": "{OptOne(|Goomba|)}",
     "sort-key": "row-03-081"
@@ -1912,7 +1912,7 @@
     "category": [
       "04 Lake Kingdom",
       "Post Game",
-	  "Toadette Peach"
+      "Toadette Peach"
     ],
     "requires": "|Suitcase|",
     "sort-key": "row-04-033"
@@ -1973,7 +1973,7 @@
     "category": [
       "04 Lake Kingdom",
       "Moon Rock",
-	  "Toadette Goombette"
+      "Toadette Goombette"
     ],
     "requires": "{OptOne(Goomba)}",
     "sort-key": "row-04-039"
@@ -2200,7 +2200,7 @@
     "region": "Wooded Kingdom Post Spewart",
     "category": [
       "05 Wooded Kingdom",
-	  "Toadette Goombette"
+      "Toadette Goombette"
     ],
     "requires": "{OptOne(|Goomba|)} and |To the Wall|",
     "sort-key": "row-05-021"
@@ -2509,7 +2509,7 @@
     "category": [
       "05 Wooded Kingdom",
       "Post Game",
-	  "Toadette Peach"
+      "Toadette Peach"
     ],
     "requires": "|Suitcase|",
     "sort-key": "row-05-054"
@@ -2700,7 +2700,7 @@
     "category": [
       "05 Wooded Kingdom",
       "Moon Rock",
-	  "Toadette Sheep"
+      "Toadette Sheep"
     ],
     "requires": "",
     "sort-key": "row-05-073"
@@ -2711,7 +2711,7 @@
     "category": [
       "05 Wooded Kingdom",
       "Moon Rock",
-	  "Toadette Sheep"
+      "Toadette Sheep"
     ],
     "requires": "",
     "sort-key": "row-05-074"
@@ -2752,7 +2752,7 @@
     "category": [
       "06 Cloud Kingdom",
       "Post Game",
-	  "Toadette Peach"
+      "Toadette Peach"
     ],
     "requires": "|Suitcase|",
     "sort-key": "row-06-002"
@@ -3052,7 +3052,7 @@
     "category": [
       "07 Lost Kingdom",
       "Post Game",
-	  "Toadette Peach"
+      "Toadette Peach"
     ],
     "requires": "|Suitcase| and |View of Lost|",
     "sort-key": "row-07-025"
@@ -3417,7 +3417,7 @@
     "region": "Metro Kingdom Day",
     "category": [
       "08 Metro Kingdom",
-	  "Toadette Slots"
+      "Toadette Slots"
     ],
     "requires": "",
     "sort-key": "row-08-028"
@@ -3775,7 +3775,7 @@
     "category": [
       "08 Metro Kingdom",
       "Post Game",
-	  "Toadette Peach"
+      "Toadette Peach"
     ],
     "requires": "|Suitcase|",
     "sort-key": "row-08-066"
@@ -4315,7 +4315,7 @@
     "category": [
       "09 Snow Kingdom",
       "Post Game",
-	  "Toadette Peach"
+      "Toadette Peach"
     ],
     "requires": "|Suitcase|",
     "sort-key": "row-09-037"
@@ -4822,7 +4822,7 @@
     "category": [
       "10 Seaside Kingdom",
       "Post Metro",
-	  "Toadette Goombette"
+      "Toadette Goombette"
     ],
     "requires": "{OptOne(|Goomba|)}",
     "sort-key": "row-10-032"
@@ -5026,7 +5026,7 @@
     "category": [
       "10 Seaside Kingdom",
       "Post Game",
-	  "Toadette Peach"
+      "Toadette Peach"
     ],
     "requires": "|Suitcase|",
     "sort-key": "row-10-052"
@@ -5473,7 +5473,7 @@
     "category": [
       "11 Luncheon Kingdom",
       "Post Metro",
-	  "Toadette Goombette"
+      "Toadette Goombette"
     ],
     "requires": "{OptOne(|Goomba|)}",
     "sort-key": "row-11-024"
@@ -5494,7 +5494,7 @@
     "category": [
       "11 Luncheon Kingdom",
       "Post Metro",
-	  "Toadette Slots"
+      "Toadette Slots"
     ],
     "requires": "",
     "sort-key": "row-11-026"
@@ -5798,7 +5798,7 @@
     "category": [
       "11 Luncheon Kingdom",
       "Post Game",
-	  "Toadette Peach"
+      "Toadette Peach"
     ],
     "requires": "|Suitcase|",
     "sort-key": "row-11-056"
@@ -5974,7 +5974,7 @@
     "category": [
       "12 Ruined Kingdom",
       "Post Game",
-	  "Toadette Peach"
+      "Toadette Peach"
     ],
     "requires": "|Suitcase|",
     "sort-key": "row-12-005"
@@ -6479,7 +6479,7 @@
     "category": [
       "13 Bowser Kingdom",
       "Post Game",
-	  "Toadette Peach"
+      "Toadette Peach"
     ],
     "requires": "|Suitcase|",
     "sort-key": "row-13-044"
@@ -7160,7 +7160,7 @@
     "category": [
       "15 Mushroom Kingdom",
       "Post Game",
-	  "Toadette Sheep"
+      "Toadette Sheep"
     ],
     "requires": "",
     "sort-key": "row-15-012"
@@ -7201,7 +7201,7 @@
     "category": [
       "15 Mushroom Kingdom",
       "Post Game",
-	  "Toadette Goombette"
+      "Toadette Goombette"
     ],
     "requires": "{OptOne(|Goomba|)}",
     "sort-key": "row-15-016"
