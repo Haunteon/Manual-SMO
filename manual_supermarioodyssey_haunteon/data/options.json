@@ -27,7 +27,8 @@
     "generic_moons": {
       "display_name": "Generic Moons",
       "description": [
-        "Determines if Power Moons are Kingdom Specific"
+        "All power moons will be generic power moons instead of Kingdom specific Moons",
+"This also adds Progressive Kingdom Unlock items"
       ],
       "type": "Toggle",
       "default": false,
