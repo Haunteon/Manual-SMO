@@ -40,7 +40,9 @@ See [FAQ](https://github.com/Haunteon/Manual-SMO/blob/main/manual_supermarioodys
 	  - Goombette Moons
 	  - Slots Moon
 	  - Sheep Moon
-	  
+	  - 
+	- New Yaml Options
+	  - Individual Kingdom Moon Rock Items
   - Logic Fixes
     - From the Broken Pillar - Remove Swim (Can delay sinking with cap throw)
 	- On the Lone Pillar - Add Bullet Bill (can reach with bullet bill only using motion controls)
