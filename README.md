@@ -16,6 +16,7 @@ See [FAQ](https://github.com/Haunteon/Manual-SMO/blob/main/manual_supermarioodys
 - Lake/Wooded split logic still causing problems
 - Potential softlocks in Wooded and Sand Kingdom
 - Document Progressive Kingdom Unlocks
+- Generic Moons option description confusing
 # Not Yet Implemented
 - Action Shuffle
   - Extra actions not in Action Guide
@@ -29,7 +30,8 @@ See [FAQ](https://github.com/Haunteon/Manual-SMO/blob/main/manual_supermarioodys
   - Return to nearest checkpoint/Odyssey/Death 
   - Challenge Trap
     - Reverse controls?
-    - No Cappy: 30 Seconds 
+    - No Cappy: 30 Seconds
+- Per Kingdom Moon Rock Items (specific moon rocks vs generic moon rock)
 ## Changelog
 - 2.0.4
   - New Additions
