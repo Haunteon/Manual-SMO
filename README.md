@@ -46,6 +46,8 @@ See [FAQ](https://github.com/Haunteon/Manual-SMO/blob/main/manual_supermarioodys
   - Logic Fixes
     - From the Broken Pillar - Remove Swim (Can delay sinking with cap throw)
 	- On the Lone Pillar - Add Bullet Bill (can reach with bullet bill only using motion controls)
+	- Secret Path to Peach's Castle - Category was set to Post Game instead of Post Metro
+	- Moon Cave Skip Event - Properly Disabled if yaml option is off
 
 - 2.0.3
   - Logic Fixes

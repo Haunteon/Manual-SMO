@@ -156,7 +156,8 @@
     "region": "Moon Kingdom 1st Visit",
     "category": [
       "Movement",
-      "Post Metro"
+      "Post Metro",
+	  "Moon Cave Skip"
     ],
     "requires": "{YamlEnabled(moon_cave_skip)} and {OptOne(|Cap Jump|)} and {OptOne(|Wall Jump|)} and ({OptOne(|Back Flip|)} or ({OptAll(|Ground Pound| and |Ground Pound Jump|)}))",
     "visible": false

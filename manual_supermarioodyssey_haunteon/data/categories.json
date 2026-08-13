@@ -120,5 +120,11 @@
       "!individual_rocks"
     ],
     "hidden": true
+  },
+  "Moon Cave Skip": {
+    "yaml_option": [
+      "moon_cave_skip"
+    ],
+    "hidden": true
   }
 }
