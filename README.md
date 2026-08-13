@@ -17,6 +17,7 @@ See [FAQ](https://github.com/Haunteon/Manual-SMO/blob/main/manual_supermarioodys
 - Potential softlocks in Wooded and Sand Kingdom
 - Document Progressive Kingdom Unlocks
 - Generic Moons option description confusing
+- Double Check all events categories that should be disabled with yaml options (moon cave skip especially)
 # Not Yet Implemented
 - Action Shuffle
   - Extra actions not in Action Guide
