@@ -16,8 +16,6 @@ See [FAQ](https://github.com/Haunteon/Manual-SMO/blob/main/manual_supermarioodys
 - Lake/Wooded split logic still causing problems
 - Potential softlocks in Wooded and Sand Kingdom
 - Document Progressive Kingdom Unlocks
-- Generic Moons option description confusing
-- Double Check all events categories that should be disabled with yaml options (moon cave skip especially)
 # Not Yet Implemented
 - Action Shuffle
   - Extra actions not in Action Guide
@@ -32,7 +30,6 @@ See [FAQ](https://github.com/Haunteon/Manual-SMO/blob/main/manual_supermarioodys
   - Challenge Trap
     - Reverse controls?
     - No Cappy: 30 Seconds
-- Per Kingdom Moon Rock Items (specific moon rocks vs generic moon rock)
 ## Changelog
 - 2.0.4
   - New Additions
@@ -42,8 +39,9 @@ See [FAQ](https://github.com/Haunteon/Manual-SMO/blob/main/manual_supermarioodys
 	  - Slots Moon
 	  - Sheep Moon
 	  - 
-	- New Yaml Options
-	  - Individual Kingdom Moon Rock Items
+	- Yaml Options
+	  - Added: Individual Kingdom Moon Rock Items
+	  - Changed: Generic Moons Description
   - Logic Fixes
     - From the Broken Pillar - Remove Swim (Can delay sinking with cap throw)
 	- On the Lone Pillar - Add Bullet Bill (can reach with bullet bill only using motion controls)
