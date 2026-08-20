@@ -2352,7 +2352,7 @@
       "05 Wooded Kingdom",
       "Post Peace"
     ],
-    "requires": "{OptOne(|Down Throw|)}",
+    "requires": "{OptOne(|Swing|)}",
     "sort-key": "row-05-037"
   },
   {
@@ -2362,7 +2362,7 @@
       "05 Wooded Kingdom",
       "Post Peace"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Down Throw|)}",
     "sort-key": "row-05-038"
   },
   {
@@ -6266,7 +6266,7 @@
   },
   {
     "name": "Poking Your Nose by the Great Gate",
-    "region": "Bowser Kingdom Post Peace",
+    "region": "Bowser Kingdom Poison Swamp",
     "category": [
       "13 Bowser Kingdom",
       "Post Peace",
