@@ -2059,7 +2059,7 @@
     "category": [
       "05 Wooded Kingdom"
     ],
-    "requires": "",
+    "requires": "{OptOne(|Sherm|)}",
     "sort-key": "row-05-005"
   },
   {
