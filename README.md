@@ -31,6 +31,11 @@ See [FAQ](https://github.com/Haunteon/Manual-SMO/blob/main/manual_supermarioodys
   - Challenge Trap
     - Reverse controls?
     - No Cappy: 30 Seconds
+- 8-bit Characters
+  - Mario
+  - Peach
+  - Rosalina
+  - Luigi/Toad
 ## Changelog
 - 2.0.4
   - New Additions
