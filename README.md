@@ -17,6 +17,7 @@ See [FAQ](https://github.com/Haunteon/Manual-SMO/blob/main/manual_supermarioodys
 - Potential softlocks in Wooded and Sand Kingdom
 - Document Progressive Kingdom Unlocks
 - Behind the Rock wall logic error
+- Tourist in Cascade + Tourist 2 Event if goal is Bowser?
 # Not Yet Implemented
 - Action Shuffle
   - Extra actions not in Action Guide
