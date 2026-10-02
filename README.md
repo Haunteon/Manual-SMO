@@ -56,6 +56,7 @@ See [FAQ](https://github.com/Haunteon/Manual-SMO/blob/main/manual_supermarioodys
 	- Moon Cave Skip Event - Properly Disabled if yaml option is off
 	- Wooded Kingdom Timer Challenges - Logic was swapped
 	- Poking by the Great Gate - Fixed Region
+	- Cascade Tourist properly disabled when post peace moons are off
 
 - 2.0.3
   - Logic Fixes
