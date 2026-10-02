@@ -40,6 +40,7 @@
     "region": "Sand Kingdom Post Peace",
     "category": [
       "00 Events",
+	  "Post Peace",
       "Post Metro"
     ],
     "requires": "",
@@ -533,6 +534,7 @@
     "region": "Cascade Kingdom Post Peace",
     "category": [
       "02 Cascade Kingdom",
+	  "Post Peace",
       "Post Metro"
     ],
     "requires": "|Tourist 1|",
