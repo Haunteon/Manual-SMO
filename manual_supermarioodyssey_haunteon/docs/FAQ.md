@@ -48,6 +48,14 @@ These numbers can be changed in yaml options and should appear in the manual cli
 - Luncheon: 18
 - Ruined: 3
 - Bowser's: 8
+## Progressive Kingdom Unlocks:
+- Sand: 1
+- Cloud: 2
+- Metro: 3
+- Luncheon: 4
+- Ruined: 5
+- Bowser's: 6
+- Moon: 7
 ## Starting Captures
 - Frog
 - Spark Pylon (Wire)
