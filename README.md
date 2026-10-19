@@ -15,9 +15,6 @@ See [FAQ](https://github.com/Haunteon/Manual-SMO/blob/main/manual_supermarioodys
 ## Known Issues
 - Lake/Wooded split logic still causing problems
 - Potential softlocks in Wooded and Sand Kingdom
-- Document Progressive Kingdom Unlocks
-- Behind the Rock wall logic error
-- Tourist in Cascade + Tourist 2 Event if goal is Bowser?
 # Not Yet Implemented
 - Action Shuffle
   - Extra actions not in Action Guide
@@ -45,7 +42,6 @@ See [FAQ](https://github.com/Haunteon/Manual-SMO/blob/main/manual_supermarioodys
 	  - Goombette Moons
 	  - Slots Moon
 	  - Sheep Moon
-	  - 
 	- Yaml Options
 	  - Added: Individual Kingdom Moon Rock Items
 	  - Changed: Generic Moons Description
@@ -56,7 +52,9 @@ See [FAQ](https://github.com/Haunteon/Manual-SMO/blob/main/manual_supermarioodys
 	- Moon Cave Skip Event - Properly Disabled if yaml option is off
 	- Wooded Kingdom Timer Challenges - Logic was swapped
 	- Poking by the Great Gate - Fixed Region
-	- Cascade Tourist properly disabled when post peace moons are off
+	- Cascade Tourist - properly disabled when post peace moons are off
+	- Behind the Rock wall - Proper Logic
+  - Documented Progressive Kingdom Unlocks
 
 - 2.0.3
   - Logic Fixes
