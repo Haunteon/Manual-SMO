@@ -38,10 +38,28 @@ See [FAQ](https://github.com/Haunteon/Manual-SMO/blob/main/manual_supermarioodys
 - 2.0.4
   - New Additions
     - Added/Changed Logic to Toadette Moons
-	  - Princess Peach Moons
+	  - 2D Moons
+	  - Chest Moons
+	  - Note Moons
+	  - Timer Moons
+	  - Captain Toad
+	  - Peach Moons
+	  - Sheep Moons
 	  - Goombette Moons
-	  - Slots Moon
-	  - Sheep Moon
+	  - Lakitu Moons
+	  - Seed Moons
+	  - Rabbit Moons
+	  - ~~Ground Pound Moons~~
+	  - Spinner Moons
+	  - Bird Moons
+	  - Outfit Moons
+	  - Hat and Seek Moons
+	  - Jammin Moons
+	  - Hint Art Moons
+	  - Slot Moons
+	  - Koop Freerunning Moons
+	  - Koopa Trace-Walking Moons
+	  - Sphynx Moons
 	- Yaml Options
 	  - Added: Individual Kingdom Moon Rock Items
 	  - Changed: Generic Moons Description
