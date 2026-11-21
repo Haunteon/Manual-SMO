@@ -119,6 +119,8 @@ Defeating Hariet in Sand Kingdom causes these moons to be inaccessible until aft
 - Hidden Room in the Inverted Pyramid
 
 ## Wooded Kingdom
-Defeating Spewart in Wooded Kingdom Causes these moons to be inaccessible until ??? (Potentially Softlocking)
+Defeating Spewart in Wooded Kingdom Causes these moons to be inaccessible until You can climb the sherm wall (Potentially Softlocking)
 
-- 
+- Cracked Nut on a Crumbling Tower
+- Nut Planted in the Tower
+- Stretching Your Legs
